@@ -1,0 +1,9 @@
+---
+title: "International Olympiad of the Association : Global Universities , Olympiad "
+collection: achievements
+type: "Won a fully funded scholarship for Masters track. Subject Area: Computer and Data SCience. Rank: 46 , Status: Prize Winner"
+permalink: https://od.globaluni.ru/upload/iblock/ca9/7u7w79a70e23idjoz3k8axq0zs1wl537.pdf
+venue: ""
+date: 2024-02-20
+location: "OpenDoors, Russian Scholarsip Project Association."
+---
