@@ -8,8 +8,7 @@ redirect_from:
 ---
 Educational Background
 ======
-**Degree:** B.Sc. in Computer Science and Engineering  
-**CGPA:** = 3.**  
+**Degree:** B.Sc. in Computer Science and Engineering   
 **Institution:** North South University  
 **Year of Graduation:** 2022  
 
