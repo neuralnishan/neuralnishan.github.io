@@ -17,6 +17,9 @@ main:
   - title: "Achievements"
     url: /achievments/    
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Teaching"
     url: /teaching/    
     
@@ -28,9 +31,6 @@ main:
 
   - title: "Publications"
     url: /publications/  
-      
-  - title: "CV"
-    url: /cv/
     
   - title: "Guide"
     url: /markdown/
