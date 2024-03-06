@@ -11,37 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc in Computer Science and Engineering, North South University, 2022
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data Analyst
+  * Head Gear LTD.
+  * Duties included: Unveiled key trends and patterns through EDA, Making Dasboards on Tableau
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Junior Software Developer Intern
+  * Head Gear LTD.
+  * Duties included: API specifications, Code documentation, 
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, SQL, R, C/C++, Java, HTML, JS, React, Flask
+* Tools, Frameworks & Libraries
+  * Jupyter Notebook, Google Colab, Anaconda navigator
+  * Tensorflow, Pytorch, OpenCV
+  * Sci-kit learn
+  * NumPy
+  * Pandas
+  * Scipy
+  * Matplotlib, Plotly
+* EDA & DataViz,
+  * Tableu 
+  * MS PowerBI
+* Cloud
+  * Oracle Cloud Infrastructure
+  * MS Azure
+  * AWS Sagemaker Studio
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+
 Projects
 ======
   <ul>{% for post in site.projects %}
@@ -54,12 +58,3 @@ Achievements
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
