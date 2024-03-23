@@ -12,4 +12,13 @@ As a data professional, I am characterized by unwavering motivation, fervent pas
 Beyond my technical prowess, I am deeply committed to advancing principles of diversity, equity, and inclusion, fostering a climate of belonging within any professional milieu. My adaptability extends to remote work arrangements, a mode of operation I have honed to a fine art. I take pride in my ability to distill complex raw data into actionable, meaningful insights, a skill set indispensable in delivering value to stakeholders and propelling data-driven decision-making processes.
 {: .notice}
 
+---
+## My skills as an Oracle Cloud Infrastructure (OCI) Data Science Professional: 
 
+>I am able to leverage my understanding of OCI's data science capabilities to assess business needs and select the most suitable services for building effective ML solutions.
+
+>I can utilize my expertise in Oracle Data and AI services to design, develop, train, and deploy machine learning models on OCI. 
+
+>I can integrate industry standards for Machine Learning (ML) and cloud computing into the solutions . 
+
+>I possess a comprehensive understanding of the ML development process, managing the  lifecycle of models on Oracle Cloud, including data ingestion, design, development, training, optimization, deployment, integration, and maintenance.
