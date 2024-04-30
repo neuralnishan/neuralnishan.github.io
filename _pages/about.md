@@ -14,7 +14,10 @@ Beyond my technical prowess, I am deeply committed to advancing principles of di
 
 
 ---
-## Microsoft  Certification
+# Microsoft  Certification
+![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
+
+
 
 ### Microsoft Certified: Azure Data Scientist Associate
 
