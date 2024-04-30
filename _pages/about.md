@@ -29,7 +29,7 @@ Beyond my technical prowess, I am deeply committed to advancing principles of di
 
 > Azure Data Scientist Associate Certificate Verification Link : [link](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/A2C48D4C8739EFA2?sharingId=A489942037851738 "Microsoft").
 
-![Score Report Image](/files/microsoft/microsoft_azure_ai_fundamentals_dp_100_score_report.png)
+![Score Report Image](/files/microsoft/microsoft_azure_data_scientist_associate_dp_100_score_report.png)
 > Fig. Azure Data Scientist Associate - DP 100 Score Report - 785 / 1000
 
 
@@ -58,7 +58,7 @@ Beyond my technical prowess, I am deeply committed to advancing principles of di
 ### Microsoft Certified: Azure AI Fundamentals
 
 ![Certificate Image](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png)
-> Fig. Azure Data Scientist Associate Certificate
+> Fig. Azure AI Fundamentals Certificate
 
 ### Skills measured:
 * Describe Artificial Intelligence workloads and considerations
