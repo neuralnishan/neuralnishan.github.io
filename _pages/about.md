@@ -18,8 +18,8 @@ Beyond my technical prowess, I am deeply committed to advancing principles of di
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 # Oracle Cloud Infrastructure Professional  Certification
 ![Certificate Image](/files/oracle/oci_professional_certification.png)
-# Oracle Cloud Infrastructure Associate  Certification
-
+# Oracle Cloud Infrastructure Foundation Associate Certification
+![Certificate Image](/files/oracle/oci_foundation_associate_Certification.png)
 
 ### Microsoft Certified: Azure Data Scientist Associate
 
