@@ -105,23 +105,30 @@ Beyond my technical prowess, I am deeply committed to advancing principles of di
 > Oracle Cloud Infrastructure 2024 Generative AI Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FD54B08E9587B538D8428D35834A2FD8F44C343C4471D92C0F3F5C5FE5F8C9AC "Oracle").
 
 ![Score Report Image](/files/oracle/oci_generative_ai_2024_professional_score_report.png)
-> Fig. OCI Generative AI Professional Exam - 1Z0-1127-24, Score Report - 78 / 100
+> Fig. Oracle Cloud Infrastructure 2024 Generative AI Professional Exam - 1Z0-1127-24, Score Report - 78 / 100
 
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2023 Data Science Professional
 
 ![Certificate Image](/files/oracle/oci_data_science_professional_2023_certificate.png)
-> Fig. Azure Data Scientist Associate Certificate
+> Fig. Oracle Cloud Infrastructure 2023 Data Science Professional Certificate
 
 ### Skills measured
-* Understand Large Language Models (LLMs)
-* Proficient in using OCI Generative AI Service
-* Build a Retrieval-Augmented Generation (RAG) based chatbot using OCI Generative AI Service
+* Identify OCI services to implement an ML solution for a business use case
+* Apply OCI Data & AI services to create ML solutions
+* Incorporate ML and cloud best practices
+* Use OCI Data Science to ingest
+* design
+* build
+* train
+* optimize
+* deploy
+* integrate and maintain ML models
 
-> OOracle Cloud Infrastructure 2023 Data Science Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8A82C2D31FB593334F809EAEB0C0A50E565147CEEAAA910C38C674548536767A "Oracle").
+> Oracle Cloud Infrastructure 2023 Data Science Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8A82C2D31FB593334F809EAEB0C0A50E565147CEEAAA910C38C674548536767A "Oracle").
 
 ![Score Report Image](/files/oracle/oci_data_science_professional_2023_score_report.png)
-> Fig. Oracle Cloud Infrastructure 2024 Generative AI Professional Exam - 1Z0-1127-24 Score Report - 67.3 / 100
+> Fig. Oracle Cloud Infrastructure 2023 Data Science Professional Exam - 1Z0-1110-23 Score Report - 67.3 / 100
 
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2023 AI Foundations Associate
@@ -158,7 +165,7 @@ Beyond my technical prowess, I am deeply committed to advancing principles of di
 > Oracle Cloud Infrastructure 2023 Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8ED80AB7B3D7A0637CB0891F7AF16E7FCDC6B91D8573FD426D434613C8478259 "Oracle").
 
 ![Score Report Image](/files/oracle/oci_2023_foundation_associate_score_report.png)
-> Fig. Oracle Cloud Infrastructure 2023 Foundations Associate Certificate Exam - 1Z0-1122-23, Score Report - 100 / 100
+> Fig. Oracle Cloud Infrastructure 2023 Foundations Associate Certificate Exam - 1Z0-1085-23, Score Report - 100 / 100
 
 
 
@@ -180,5 +187,5 @@ Beyond my technical prowess, I am deeply committed to advancing principles of di
 > Oracle Cloud Data Management 2023 Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8ED80AB7B3D7A0637CB0891F7AF16E7FCDC6B91D8573FD426D434613C8478259 "Oracle").
 
 ![Score Report Image](/files/oracle/oci_data_management_2023_foundation_associate_score_report.png)
-> Fig. Oracle Cloud Data Management 2023 Foundations Associate Certificate Exam - 1Z0-1122-23, Score Report - 72.7 / 100
+> Fig. Oracle Cloud Data Management 2023 Foundations Associate Certificate Exam - 1Z0-1105-23, Score Report - 72.7 / 100
 
