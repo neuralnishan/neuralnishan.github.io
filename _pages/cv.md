@@ -29,7 +29,7 @@ Skills
 ======
 * Python, SQL, R, C/C++, Java, HTML, JS, React, Flask
 * Tools, Frameworks & Libraries
-  * Jupyter Notebook, Google Colab, Anaconda navigator
+  * Jupyter Notebook, Google Colab, Anaconda Navigator
   * Tensorflow, Pytorch, OpenCV
   * Sci-kit learn
   * NumPy
@@ -37,7 +37,7 @@ Skills
   * Scipy
   * Matplotlib, Plotly
 * EDA & DataViz,
-  * Tableu 
+  * Tableau 
   * MS PowerBI
 * Cloud
   * Oracle Cloud Infrastructure

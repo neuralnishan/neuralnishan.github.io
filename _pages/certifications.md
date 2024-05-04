@@ -3,8 +3,7 @@ layout: archive
 title: "Certifications"
 permalink: /certifications/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 # Microsoft Azure Certificates and Exam Scores
 ### Microsoft Certified: Azure Data Scientist Associate
