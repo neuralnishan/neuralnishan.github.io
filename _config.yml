@@ -258,7 +258,14 @@ defaults:
       layout: achievements
       author_profile: true
       share: true
-
+  # _certifications
+  - scope:
+      path: ""
+      type: certifications
+    values:
+      layout: certifications
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
