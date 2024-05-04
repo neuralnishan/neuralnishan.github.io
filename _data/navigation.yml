@@ -10,7 +10,10 @@ main:
  
   - title: "Experience"
     url: /experience/
- 
+
+   - title: "Certifications"
+    url: /certifications/
+
   - title: "Specialization"
     url: /specialization/
 
