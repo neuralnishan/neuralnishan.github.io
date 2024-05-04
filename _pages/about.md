@@ -19,7 +19,7 @@ Beyond my technical prowess, I am deeply committed to advancing principles of di
 # Oracle Cloud Infrastructure Professional  Certification Badges
 ![Certificate Image](/files/oracle/oci_professional_certification.png)
 # Oracle Cloud Infrastructure Associate Certification Badges
-![Certificate Image](/files/oracle/oci_foundation_associate_Certification.png)
+![Certificate Image](/files/oracle/oci_2023_foundation_associate_certifications.png)
 
 
 # Microsoft Azure Certificates and Exam Scores
