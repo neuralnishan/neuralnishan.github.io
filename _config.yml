@@ -190,9 +190,7 @@ collections:
   achievements:
     output: true
     permalink: /:collection/:path/
-  certifications:
-    output: true
-    permalink: /:collection/:path/
+ 
 
 # Defaults
 defaults:
@@ -256,14 +254,6 @@ defaults:
       type: achievements
     values:
       layout: achievements
-      author_profile: true
-      share: true
-  # _certifications
-  - scope:
-      path: ""
-      type: certifications
-    values:
-      layout: certifications
       author_profile: true
       share: true
 
