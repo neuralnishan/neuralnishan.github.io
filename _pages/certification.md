@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Certification"
+title: "Microsoft & Oracle Certification"
 permalink: /certification/
 author_profile: true
 redirect_from:
