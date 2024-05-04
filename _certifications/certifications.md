@@ -1,8 +1,3 @@
----
-layout: archive
-title: "Certifications"
-permalink: /certifications/
-author_profile: true
 
 ---
 # Microsoft Azure Certificates and Exam Scores
