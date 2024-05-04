@@ -14,13 +14,15 @@ Beyond my technical prowess, I am deeply committed to advancing principles of di
 
 
 ---
-# Microsoft Azure Certification
+# Microsoft Azure Certification Badges
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
-# Oracle Cloud Infrastructure Professional  Certification
+# Oracle Cloud Infrastructure Professional  Certification Badges
 ![Certificate Image](/files/oracle/oci_professional_certification.png)
-# Oracle Cloud Infrastructure Associate Certification
+# Oracle Cloud Infrastructure Associate Certification Badges
 ![Certificate Image](/files/oracle/oci_foundation_associate_Certification.png)
 
+
+# Microsoft Azure Certificates and Exam Scores
 ### Microsoft Certified: Azure Data Scientist Associate
 
 ![Certificate Image](/files/microsoft/microsft_azure_data_scientist_associate_dp_100_certificate.png)
