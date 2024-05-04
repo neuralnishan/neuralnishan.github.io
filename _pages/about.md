@@ -14,10 +14,13 @@ Beyond my technical prowess, I am deeply committed to advancing principles of di
 
 
 ---
-# Microsoft Azure Certification Badges
+> I strengthened my skill set by acquiring the Oracle and Microsoft certifications that the majority of the industry now requires for enhanced career prospects. I have also had quite good commitment for the last two years to these through continuous learning and dedication, and I have obtained both theoretical and hands-on expertise in Azure Cloud and Oracle Cloud Data Science. Additionally, I am able to utilize best practices for cloud computing and machine learning to solve real-world problems.
+
+
+# Microsoft Azure Certification
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
-# Oracle Cloud Infrastructure Professional  Certification Badges
+# Oracle Cloud Infrastructure Professional  Certification 
 ![Certificate Image](/files/oracle/oci_professional_certification.png)
-# Oracle Cloud Infrastructure Associate Certification Badges
+# Oracle Cloud Infrastructure Associate Certification 
 ![Certificate Image](/files/oracle/oci_2023_foundation_associate_certifications.png)
 
