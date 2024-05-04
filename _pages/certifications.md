@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Certification"
-permalink: /certification/
+title: "Certifications"
+permalink: /certifications/
 author_profile: true
 redirect_from:
   - /resume
