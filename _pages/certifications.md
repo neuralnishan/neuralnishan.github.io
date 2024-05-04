@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Certification"
+permalink: /certification/
+author_profile: true
+redirect_from:
+  - /resume
 
 ---
 # Microsoft Azure Certificates and Exam Scores
