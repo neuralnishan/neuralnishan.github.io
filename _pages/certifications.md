@@ -4,8 +4,7 @@ title: "Certifications"
 permalink: /certifications/
 author_profile: true
 redirect_from:
-  - /certifications
-  
+  - /resume
 ---
 # Microsoft Azure Certificates and Exam Scores
 ### Microsoft Certified: Azure Data Scientist Associate
