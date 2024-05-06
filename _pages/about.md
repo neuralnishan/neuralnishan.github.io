@@ -19,6 +19,18 @@ Beyond my technical prowess, I am deeply committed to advancing principles of di
 
 # Microsoft Azure Certification
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
+
+## Azure Odyssey: A Trilogy of Triumph!
+
+### Embarked on an epic quest in the realm of Azure, I’ve conquered three mighty challenges:
+> AI-900: Unveiled the secrets of AI fundamentals.
+> DP-100: Mastered the art of data science.
+> AI-102: Engineered solutions with AI prowess.
+
+I believe that Each certification, a beacon of my intuition guiding me to a future where I craft the extraordinary.
+Onward I march, to a horizon brimming with possibilities, ready to explore the AI landscape.
+{: .notice} 
+
 # Oracle Cloud Infrastructure Professional  Certification 
 ![Certificate Image](/files/oracle/oci_professional_certification.png)
 # Oracle Cloud Infrastructure Associate Certification 
