@@ -16,19 +16,18 @@ Beyond my technical prowess, I am deeply committed to advancing principles of di
 ---
 > I strengthened my skill set by acquiring the Oracle and Microsoft certifications that the majority of the industry now requires for enhanced career prospects. I have also had quite good commitment for the last two years to these through continuous learning and dedication, and I have obtained both theoretical and hands-on expertise in Azure Cloud and Oracle Cloud Data Science. Additionally, I am able to utilize best practices for cloud computing and machine learning to solve real-world problems.
 
-
 # Microsoft Azure Certification
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ## Azure Odyssey: A Trilogy of Triumph!
 
-> AI-900: Unveiled the secrets of AI fundamentals.
-> DP-100: Mastered the art of data science.
-> AI-102: Engineered solutions with AI prowess.
-
+---
 I embarked on an epic quest in the realm of **Azure** , I’ve obtained three mighty challenges.And,I believe that each certification, a beacon of my intuition guiding me to a future where I craft the extraordinary.Onward I march, to a horizon brimming with possibilities, ready to explore the AI landscape.
 {: .notice} 
 
+* AI-900: Unveiled the secrets of AI fundamentals.
+* DP-100: Mastered the art of data science.
+* AI-102: Engineered solutions with AI prowess.
 
 # Oracle Cloud Infrastructure Professional  Certification 
 ![Certificate Image](/files/oracle/oci_professional_certification.png)
