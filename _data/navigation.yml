@@ -8,11 +8,11 @@ main:
   - title: "Education"
     url: /education/
 
-  - title: "Microsoft & Oracle Certification"
-    url: /certification/
- 
   - title: "Experience"
     url: /experience/
+    
+  - title: "Microsoft & Oracle Certification"
+    url: /certification/
 
   - title: "Specialization"
     url: /specialization/
