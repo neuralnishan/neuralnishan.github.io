@@ -12,16 +12,14 @@ As a data professional, I am characterized by unwavering motivation, fervent pas
 Beyond my technical prowess, I am deeply committed to advancing principles of diversity, equity, and inclusion, fostering a climate of belonging within any professional milieu. My adaptability extends to remote work arrangements, a mode of operation I have honed to a fine art. I take pride in my ability to distill complex raw data into actionable, meaningful insights, a skill set indispensable in delivering value to stakeholders and propelling data-driven decision-making processes.
 {: .notice}
 
-
 ---
-> I strengthened my skill set by acquiring the Oracle and Microsoft certifications that the majority of the industry now requires for enhanced career prospects. I have also had quite good commitment for the last two years to these through continuous learning and dedication, and I have obtained both theoretical and hands-on expertise in Azure Cloud and Oracle Cloud Data Science. Additionally, I am able to utilize best practices for cloud computing and machine learning to solve real-world problems.
+I strengthened my skill set by acquiring the **Oracle and Microsoft** certifications that the majority of the industry now requires for enhanced career prospects. I have also had quite good commitment for the last two years to these through continuous learning and dedication, and I have obtained both theoretical and hands-on expertise in Azure Cloud and Oracle Cloud Data Science. Additionally, I am able to utilize best practices for cloud computing and machine learning to solve real-world problems.
+{: .notice} 
 
 # Microsoft Azure Certification
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ## Azure Odyssey: A Trilogy of Triumph!
-
----
 I embarked on an epic quest in the realm of **Azure** , I’ve obtained three mighty challenges.And,I believe that each certification, a beacon of my intuition guiding me to a future where I craft the extraordinary.Onward I march, to a horizon brimming with possibilities, ready to explore the AI landscape.
 {: .notice} 
 
