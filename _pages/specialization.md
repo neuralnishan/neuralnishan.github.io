@@ -10,7 +10,14 @@ redirect_from:
 
 | Specialization Name | Verification Link | Download Link | Year | Organization Name | Format |
 | ------------------- | ------------------ | ------------------- | ---- | ------------------- | ------ |
+
+| [Decision Intelligence](https://www.linkedin.com/learning/certificates/c77e5c559a85e3af16ef1eaaf2e56f3efd94fe34d74022ee8d2fecafb585c6f8) | [Verify here](https://www.linkedin.com/learning/certificates/c77e5c559a85e3af16ef1eaaf2e56f3efd94fe34d74022ee8d2fecafb585c6f8) | [Download Certificate](/files/specialization/linkedinlearning/CertificateOfCompletion_Decision_Intelligence.pdf) | 2024 | LinkedIN Learn | Online |
+
+| [What Is Generative AI?](https://www.linkedin.com/learning/certificates/b4ab3625ddb5e560bc314286fc937a8fa1dd53b90f720a27fa7f9a222f17ca52) | [Verify here](https://www.linkedin.com/learning/certificates/b4ab3625ddb5e560bc314286fc937a8fa1dd53b90f720a27fa7f9a222f17ca52) | [Download Certificate](/files/specialization/linkedinlearning/CertificateOfCompletion_What_Is_Generative_AI.pdf) | 2024 | LinkedIN Learn | Online |
+
+
 | [Elements of AI](https://certificates.mooc.fi/validate/nqz4u6z4amg) | [Verify here](https://certificates.mooc.fi/validate/nqz4u6z4amg) | [Download Certificate](/files/specialization/coursera/certificate-elements-of-ai.pdf) | 2023 | University of Helsinki | Online |
+
 | [Data Science Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_5Pjc8nnpPsLHjjRzY_1700835543297_completion_certificate.pdf) | [Verify here](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_5Pjc8nnpPsLHjjRzY_1700835543297_completion_certificate.pdf) | [Download Certificate](/files/specialization/Forage/DS-Job-Simulation.pdf) | 2023 | BCG, Forage | Virtual |
 | [Data Visualization: Empowering Business with Effective Insights](#) | [Verify here](#) | [Download Certificate](/files/specialization/Forage/DataViz-Forage.pdf) | 2023 | TATA, Forage | Virtual |
 | [Data Science Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_5Pjc8nnpPsLHjjRzY_1700834069383_completion_certificate.pdf) | [Verify here](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_5Pjc8nnpPsLHjjRzY_1700834069383_completion_certificate.pdf) | [Download Certificate](/files/specialization/Forage/DS-Virtual-Exp.pdf) | 2023 | British Airways, Forage | Virtual |
