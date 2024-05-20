@@ -19,7 +19,7 @@ I strengthened my skill set by acquiring the **Oracle and Microsoft** certificat
 # Microsoft Azure Certification
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
-# Microsft Learn Transcript
+# Microsoft Learn Transcript
 Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/dgo20ue5485wyle "Microsoft Learn Transcript").
 
 ## Azure Odyssey: A Trilogy of Triumph!
