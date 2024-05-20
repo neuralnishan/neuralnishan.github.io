@@ -19,13 +19,16 @@ I strengthened my skill set by acquiring the **Oracle and Microsoft** certificat
 # Microsoft Azure Certification
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
+# Microsft Learn Transcript
+Checkout out my Transcript[link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/dgo20ue5485wyle "Microsoft Learn Transcript").
+
 ## Azure Odyssey: A Trilogy of Triumph!
 I embarked on an epic quest in the realm of **Azure** , I’ve obtained three mighty challenges.And,I believe that each certification, a beacon of my intuition guiding me to a future where I craft the extraordinary.Onward I march, to a horizon brimming with possibilities, ready to explore the AI landscape.
 {: .notice} 
 
 * AI-900: Unveiled the secrets of AI fundamentals.
-* DP-100: Mastered the art of data science.
-* AI-102: Engineered solutions with AI prowess.
+* DP-100: Mastered the art of data science on Azure.
+* AI-102: Engineered solutions with AI prowess on Azure.
 
 # Oracle Cloud Infrastructure Professional  Certification 
 ![Certificate Image](/files/oracle/oci_professional_certification.png)
