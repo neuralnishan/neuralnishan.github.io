@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 **Alerts for Visitors!**
-Some of my personal information was recently breached by hackers (Malware: Dark Crystal RAT and Russian Password Stealer) on the dark web. He exposed my usernames, emails, and passwords but I've changed moat of my passwords and added 2FA for most of accounts. For those who are in contact with me on a professional network, if you find any suspicious things about me, just let me know through my email.
+Some of my personal information was recently breached by hackers (Malware: Dark Crystal RAT and Russian Password Stealer) on the dark web. He exposed my usernames, emails, and passwords but I've changed most of my passwords and added 2FA for most of accounts. For those who are in contact with me on a professional network, if you find any suspicious things about me, just let me know through my email.
 {: .notice}
 
 ---
