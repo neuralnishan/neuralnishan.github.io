@@ -11,13 +11,16 @@ redirect_from:
 **Alerts for Visitors!**
 Some of my personal information was recently breached by hackers (Malware: Dark Crystal RAT and Russian Password Stealer) on the dark web. He exposed my usernames, emails, and passwords but I've changed moat of my passwords and added 2FA for most of accounts. For those who are in contact with me on a professional network, if you find any suspicious things about me, just let me know through my email.
 {: .notice}
+
 ---
 **NB:**
 I don't have any social media accounts (FB, Messenger, Twitter, Insta, Telegram, WhatsApp or others) except for my professional work profile, SnapChat Plus & Skype.
 {: .notice}
+
 ---
 The scammer or hacker can pretend that it's me, and they can send you emails or suspicious links using email spoofing techniques. Don't click on that and report that email to spam. Stay safe from scammers and hackers. Recently, the scammer tried mail spoofing techniques to scam me!😄
 {: .notice}
+
 ---
 **Tips:**
 * Don't use any cracked software or apps on your personal computer or smartphone.
