@@ -21,7 +21,9 @@ I don't have any social media accounts (FB, Messenger, Twitter, Insta, Telegram,
 {: .notice}
 
 ---
-Scammers can send you emails or suspicious links using email spoofing techniques. Don't click on that and report that email to spam. Stay safe from scammers and hackers. Recently, the scammer tried mail spoofing techniques to scam me!😄
+**Scammers** usually send you suspicious emails or vulnerable phishing links using email spoofing techniques. Don't click on that and report that email to spam. Stay safe from scammers and hackers. Recently, the scammer tried mail spoofing techniques to scam me!😄
+{: .notice}
+
 **Tips:**
 * Don't use any cracked software or apps on your personal computer or smartphone.
 * Don't click on suspicious links on your email or open unknown files on your computer.
