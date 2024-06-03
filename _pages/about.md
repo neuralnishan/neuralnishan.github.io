@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Hi There!It's Nishan and It's one and only my personal website and portfolio.  "
+title: "Hi There!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+**It's Nishan It's one and only my personal website and portfolio.**
 
 ---
 **Alerts for Visitors!**
