@@ -10,7 +10,7 @@ Work experience
 ======
 ## HeadGear Limited, Data Analyst
 - **Location:** Dhaka, Bangladesh
-- **Duration:** Sep 2022 ‑ Continuing
+- **Duration:** Sep 2022 ‑ June 2024
 
 
 ---
