@@ -12,7 +12,7 @@ Work experience
 
 ## N/A, Azure Data Scientist Associate
 - **Location:** Berlin, Germany
-- **Type: Remote
+- **Type:** Remote
 - **Duration:** Jul 2024 ‑ Continuing
 
 ---
