@@ -8,6 +8,14 @@ redirect_from:
 ---
 Work experience
 ======
+
+
+## N / A, Azure Data Scientist Associate
+- **Location:** Remote
+- **Duration:** July 2024 ‑ Continuing
+
+---
+
 ## HeadGear Limited, Data Analyst
 - **Location:** Dhaka, Bangladesh
 - **Duration:** Sep 2022 ‑ June 2024
