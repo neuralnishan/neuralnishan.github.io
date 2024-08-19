@@ -9,12 +9,6 @@ redirect_from:
 Work experience
 ======
 
-
-## N/A, Azure Data Scientist Associate
-- **Location:** Berlin, Germany
-- **Type:** Remote
-- **Duration:** Jul 2024 ‑ Continuing
-
 ---
 
 ## HeadGear Limited, Data Analyst
