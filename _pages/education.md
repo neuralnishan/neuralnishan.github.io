@@ -10,10 +10,9 @@ Educational Background
 ======
 **Degree:** B.Sc. in Computer Science and Engineering   
 **Institution:** North South University
----
+**Academic Journery Duration:** 4 Years
 **Number of Semesters: Tri Semesters** 12
 **CGPA != Numerical Score**: 85%
----
 **Year of Degree Completion:** 2022
 **Year of Convocation : Status in Queue for 25th Convocation:** may be held in 2024 or N/A yet so far 
 
