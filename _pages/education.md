@@ -9,8 +9,11 @@ redirect_from:
 Educational Background
 ======
 **Degree:** B.Sc. in Computer Science and Engineering   
-**Institution:** North South University  
-**Year of Graduation:** 2022  
+**Institution:** North South University
+**Number of Semesters: Tri Semesters** 12
+**CGPA != Numerical Score**: 85%
+**Year of Degree Completion:** 2022
+**Year of Convocation : Status in Queue for 25th Convocation:** may be held in 2024 or N/A yet so far 
 
 
 
