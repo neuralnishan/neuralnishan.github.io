@@ -8,9 +8,9 @@ redirect_from:
 ---
 Educational Background
 ======
-**Degree:** B.Sc. in Computer Science and Engineering   
+**Degree:** B.Sc. in Computer Science and Engineering\  
 **Institution:** North South University (NSU)\
-**Year of Degree Completion:** 2022\
+**Year of Degree Completion:** 2022
 
 
 
