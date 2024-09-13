@@ -9,13 +9,9 @@ redirect_from:
 Educational Background
 ======
 **Degree:** B.Sc. in Computer Science and Engineering   
-**Institution:** North South University\
-**Academic Duration:** 4 Years\
-**Number of Semesters:** 12\
-**Semester System:** Tri Semester Yearly\
-**Numerical Score:** 85%\
+**Institution:** North South University (NSU)\
 **Year of Degree Completion:** 2022\
-**Year of Convocation : Status in Queue for 25th Convocation:** May be held in 2024 or N/A yet so far
+
 
 
 
