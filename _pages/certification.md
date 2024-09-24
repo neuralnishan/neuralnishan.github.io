@@ -20,10 +20,6 @@ redirect_from:
 
 > Azure Data Scientist Associate Certificate Verification Link : [link](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/A2C48D4C8739EFA2?sharingId=A489942037851738 "Microsoft").
 
-![Score Report Image](/files/microsoft/microsoft_azure_data_scientist_associate_dp_100_score_report.png)
-> Fig. Azure Data Scientist Associate - DP 100 Score Report - 785 / 1000
-
-
 
 ### Microsoft Certified: Azure AI Engineer Associate
 
@@ -39,10 +35,6 @@ redirect_from:
 * Implement generative AI solutions
 
 > Azure AI Engineer Associate Certificate Verification Link : [link](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/CAB2713E62F9049A?sharingId=A489942037851738 "Microsoft").
-
-![Score Report Image](/files/microsoft/microsft_azure_ai_engineer_associate_ai_102_score_report.png)
-> Fig. Azure AI Engineer Associate - AI 102 Score Report - 785 / 1000
-
 
 
 
@@ -60,8 +52,7 @@ redirect_from:
 
 > Azure AI Fundamentals Certificate Verification Link : [link](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/26E51C20DE6DEFE8?sharingId=A489942037851738 "Microsoft").
 
-![Score Report Image](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_score_report.png)
-> Fig. Azure AI Fundamentals - AI 900 Score Report - 816 / 1000
+
 
 ---
 ## My skills as an Oracle Cloud Infrastructure (OCI) Data Science Professional: 
