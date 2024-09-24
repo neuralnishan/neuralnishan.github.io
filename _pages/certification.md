@@ -86,10 +86,7 @@ redirect_from:
 * Proficient in using OCI Generative AI Service
 * Build a Retrieval-Augmented Generation (RAG) based chatbot using OCI Generative AI Service
 
-> Oracle Cloud Infrastructure 2024 Generative AI Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FD54B08E9587B538D8428D35834A2FD8F44C343C4471D92C0F3F5C5FE5F8C9AC "Oracle").
-
-![Score Report Image](/files/oracle/oci_generative_ai_2024_professional_score_report.png)
-> Fig. Oracle Cloud Infrastructure 2024 Generative AI Professional Exam - 1Z0-1127-24, Score Report - 78 / 100
+> Oracle Cloud Infrastructure 2024 Generative AI Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=79884B7FFDC859086559A7546CB012E4DC5E8CA828A5DE9FC467A0F6D7C44FAA "Oracle").
 
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2023 Data Science Professional
@@ -109,10 +106,7 @@ redirect_from:
 * deploy
 * integrate and maintain ML models
 
-> Oracle Cloud Infrastructure 2023 Data Science Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8A82C2D31FB593334F809EAEB0C0A50E565147CEEAAA910C38C674548536767A "Oracle").
-
-![Score Report Image](/files/oracle/oci_data_science_professional_2023_score_report.png)
-> Fig. Oracle Cloud Infrastructure 2023 Data Science Professional Exam - 1Z0-1110-23 Score Report - 67.3 / 100
+> Oracle Cloud Infrastructure 2023 Data Science Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B "Oracle").
 
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2023 AI Foundations Associate
@@ -127,10 +121,7 @@ redirect_from:
 * Machine Learning and Deep Learning concepts and terminologies
 * Oracle Generative AI
 
-> Oracle Cloud Infrastructure 2023 AI Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8ED80AB7B3D7A0637CB0891F7AF16E7FCDC6B91D8573FD426D434613C8478259 "Oracle").
-
-![Score Report Image](/files/oracle/oci_2023_ai_foundation_associate_score_report.png)
-> Fig. Oracle Cloud Infrastructure 2023 AI Foundations Associate Certificate Exam - 1Z0-1122-23, Score Report - 96.7 / 100
+> Oracle Cloud Infrastructure 2023 AI Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=30C10DE85126138FE96AECDD36784A529DC8407FC27CF0C4214C58B44F28DD39 "Oracle").
 
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2023 Foundations Associate
@@ -146,11 +137,7 @@ redirect_from:
 * Ability to explain OCI security and identity model and compliance structure;Understanding of OCI billing
 * cost management and governance and administration
 
-> Oracle Cloud Infrastructure 2023 Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8ED80AB7B3D7A0637CB0891F7AF16E7FCDC6B91D8573FD426D434613C8478259 "Oracle").
-
-![Score Report Image](/files/oracle/oci_2023_foundation_associate_score_report.png)
-> Fig. Oracle Cloud Infrastructure 2023 Foundations Associate Certificate Exam - 1Z0-1085-23, Score Report - 100 / 100
-
+> Oracle Cloud Infrastructure 2023 Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C4C367FE735E18EA7368BAF239838FD07A2867C5FE87DBA93C31AA046B709010 "Oracle").
 
 
 ### Oracle Certified: Oracle Cloud Data Management 2023 Foundations Associate
@@ -168,10 +155,7 @@ redirect_from:
 * Discuss concepts and uses of OCI Analytics and AI Data Services
 * Explain Migration and Upgrade options
 
-> Oracle Cloud Data Management 2023 Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8ED80AB7B3D7A0637CB0891F7AF16E7FCDC6B91D8573FD426D434613C8478259 "Oracle").
-
-![Score Report Image](/files/oracle/oci_data_management_2023_foundation_associate_score_report.png)
-> Fig. Oracle Cloud Data Management 2023 Foundations Associate Certificate Exam - 1Z0-1105-23, Score Report - 72.7 / 100
+> Oracle Cloud Data Management 2023 Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EDB1D7B5BC55B0792B75103E0A3FED57061D15C244141FBF09C0915DB5A5ADF2 "Oracle").
 
 
 
