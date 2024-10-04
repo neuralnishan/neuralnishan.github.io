@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Microsoft & Oracle Certification"
+title: "Microsoft Certification"
 permalink: /certification/
 author_profile: true
 redirect_from:
   - /resume
 ---
-# Microsoft Azure Certificates and Exam Scores
+# Microsoft Azure Certificates
 ### Microsoft Certified: Azure Data Scientist Associate
 
 ![Certificate Image](/files/microsoft/microsft_azure_data_scientist_associate_dp_100_certificate.png)
