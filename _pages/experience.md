@@ -12,7 +12,8 @@ Work experience
 ---
 ## HeadGear Limited, Data Analyst
 - **Location:** Dhaka, Bangladesh
-- **Duration:** Sep 2022 ‑ June 2024
+- **Typpe:** Remote
+- **Duration:** Sep 2022 ‑ C 2024
 
 ---
 ## HeadGear Limited, Junior Software Developer Intern
