@@ -12,7 +12,7 @@ Work experience
 ---
 ## HeadGear Limited, Data Analyst
 - **Location:** Dhaka, Bangladesh
-- **Typpe:** Remote
+- **Type:** Remote
 - **Duration:** Sep 2022 ‑ C 2024
 
 ---
