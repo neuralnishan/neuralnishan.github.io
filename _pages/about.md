@@ -15,6 +15,24 @@ Hello there! I’m an **AI Enthusiast**, and my passion lies in the fascinating 
 {: .notice}
 
 ---
+**Latest Update**
+# Microsoft Security Bootcamp 2024 Attendee
+![Certificate Image](/files/microsoft/microsoft_security_bootcamp_2024_attende.png)
+I'm happly to share that ive participated that ive particiapted in Microsft Security Bootcamp and learned following topics.I’m thrilled to share that I recently participated in the Microsoft Security Bootcamp, and it was an incredible learning journey! 
+Cybersecurity isn’t just a technical challenge; it’s a human one. With cyber threats growing in volume and complexity, it’s more important than ever to sharpen our security skills to protect our organizations and ourselves in this AI-driven era.During the bootcamp, I had the opportunity to dive deep into several critical topics.
+{: .notice} 
+
+* 🔍 Understanding the Current Threat Landscape: Gaining insights into the latest cyber threats and what they mean for an organizations.
+
+* 🏗️ Strengthening Cybersecurity Foundations: Learning best practices to build a robust security framework.
+
+* ☁️ Confidently Migrating Apps, Data, and Infrastructure: Exploring strategies for secure migration to the cloud.
+
+* 🛡️ Effective Cyber Incident Response: Developing skills to respond swiftly and effectively to cyber incidents.
+
+* 🤖 What’s New with Microsoft Security Copilot: Discovering the latest advancements and future directions in Microsoft Security.
+
+---
 **Cloud Journey:**
 I strengthened my skill set by acquiring the **Oracle and Microsoft** certifications that the majority of the industry now requires for enhanced career prospects. I have also had quite good commitment for the last two years to these through continuous learning and dedication, and I have obtained both theoretical and hands-on expertise in Azure Cloud and Oracle Cloud Data Science. Additionally, I am able to utilize best practices for cloud computing and machine learning to solve real-world problems.
 {: .notice} 
