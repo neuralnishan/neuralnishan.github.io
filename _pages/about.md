@@ -15,7 +15,7 @@ Hello there! I’m an **AI Enthusiast**, and my passion lies in the fascinating 
 {: .notice}
 
 ---
-**Latest Update**
+**Latest Update on Continuous Learning Progress**
 # Microsoft Security Bootcamp 2024 Attendee
 ![Certificate Image](/files/microsoft/microsoft_security_bootcamp_2024_attende.png)
 
