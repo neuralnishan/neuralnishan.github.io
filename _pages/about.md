@@ -17,7 +17,7 @@ Hello there! I’m an **AI Enthusiast**, and my passion lies in the fascinating 
 ---
 **Latest Update on Continuous Learning Progress**
 # Microsoft Security Bootcamp 2024 Attendee
-![Certificate Image](/files/microsoft/microsoft_security_bootcamp_2024_attende.png)
+![Certificate Image](/files/microsoft/microsoft_security_bootcamp_2024_attendee.png)
 
 ---
 I'm happly to share that i've particiapted in Microsft Security Bootcamp and learned following topics. and it was an incredible virtual learning journey on Cybersecurity! Cybersecurity isn’t just a technical challenge; it’s a human one. With cyber threats growing in volume and complexity, it’s more important than ever to sharpen our security skills to protect our organizations and ourselves in this AI-driven era.During the bootcamp, I had the opportunity to dive deep into several critical topics.
