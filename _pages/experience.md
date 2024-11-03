@@ -14,7 +14,8 @@ Work experience
 ## NeuralDataUniverse Startup, Azure Data Scientist
 - **Location:** Amsterdam, NL
 - **Type:** Remote
-- **Duration:** Jul 2024 ‑ Continuing 
+- **Duration:** Jul 2024 - Continuing
+
 ---
 ## HeadGear Limited, Data Analyst
 - **Location:** Dhaka, Bangladesh
