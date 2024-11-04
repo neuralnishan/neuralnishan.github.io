@@ -11,7 +11,7 @@ Work experience
 
 
 ---
-## NeuralDataUniverse Startup, Azure Data Scientist
+## NeuralDataUniverse, Azure Data Scientist
 - **Location:** Amsterdam, NL
 - **Type:** Remote
 - **Duration:** Jul 2024 - Continuing
