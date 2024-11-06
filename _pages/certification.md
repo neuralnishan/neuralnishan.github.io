@@ -65,7 +65,7 @@ redirect_from:
 
 >I possess a comprehensive understanding of the ML development process, managing the  lifecycle of models on Oracle Cloud, including data ingestion, design, development, training, optimization, deployment, integration, and maintenance.
 
-# Oracle Cloud Infrastructure Certificates and Exam Scores
+# Oracle Cloud Infrastructure Certificates
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2024 Generative AI Professional
 
