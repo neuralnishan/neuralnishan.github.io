@@ -26,14 +26,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Teaching"
-    url: /teaching/    
+# - title: "Teaching"
+#  url: /teaching/    
       
-  - title: "Blog Posts"
-    url: /year-archive/
+# - title: "Blog Posts"
+#   url: /year-archive/
 
-  - title: "Publications"
-    url: /publications/  
-    
-  - title: "Guide"
-    url: /markdown/
+# - title: "Publications"
+#  url: /publications/  
+ 
+# - title: "Guide"
+#  url: /markdown/
