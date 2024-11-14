@@ -13,10 +13,21 @@ redirect_from:
 > Fig. Azure Data Scientist Associate Certificate
 
 ### Skills measured
-* Design and prepare a machine learning solution
-* Explore data and train models
-* Prepare a model for deployment
-* Deploy and retrain a model
+* ✅ Design and prepare a machine learning solution
+* ✅ Explore data and train models
+* ✅ Prepare a model for deployment
+* ✅ Deploy and retrain a model
+* ✅ Skills measured in renewal assessment:
+* ✅ Design a machine learning model training solution
+* ✅ Explore developer tools for workspace interaction
+* ✅ Make data available in Azure Machine Learning
+* ✅ Work with compute targets in Azure Machine Learning
+* ✅ Find the best classification model with Automated Machine Learning
+* ✅ Run a training script as a command job in Azure Machine Learning
+* ✅ Perform hyperparameter tuning with Azure Machine Learning
+* ✅ Run pipelines in Azure Machine Learning
+* ✅ Deploy a model to a managed online endpoint
+* ✅ Deploy a model to a batch endpoint
 
 > Azure Data Scientist Associate Certificate Verification Link : [link](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/A2C48D4C8739EFA2?sharingId=A489942037851738 "Microsoft").
 
