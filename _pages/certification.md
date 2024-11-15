@@ -17,7 +17,8 @@ redirect_from:
 * ✅ Explore data and train models
 * ✅ Prepare a model for deployment
 * ✅ Deploy and retrain a model
-* ✅ Skills measured in renewal assessment:
+
+### Skills measured in renewal assessment:
 * ✅ Design a machine learning model training solution
 * ✅ Explore developer tools for workspace interaction
 * ✅ Make data available in Azure Machine Learning
@@ -38,12 +39,25 @@ redirect_from:
 > Fig. Azure AI Engineer Associate Certificate
 
 ### Skills measured:
-* Plan and manage an Azure AI solution
-* Implement decision support solutions
-* Implement computer vision solutions
-* Implement natural language processing solutions
-* Implement knowledge mining and document intelligence solutions
-* Implement generative AI solutions
+* ✅ Plan and manage an Azure AI solution
+* ✅ Implement decision support solutions
+* ✅ Implement computer vision solutions
+* ✅ Implement natural language processing solutions
+* ✅ Implement knowledge mining and document intelligence solutions
+* ✅ Implement generative AI solutions
+  
+### Skills measured in renewal assessment:
+* ✅ Create speech-enabled apps with Azure AI services
+* ✅ Translate speech with the Azure AI Speech service
+* ✅ Image classification with custom Azure AI Vision models
+* ✅ Build a conversational language understanding model
+* ✅ Deploy Azure AI services in containers
+* ✅ Analyze text with Azure AI Language
+* ✅ Apply prompt engineering with Azure OpenAI Service
+* ✅ Create question answering solutions with Azure AI Language
+* ✅Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service
+* ✅ Extract data from forms with Azure Document Intelligence
+* ✅ Analyze images
 
 > Azure AI Engineer Associate Certificate Verification Link : [link](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/CAB2713E62F9049A?sharingId=A489942037851738 "Microsoft").
 
