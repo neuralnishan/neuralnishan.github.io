@@ -10,7 +10,7 @@ redirect_from:
 ### Microsoft Certified: Azure Data Engineer Associate
 
 ![Certificate Image](/files/microsoft/microsft_azure_data_engineer_associate_dp_203_certificate.png)
-> Fig. Azure Data Engineer Associatee
+> Fig. Azure Data Engineer Associate Certificate
 
 ### Skills measured
 * ✅ Design and implement data storage
