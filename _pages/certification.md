@@ -7,6 +7,19 @@ redirect_from:
   - /resume
 ---
 # Microsoft Azure Certificates
+### Microsoft Certified: Azure Data Engineer Associate
+
+![Certificate Image](/files/microsoft/microsft_azure_data_engineer_associate_dp_203_certificate.png)
+> Fig. Azure Data Engineer Associatee
+
+### Skills measured
+* ✅ Design and implement data storage
+* ✅ Develop data processing
+* ✅ Secure, monitor, and optimize data storage and data processing
+
+> Azure Data Engineer Associate Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/CC036A4B7AFFC9AE "Microsoft").
+
+
 ### Microsoft Certified: Azure Data Scientist Associate
 
 ![Certificate Image](/files/microsoft/microsft_azure_data_scientist_associate_dp_100_certificate.png)
