@@ -21,7 +21,8 @@ Hello there! I’m an **AI Enthusiast**, and my passion lies in the fascinating 
 # Microsoft Learn Transcript
 Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript").
 
-# Azure Odyssey: A Trilogy of Triumph!
+## Azure Odyssey: A Trilogy of Triumph!
+---
 I embarked on an epic quest in the realm of **Azure** , I’ve obtained three mighty challenges.And,I believe that each certification, a beacon of my intuition guiding me to a future where I craft the extraordinary.Onward I march, to a horizon brimming with possibilities, ready to explore the AI landscape.I strengthened my skill set by acquiring the **Oracle and Microsoft** certifications that the majority of the industry now requires for enhanced career prospects. I have also had quite good commitment for the last two years to these through continuous learning and dedication, and I have obtained both theoretical and hands-on expertise in Azure Cloud and Oracle Cloud Data Science. Additionally, I am able to utilize best practices for cloud computing and machine learning to solve real-world problems.
 * AI-900: Unveiled the secrets of AI fundamentals.
 * DP-100: Mastered the art of data science on Azure.
@@ -30,13 +31,13 @@ I embarked on an epic quest in the realm of **Azure** , I’ve obtained three mi
 {: .notice} 
 
 ---
+# Salesforce Certification
+![Certificate Image](/files/salesforce/Badge_SF-Certified_AI-Associate.png)
+
+---
 # Salesforce Certified AI Associate
 My path to Salesforce AI Associate recognition is a turning point point in my career. Through the AI for All program, I delved headfirst into the field of AI, emerging with an in-depth knowledge of how to build informed strategies and propel stakeholder decisions in compliance with Salesforce's Trusted AI Principles. Understanding data management, security, and Salesforce Customer 360, I blend technical expertise with creative problem-solving to boost business productivity. This certification is more than just a badge; it illustrates my commitment to infusing intelligence into every aspect of corporate operations, transforming challenges into possibilities for expansion.
 {: .notice}
-
----
-# Salesforce Certification
-![Certificate Image](/files/salesforce/Badge_SF-Certified_AI-Associate.png)
 
 ---
 # Microsoft Security Bootcamp 2024 Attendee
