@@ -29,22 +29,14 @@ My path to Salesforce AI Associate recognition is a turning point point in my ca
 
 ---
 I'm happy to share that i've particiapted in Microsft Security Bootcamp and learned following topics. and it was an incredible virtual learning journey on Cybersecurity! Cybersecurity isn’t just a technical challenge; it’s a human one. With cyber threats growing in volume and complexity, it’s more important than ever to sharpen our security skills to protect our organizations and ourselves in this AI-driven era.During the bootcamp, I had the opportunity to dive deep into several critical topics.
-{: .notice}
-
----
 * 🔍 Understanding the Current Threat Landscape: Gaining insights into the latest cyber threats and what they mean for an organizations.
 * 🏗️ Strengthening Cybersecurity Foundations: Learning best practices to build a robust security framework.
 * ☁️ Confidently Migrating Apps, Data, and Infrastructure: Exploring strategies for secure migration to the cloud.
 * 🛡️ Effective Cyber Incident Response: Developing skills to respond swiftly and effectively to cyber incidents.
 * 🤖 What’s New with Microsoft Security Copilot: Discovering the latest advancements and future directions in Microsoft Security.
-{: .notice} 
-
+{: .notice}
 
 ---
-**Cloud Journey:**
-I strengthened my skill set by acquiring the **Oracle and Microsoft** certifications that the majority of the industry now requires for enhanced career prospects. I have also had quite good commitment for the last two years to these through continuous learning and dedication, and I have obtained both theoretical and hands-on expertise in Azure Cloud and Oracle Cloud Data Science. Additionally, I am able to utilize best practices for cloud computing and machine learning to solve real-world problems.
-{: .notice} 
-
 # Microsoft Azure Certification
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
@@ -52,12 +44,14 @@ I strengthened my skill set by acquiring the **Oracle and Microsoft** certificat
 Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript").
 
 ## Azure Odyssey: A Trilogy of Triumph!
-I embarked on an epic quest in the realm of **Azure** , I’ve obtained three mighty challenges.And,I believe that each certification, a beacon of my intuition guiding me to a future where I craft the extraordinary.Onward I march, to a horizon brimming with possibilities, ready to explore the AI landscape.
-{: .notice} 
-
+I embarked on an epic quest in the realm of **Azure** , I’ve obtained three mighty challenges.And,I believe that each certification, a beacon of my intuition guiding me to a future where I craft the extraordinary.Onward I march, to a horizon brimming with possibilities, ready to explore the AI landscape.I strengthened my skill set by acquiring the **Oracle and Microsoft** certifications that the majority of the industry now requires for enhanced career prospects. I have also had quite good commitment for the last two years to these through continuous learning and dedication, and I have obtained both theoretical and hands-on expertise in Azure Cloud and Oracle Cloud Data Science. Additionally, I am able to utilize best practices for cloud computing and machine learning to solve real-world problems.
 * AI-900: Unveiled the secrets of AI fundamentals.
 * DP-100: Mastered the art of data science on Azure.
 * AI-102: Engineered solutions with AI prowess on Azure.
+* DP-203: Learned Data Engineering on Azure.
+{: .notice} 
+
+
 
 # Oracle Cloud Infrastructure Professional  Certification 
 ![Certificate Image](/files/oracle/oci_professional_certification.png)
