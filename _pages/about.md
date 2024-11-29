@@ -41,6 +41,7 @@ My path to Salesforce AI Associate recognition is a turning point point in my ca
 ---
 # Microsoft Security Bootcamp 2024 Attendee
 ![Certificate Image](/files/microsoft/microsoft_security_bootcamp_2024_attendee.png)
+
 ---
 I'm happy to share that i've particiapted in Microsft Security Bootcamp and learned following topics. and it was an incredible virtual learning journey on Cybersecurity! Cybersecurity isn’t just a technical challenge; it’s a human one. With cyber threats growing in volume and complexity, it’s more important than ever to sharpen our security skills to protect our organizations and ourselves in this AI-driven era.During the bootcamp, I had the opportunity to dive deep into several critical topics.
 * 🔍 Understanding the Current Threat Landscape: Gaining insights into the latest cyber threats and what they mean for an organizations.
@@ -50,7 +51,6 @@ I'm happy to share that i've particiapted in Microsft Security Bootcamp and lear
 * 🤖 What’s New with Microsoft Security Copilot: Discovering the latest advancements and future directions in Microsoft Security.
 {: .notice}
 
----
 # Oracle Cloud Infrastructure Professional  Certification 
 ![Certificate Image](/files/oracle/oci_professional_certification.png)
 # Oracle Cloud Infrastructure Associate Certification 
