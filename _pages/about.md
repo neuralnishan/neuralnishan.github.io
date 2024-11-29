@@ -15,10 +15,17 @@ Hello there! I’m an **AI Enthusiast**, and my passion lies in the fascinating 
 {: .notice}
 
 ---
+# Salesforce Certified AI Associate
+---
+My path to Salesforce AI Associate recognition is a turning point point in my career. Through the AI for All program, I delved headfirst into the field of AI, emerging with an in-depth knowledge of how to build informed strategies and propel stakeholder decisions in compliance with Salesforce's Trusted AI Principles. Understanding data management, security, and Salesforce Customer 360, I blend technical expertise with creative problem-solving to boost business productivity. This certification is more than just a badge; it illustrates my commitment to infusing intelligence into every aspect of corporate operations, transforming challenges into possibilities for expansion.
+{: .notice}
 
+# Salesforce Certification
+![Certificate Image](/files/Salesforce/2023-07_Badge_SF-Certified_AI-Associate_500x490px.png)
+
+---
 # Microsoft Security Bootcamp 2024 Attendee
 ![Certificate Image](/files/microsoft/microsoft_security_bootcamp_2024_attendee.png)
-
 ---
 I'm happy to share that i've particiapted in Microsft Security Bootcamp and learned following topics. and it was an incredible virtual learning journey on Cybersecurity! Cybersecurity isn’t just a technical challenge; it’s a human one. With cyber threats growing in volume and complexity, it’s more important than ever to sharpen our security skills to protect our organizations and ourselves in this AI-driven era.During the bootcamp, I had the opportunity to dive deep into several critical topics.
 * 🔍 Understanding the Current Threat Landscape: Gaining insights into the latest cyber threats and what they mean for an organizations.
@@ -27,6 +34,7 @@ I'm happy to share that i've particiapted in Microsft Security Bootcamp and lear
 * 🛡️ Effective Cyber Incident Response: Developing skills to respond swiftly and effectively to cyber incidents.
 * 🤖 What’s New with Microsoft Security Copilot: Discovering the latest advancements and future directions in Microsoft Security.
 {: .notice} 
+
 
 ---
 **Cloud Journey:**
