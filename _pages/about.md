@@ -28,7 +28,6 @@ domain="www.chatbase.co"
 defer>
 </script>
 
-
 ---
 # Microsoft Azure Certification
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
