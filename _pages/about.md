@@ -15,6 +15,21 @@ Hello there! I’m an **AI Enthusiast**, and my passion lies in the fascinating 
 {: .notice}
 
 ---
+<script>
+window.embeddedChatbotConfig = {
+chatbotId: "CmcOfRViCC40cblsNdLlz",
+domain: "www.chatbase.co"
+}
+</script>
+<script
+src="https://www.chatbase.co/embed.min.js"
+chatbotId="CmcOfRViCC40cblsNdLlz"
+domain="www.chatbase.co"
+defer>
+</script>
+
+
+---
 # Microsoft Azure Certification
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
