@@ -6,7 +6,22 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# Microsoft Azure Certificates
+# Microsoft Azure Applied Skills 
+### Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language
+
+![Certificate Image](/files/microsoft/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png)
+> Fig. Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language
+
+### Skills measured
+* ✅ Deploy a language resource, and use prebuilt models
+* ✅ Create a custom text classification solution
+* ✅ Create a custom named entity recognition (NER) solution
+
+> Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b "Microsoft").
+
+
+---
+# Microsoft Azure Certifications
 ### Microsoft Certified: Azure Data Engineer Associate
 
 ![Certificate Image](/files/microsoft/microsft_azure_data_engineer_associate_dp_203_certificate.png)
