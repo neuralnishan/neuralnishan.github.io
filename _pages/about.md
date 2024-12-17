@@ -17,13 +17,13 @@ Hello there! I’m an **AI Enthusiast**, and my passion lies in the fascinating 
 ---
 <script>
     window.embeddedChatbotConfig = {
-        chatbotId: "2SpU4mrlwsNjEohRHiUgh",
+        chatbotId: "FIBulzHJrzT1Ck5qSUUN0",
         domain: "www.chatbase.co"
     }
 </script>
 <script
     src="https://www.chatbase.co/embed.min.js"
-    chatbotId="2SpU4mrlwsNjEohRHiUgh"
+    chatbotId="FIBulzHJrzT1Ck5qSUUN0"
     domain="www.chatbase.co"
     defer>
 </script>
