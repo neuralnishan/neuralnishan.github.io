@@ -89,7 +89,7 @@ author:
   googlescholar    : 
   email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -116,7 +116,11 @@ author:
   youtube          :
   wikipedia        :
   medium           : #"https://neuralnishan.medium.com/"
+<<<<<<< HEAD
   MSforms          : "https://forms.office.com/r/1S5HQET81s"
+=======
+  MSforms          :  "https://forms.office.com/r/1S5HQET81s?embed=true"
+>>>>>>> a6f6edfcef2859f9a4a475ca7317ac174cf23fb8
 
 
 # Reading Files
