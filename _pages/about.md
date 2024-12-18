@@ -29,6 +29,10 @@ defer>
 </script>
 
 ---
+# Submit Your Query!
+![Certificate Image](/files/qr/QRCode for Submit your additional query.png)
+
+---
 # Microsoft Azure Certification
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
