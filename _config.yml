@@ -84,14 +84,12 @@ author:
   avatar           : "pro_pic_2.png"
   bio              : "Microsoft Certified: Azure Data Scientist | Excited to foster Data Science solutions utilizing Azure that comprise prominent infrastructure"
   location         : "Neural Universe"
-
-  <iframe width="640px" height="480px" src="https://forms.office.com/r/1S5HQET81s?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
   employer         : 
   pubmed           : 
   googlescholar    : 
   email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -118,6 +116,7 @@ author:
   youtube          :
   wikipedia        :
   medium           : #"https://neuralnishan.medium.com/"
+  MSforms          :   <iframe width="640px" height="480px" src="https://forms.office.com/r/1S5HQET81s?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 
 # Reading Files
