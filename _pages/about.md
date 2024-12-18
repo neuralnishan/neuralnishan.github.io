@@ -76,11 +76,11 @@ I'm happy to share that i've particiapted in Microsft Security Bootcamp and lear
 
 ---
 # Submit Your Query!
-Scan QR Code or Click the link to fill up the Form link below!
+Scan QR Code to fill up the form link below!
 
 ![MicrosoftFormsQR](/files/qr/qr.png)
 
-Click the link below to fil out the forms!
+Click the link below to fill out the forms!
 [link](https://forms.office.com/r/1S5HQET81s "Fillout Microsoft Forms!").
 
 
