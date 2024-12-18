@@ -116,7 +116,7 @@ author:
   youtube          :
   wikipedia        :
   medium           : #"https://neuralnishan.medium.com/"
-  MSforms          :   <iframe width="640px" height="480px" src="https://forms.office.com/r/1S5HQET81s?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+  MSforms          :  "https://forms.office.com/r/1S5HQET81s?embed=true"
 
 
 # Reading Files
