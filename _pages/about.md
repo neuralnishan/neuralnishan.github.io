@@ -33,6 +33,13 @@ Hello there! I’m an **AI Enthusiast**, and my passion lies in the fascinating 
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ---
+* AI-900: Unveiled the secrets of AI fundamentals.
+* DP-100: Mastered the art of data science on Azure.
+* AI-102: Engineered solutions with AI prowess on Azure.
+* DP-203: Learned Data Engineering on Azure.
+{: .notice}
+
+---
 # Microsoft Learn Transcript
 Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript").
 
@@ -42,20 +49,8 @@ I embarked on an epic quest in the realm of **Azure** , I’ve obtained three mi
 {: .notice}
 
 ---
-* AI-900: Unveiled the secrets of AI fundamentals.
-* DP-100: Mastered the art of data science on Azure.
-* AI-102: Engineered solutions with AI prowess on Azure.
-* DP-203: Learned Data Engineering on Azure.
-{: .notice}
-
----
 # Salesforce Certification
 ![Certificate Image](/files/salesforce/Badge_SF-Certified_AI-Associate.png)
-
----
-# Salesforce Certified AI Associate
-My path to Salesforce AI Associate recognition is a turning point point in my career. Through the AI for All program, I delved headfirst into the field of AI, emerging with an in-depth knowledge of how to build informed strategies and propel stakeholder decisions in compliance with Salesforce's Trusted AI Principles. Understanding data management, security, and Salesforce Customer 360, I blend technical expertise with creative problem-solving to boost business productivity. This certification is more than just a badge; it illustrates my commitment to infusing intelligence into every aspect of corporate operations, transforming challenges into possibilities for expansion.
-{: .notice}
 
 ---
 # Microsoft Security Bootcamp 2024 Attendee
@@ -81,8 +76,9 @@ I'm happy to share that i've particiapted in Microsft Security Bootcamp and lear
 
 ---
 # Submit Your Query!
-Scan QR Code or Click the link to fill up the Form link below! [link](https://forms.office.com/r/1S5HQET81s "Fillout Microsoft Forms!").
+Scan QR Code or Click the link to fill up the Form link below!
 ![MicrosoftFormsQR](/files/qr/QRCode for Submit your additional query.png)
+![link](https://forms.office.com/r/1S5HQET81s "Fillout Microsoft Forms!").
 
 
 
