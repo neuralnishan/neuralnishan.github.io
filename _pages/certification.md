@@ -7,6 +7,20 @@ redirect_from:
   - /resume
 ---
 # Microsoft Azure Applied Skills 
+### Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence
+
+![Certificate Image](/files/microsoft/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png)
+> Fig. Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence
+
+### Skills measured
+* ✅ Create and configure resources
+* ✅ Programmatically analyze data in forms
+* ✅ Create a template-based custom model
+* ✅ Configure model endpoints for document types
+* ✅ Extract key value pairs
+
+> Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/51E23D9DA965588F "Microsoft").
+
 ### Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language
 
 ![Certificate Image](/files/microsoft/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png)
