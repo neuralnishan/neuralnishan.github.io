@@ -31,6 +31,7 @@ Hello there! I’m an **AI Enthusiast**, and my passion lies in the fascinating 
 ---
 # Microsoft Certification
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
+
 ---
 # Microsoft Learn Transcript
 Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript").
