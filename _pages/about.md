@@ -29,13 +29,6 @@ Hello there! I’m an **AI Enthusiast**, and my passion lies in the fascinating 
 </script>
 
 ---
-# Submit Your Query!
-![Certificate Image](/files/qr/QRCode for Submit your additional query.png)
-
----
-# Microsoft Azure Certification
-![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
-
 # Microsoft Learn Transcript
 Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript").
 
@@ -81,3 +74,8 @@ I'm happy to share that i've particiapted in Microsft Security Bootcamp and lear
 # Oracle Cloud Infrastructure Associate Certification 
 ![Certificate Image](/files/oracle/oci_2023_foundation_associate_certifications.png)
 
+
+---
+# Submit Your Query!
+![Scan QR Code or Click the link to fill up the Form link below](/files/qr/QRCode for Submit your additional query.png)
+Fillout Microsoft Forms! [link](https://forms.office.com/r/1S5HQET81s
