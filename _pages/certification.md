@@ -5,34 +5,6 @@ permalink: /certification/
 author_profile: true
 redirect_from:
   - /resume
----
-# Microsoft Azure Applied Skills 
-### Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence
-
-![Certificate Image](/files/microsoft/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png)
-> Fig. Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence
-
-### Skills measured
-* ✅ Create and configure resources
-* ✅ Programmatically analyze data in forms
-* ✅ Create a template-based custom model
-* ✅ Configure model endpoints for document types
-* ✅ Extract key value pairs
-
-> Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/51E23D9DA965588F "Microsoft").
-
-### Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language
-
-![Certificate Image](/files/microsoft/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png)
-> Fig. Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language
-
-### Skills measured
-* ✅ Deploy a language resource, and use prebuilt models
-* ✅ Create a custom text classification solution
-* ✅ Create a custom named entity recognition (NER) solution
-
-> Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b "Microsoft").
-
 
 ---
 # Microsoft Azure Certifications
@@ -119,6 +91,50 @@ redirect_from:
 
 > Azure AI Fundamentals Certificate Verification Link : [link](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/26E51C20DE6DEFE8?sharingId=A489942037851738 "Microsoft").
 
+
+---
+# Microsoft Azure Applied Skills 
+### Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence
+
+![Certificate Image](/files/microsoft/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png)
+> Fig. Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence
+
+### Skills measured
+* ✅ Create and configure resources
+* ✅ Programmatically analyze data in forms
+* ✅ Create a template-based custom model
+* ✅ Configure model endpoints for document types
+* ✅ Extract key value pairs
+
+> Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/51E23D9DA965588F "Microsoft").
+
+### Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language
+
+![Certificate Image](/files/microsoft/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png)
+> Fig. Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language
+
+### Skills measured
+* ✅ Deploy a language resource, and use prebuilt models
+* ✅ Create a custom text classification solution
+* ✅ Create a custom named entity recognition (NER) solution
+
+> Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b "Microsoft").
+
+
+
+---
+# Salesforce Certification
+
+![Certificate Image](/files/salesforce/salesforce_ai_associate_cert.png)
+> Fig. Salesforce AI Assocaite Certificate
+
+### Skills measured
+* ✅ AI Fundamentals and AI Capabilities in CRM
+* ✅ Ethical Considerations of AI
+* ✅ Data for AI,Data Management
+* ✅ Business and Productivity Tools and Salesforce Customer 360
+
+> Salesforce AI Certification Verification Link : [link](https://sforce.co/verifycert "Microsoft").
 
 
 ---
