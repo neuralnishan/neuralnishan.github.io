@@ -124,7 +124,7 @@ redirect_from:
 
 ---
 # Salesforce Certification
-
+## Salesforce Certified AI Associate
 ![Certificate Image](/files/salesforce/salesforce_ai_associate_cert.png)
 > Fig. Salesforce AI Assocaite Certificate
 
