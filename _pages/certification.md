@@ -94,6 +94,22 @@ redirect_from:
 
 ---
 # Microsoft Azure Applied Skills 
+
+### Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric
+
+![Certificate Image](/files/microsoft/Microsoft Applied Skills Implement a data science and machine learning solution with Microsoft Fabric.png)
+> Fig. Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric
+
+### Tasks Performed
+* ✅ Ingest and load data
+* ✅ Explore data in a notebook
+* ✅ Prepare and transform data
+* ✅ Train and evaluate a model
+* ✅ Track models and experiments
+* ✅ Generate predictions from a model
+
+> Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/BFE40A3E91369FB1 "Microsoft").
+
 ### Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence
 
 ![Certificate Image](/files/microsoft/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png)
@@ -119,23 +135,6 @@ redirect_from:
 * ✅ Create a custom named entity recognition (NER) solution
 
 > Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b "Microsoft").
-
-
-### Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric
-
-![Certificate Image](/files/microsoft/Microsoft Applied Skills Implement a data science and machine learning solution with Microsoft Fabric.png)
-> Fig. Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric
-
-### Tasks Performed
-* ✅ Ingest and load data
-* ✅ Explore data in a notebook
-* ✅ Prepare and transform data
-* ✅ Train and evaluate a model
-* ✅ Track models and experiments
-* ✅ Generate predictions from a model
-
-> Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/BFE40A3E91369FB1 "Microsoft").
-
 
 
 ---
