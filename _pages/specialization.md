@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# Certifications and Courses
+# Online Courses
 
 | Specialization Name | Verification Link | Download Link | Year | Organization Name | Format |
 | ------------------- | ------------------ | ------------------- | ---- | ------------------- | ------ |
