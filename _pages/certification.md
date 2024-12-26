@@ -99,7 +99,7 @@ redirect_from:
 ![Certificate Image](/files/microsoft/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png)
 > Fig. Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence
 
-### Skills measured
+### Tasks Performed
 * ✅ Create and configure resources
 * ✅ Programmatically analyze data in forms
 * ✅ Create a template-based custom model
@@ -113,12 +113,28 @@ redirect_from:
 ![Certificate Image](/files/microsoft/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png)
 > Fig. Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language
 
-### Skills measured
+### Tasks Performed
 * ✅ Deploy a language resource, and use prebuilt models
 * ✅ Create a custom text classification solution
 * ✅ Create a custom named entity recognition (NER) solution
 
 > Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b "Microsoft").
+
+
+### Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric
+
+![Certificate Image](/files/microsoft/Microsoft Applied Skills Implement a data science and machine learning solution with Microsoft Fabric.png)
+> Fig. Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric
+
+### Tasks Performed
+* ✅ Ingest and load data
+* ✅ Explore data in a notebook
+* ✅ Prepare and transform data
+* ✅ Train and evaluate a model
+* ✅ Track models and experiments
+* ✅ Generate predictions from a model
+
+> Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/BFE40A3E91369FB1 "Microsoft").
 
 
 
