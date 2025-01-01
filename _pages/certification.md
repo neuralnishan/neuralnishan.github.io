@@ -83,11 +83,11 @@ redirect_from:
 > Fig. Azure AI Fundamentals Certificate
 
 ### Skills measured:
-* Describe Artificial Intelligence workloads and considerations
-* Describe fundamental principles of machine learning on Azure
-* Describe features of computer vision workloads on Azure
-* Describe features of Natural Language Processing (NLP) workloads on Azure
-* Describe features of generative AI workloads on Azure
+* ✅ Describe Artificial Intelligence workloads and considerations
+* ✅ Describe fundamental principles of machine learning on Azure
+* ✅ Describe features of computer vision workloads on Azure
+* ✅ Describe features of Natural Language Processing (NLP) workloads on Azure
+* ✅ Describe features of generative AI workloads on Azure
 
 > Azure AI Fundamentals Certificate Verification Link : [link](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/26E51C20DE6DEFE8?sharingId=A489942037851738 "Microsoft").
 
