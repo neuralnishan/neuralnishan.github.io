@@ -22,30 +22,23 @@ Work experience
 
 * Junior Software Developer Intern
   * Head Gear LTD.
-  * Duties included: API specifications, Code documentation, 
-
+  * Duties included: API specifications, Code documentation, Website Maintenance, Writing Clean Code
   
 Skills
 ======
-* Python, SQL, R, C/C++, Java, HTML, JS, React, Flask
+* Python, SQL, R, Java, HTML, JavaScript
+* NoSQL (CosMosDB, Neo4j, Apache Cassandra)
 * Tools, Frameworks & Libraries
-  * Jupyter Notebook, Google Colab, Anaconda Navigator
+  * Jupyter Notebook, PySpark, Apache Airflow, Apache Spark, Anaconda Navigator
   * Tensorflow, Pytorch, OpenCV
-  * Sci-kit learn
-  * NumPy
-  * Pandas
-  * Scipy
-  * Matplotlib, Plotly
+  * Pandas, Sci-kit learn, NumPy, Scipy, Matplotlib, Plotly
 * EDA & DataViz,
   * Tableau 
   * MS PowerBI
-* Cloud
-  * Oracle Cloud Infrastructure
-  * MS Azure
-  * AWS Sagemaker Studio
-
-
-
+* Cloud Skill
+  * Microsoft Azure , 4x Microsoft Certified
+  * Oracle Cloud Infrastructure,  5x Oracle Certified
+ 
 Projects
 ======
   <ul>{% for post in site.projects %}
