@@ -16,13 +16,13 @@ Education
 
 Work experience
 ======
-* Data Analyst
+* Jr. Data Analyst
   * Head Gear LTD.
-  * Duties included: Unveiled key trends and patterns through EDA, Making Dasboards on Tableau
+  * Duties included: Data Collection, Data Preprocessing, Feature Engineering & Scaling, Data Wrangling, Model training, Model Evalution, Deployment,Unveiled key trends and patterns through EDA, Making Dasboards on Tableau
 
 * Junior Software Developer Intern
   * Head Gear LTD.
-  * Duties included: API specifications, Code documentation, Website Maintenance, Writing Clean Code
+  * Duties included: API specifications, Code documentation, Website Maintenance, Writing Clean Code, Fronend-Backend work, Database maintanance
   
 Skills
 ======
@@ -31,8 +31,8 @@ Skills
 * Tools, Frameworks & Libraries
   * Jupyter Notebook, PySpark, Apache Airflow, Apache Spark, Anaconda Navigator
   * Tensorflow, Pytorch, OpenCV
-  * Pandas, Sci-kit learn, NumPy, Scipy, Matplotlib, Plotly
-* EDA & DataViz,
+  * Pandas, Sci-kit learn, NumPy, Matplotlib, Plotly
+* EDA & DataViz 
   * Tableau 
   * MS PowerBI
 * Cloud Skill
