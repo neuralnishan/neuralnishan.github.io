@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Power Up Champs Program by Microsoft Power Platform"
+title: "Microsoft Power Up Champs Program by Microsoft Power Platform, Volunteer"
 collection: achievements
 type: "Instructor and Volunteer"
 #permalink: /achievements/2025-01-20-achievement-8
