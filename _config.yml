@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "S M G Arafat Nishan"
   avatar           : "pro_pic_2.png"
-  bio              : "Azure Data Scientist👨‍💻| 4x Microsoft Certified"
+  bio              : "Azure Data Scientist👨‍💻| 4x Microsoft, 5x Oracle, 2x Salesforce Certified | Passionate about leveraging data science to solve problems to meet SDG goal"
   location         : "Neural Universe🪐"
   employer         : 
   pubmed           : 
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  medium           : #"https://neuralnishan.medium.com/"
+  medium           : "https://neuralnishan.medium.com/"
 
 
 # Reading Files
