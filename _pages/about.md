@@ -36,6 +36,7 @@ Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smga
 ---
 # International Olympiad of the Association (2025) : Global Universities , Olympiad
 ![Certificate Image](/files/opendoors/opendoor_2024_diploma.png)
+
 ---
 # Submit Your Query!
 Scan QR Code to fill up the form link below!
