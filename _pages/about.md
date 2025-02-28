@@ -34,7 +34,11 @@ Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smga
 ![Certificate Image](/files/oracle/oci_2023_foundation_associate_certifications.png)
 
 ---
-# International Olympiad of the Association (2025) : Global Universities , Olympiad
+# International Olympiad of the Association (2025) : Global Universities, Olympiad, Status: Winner, Rank: 23
+![Certificate Image](/files/opendoors/opendoor_2024_diploma.png)
+
+---
+# International Olympiad of the Association (2024) : Global Universities- Olympiad, Status: Prize-Winner, Rank: 46
 ![Certificate Image](/files/opendoors/opendoor_2024_diploma.png)
 
 ---
