@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi There!"
+title: "Hi There! Let's make it worth it"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -51,7 +51,7 @@ Scan QR Code to fill up the form link below!
 
 ![MicrosoftFormsQR](/files/qr/qr.png)
 
-Click the link below to fill out the forms!
+Click the link to fill out the forms!
 [link](https://forms.office.com/r/1S5HQET81s "Fillout Microsoft Forms!").
 
 
