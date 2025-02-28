@@ -39,7 +39,7 @@ Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smga
 
 ---
 # International Olympiad of the Association (2024) : Global Universities- Olympiad, Status: Prize-Winner, Rank: 46
-![Certificate Image](/files/opendoors/opendoor_2024_diploma.png)
+![Certificate Image](/files/opendoors/opendoor_2023_diploma.png)
 
 ---
 # Submit Your Query!
