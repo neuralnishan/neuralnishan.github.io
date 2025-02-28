@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi There! Let's make it worth it"
+title: "Hi There! Let's make it worth it :)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
