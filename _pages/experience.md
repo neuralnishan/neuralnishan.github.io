@@ -19,3 +19,10 @@ Work experience
 ## HeadGear Limited, Junior Software Developer Intern
 - **Location:** Dhaka, Bangladesh
 - **Duration:** May 2022 ‑ Aug 2022
+
+
+---
+Volunteer Experience
+## Microsoft PowerUP Champs Program by Microsoft Power Platform , Instructor
+- **Location:** Online
+- **Duration:** Jan 2025 ‑ Cont.
