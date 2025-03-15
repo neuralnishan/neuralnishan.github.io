@@ -11,6 +11,10 @@ Educational Background
 **Degree:** B.Sc. in Computer Science and Engineering\
 **Institution:** North South University (NSU)
 
+**Degree:** M.Sc. in Data Science\
+**Institution:** ....Ongoing....
+
+
 
 
 
