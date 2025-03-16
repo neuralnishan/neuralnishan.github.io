@@ -8,11 +8,9 @@ redirect_from:
 ---
 Educational Background
 ======
-**Degree:** B.Sc. in Computer Science and Engineering\
-**Institution:** North South University (NSU)
+**Degree:** B.Sc. in Computer Science and Engineering (NSU)\
 
-**Degree:** M.Sc. in Data Science\
-**Institution:** ....Ongoing....
+**Degree:** M.Sc. in Data Science(Cont..)\
 
 
 
