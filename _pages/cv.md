@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc in Computer Science and Engineering, North South University, 2022
+* B.Sc in Computer Science and Engineering
 
 
 Work experience
