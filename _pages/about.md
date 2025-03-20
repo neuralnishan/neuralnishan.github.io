@@ -21,7 +21,7 @@ Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smga
 
 ---
 # Member of AWS ETS
-![Certificate Image](/files/salesforcefiles/aws/aws_ets_membership.png)
+![Certificate Image](/files/aws/aws_ets_membership.png)
 
 ---
 # Salesforce Certification
