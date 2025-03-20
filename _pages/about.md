@@ -20,6 +20,10 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript").
 
 ---
+# Member of AWS ETS
+![Certificate Image](/files/salesforcefiles/aws/aws_ets_membership.png)
+
+---
 # Salesforce Certification
 ![Certificate Image](/files/salesforce/Badge_SF-Certified_AI-Associate.png)
 
