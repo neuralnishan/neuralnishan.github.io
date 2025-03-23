@@ -24,7 +24,7 @@ Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smga
 ![Certificate Image](/files/aws/aws_ets_membership.png)
 
 ---
-# Nvidia GTC Attendee 2025
+# NVIDIA GTC Spring 2025 Attendee 
 ![Certificate Image](/files/nvidia/nvidia_gtc_attendee.jpg)
 
 ---
