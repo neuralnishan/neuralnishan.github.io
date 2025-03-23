@@ -28,12 +28,12 @@ Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smga
 ![Certificate Image](/files/nvidia/nvidia_gtc_attendee.jpg)
 
 ---
-# Salesforce Certification
-![Certificate Image](/files/salesforce/Badge_SF-Certified_AI-Associate.png)
-
----
 # Microsoft Security Bootcamp 2024 Attendee
 ![Certificate Image](/files/microsoft/microsoft_security_bootcamp_2024_attendee.png)
+
+---
+# Salesforce Certification
+![Certificate Image](/files/salesforce/Badge_SF-Certified_AI-Associate.png)
 
 ---
 # Oracle Cloud Infrastructure Professional  Certification 
