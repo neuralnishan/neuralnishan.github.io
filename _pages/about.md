@@ -38,6 +38,10 @@ Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smga
 ---
 # Oracle Cloud Infrastructure Professional  Certification 
 ![Certificate Image](/files/oracle/oci_professional_certification.png)
+
+# Oracle Fusion Cloud Applications Certification 
+![Certificate Image](/files/oracle/oracle_fusion_cloud_applications_associate_cert_hcm_erp_cx_scm.png)
+
 # Oracle Cloud Infrastructure Associate Certification 
 ![Certificate Image](/files/oracle/oci_2023_foundation_associate_certifications.png)
 
