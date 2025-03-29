@@ -11,25 +11,12 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 {: .notice}
 
 ---
-# Microsoft Certification
-## Azure Odyssey: A Quadrilogy of Triumph!
+# Microsoft Azure Certification
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ---
 # Microsoft Learn Transcript
 Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript").
-
----
-# Member of AWS ETS 2025
-![Certificate Image](/files/aws/aws_ets_membership.png)
-
----
-# NVIDIA GTC Spring 2025 Attendee 
-![Certificate Image](/files/nvidia/nvidia_gtc_attendee.jpg)
-
----
-# Microsoft Security Bootcamp 2024 Attendee
-![Certificate Image](/files/microsoft/microsoft_security_bootcamp_2024_attendee.png)
 
 ---
 # Salesforce Certification
@@ -44,6 +31,18 @@ Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smga
 
 # Oracle Cloud Infrastructure Associate Certification 
 ![Certificate Image](/files/oracle/oci_2023_foundation_associate_certifications.png)
+
+---
+# Member of AWS ETS 2025
+![Certificate Image](/files/aws/aws_ets_membership.png)
+
+---
+# NVIDIA GTC Spring 2025 Attendee 
+![Certificate Image](/files/nvidia/nvidia_gtc_attendee.jpg)
+
+---
+# Microsoft Security Bootcamp 2024 Attendee
+![Certificate Image](/files/microsoft/microsoft_security_bootcamp_2024_attendee.png)
 
 ---
 # Submit Your Query!
