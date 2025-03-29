@@ -15,33 +15,36 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ---
-Microsoft Learn Transcript. Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript").
+Microsoft Learn Transcript -> Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript").
 {: .notice}
 
 ---
-# Oracle Cloud Infrastructure Professional  Certification 
+# Oracle Cloud Infrastructure Professional Certification (2023-2024)
 ![Certificate Image](/files/oracle/oci_professional_certification.png)
 
-# Oracle Fusion Cloud Applications Certification 
-![Certificate Image](/files/oracle/oracle_fusion_cloud_applications_associate_cert_hcm_erp_cx_scm.png)
+# Oracle Cloud Infrastructure Associate Certification (2025)
+![Certificate Image](/files/oracle/oci_2025_associate_cert.png)
 
-# Oracle Cloud Infrastructure Associate Certification 
+# Oracle Fusion Cloud Applications Certification (2025)
+![Certificate Image](/files/oracle/oracle_fusion_cloud_applications_2025_associate_cert_hcm_erp_cx_scm.png)
+
+# Oracle Cloud Infrastructure Associate Certification (2023)
 ![Certificate Image](/files/oracle/oci_2023_foundation_associate_certifications.png)
 
 ---
-# Salesforce Certification
+# Salesforce Certification (2024)
 ![Certificate Image](/files/salesforce/Badge_SF-Certified_AI-Associate.png)
 
 ---
-# Member of AWS ETS 2025
+# Member of AWS ETS (2025)
 ![Certificate Image](/files/aws/aws_ets_membership.png)
 
 ---
-# NVIDIA GTC Spring 2025 Attendee 
+# NVIDIA GTC Spring Attendee (2025)
 ![Certificate Image](/files/nvidia/nvidia_gtc_attendee.jpg)
 
 ---
-# Microsoft Security Bootcamp 2024 Attendee
+# Microsoft Security Bootcamp Attendee (2024)
 ![Certificate Image](/files/microsoft/microsoft_security_bootcamp_2024_attendee.png)
 
 ---
