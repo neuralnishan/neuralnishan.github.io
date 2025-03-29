@@ -25,7 +25,7 @@ Microsoft Learn Transcript -> Checkout my Transcript here! [link](https://learn.
 # Oracle Cloud Infrastructure Associate Certification (2025)
 ![Certificate Image](/files/oracle/oci_2025_associate_cert.png)
 
-# Oracle Fusion Cloud Applications Certification (2025)
+# Oracle Fusion Cloud Applicationsc(HCM,SCM,CX,ERP) Associate Certification (2025)
 ![Certificate Image](/files/oracle/oracle_fusion_cloud_applications_2025_associate_cert_hcm_erp_cx_scm.png)
 
 # Oracle Cloud Infrastructure Associate Certification (2023)
