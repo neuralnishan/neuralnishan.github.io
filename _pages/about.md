@@ -19,10 +19,6 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript").
 
 ---
-# Salesforce Certification
-![Certificate Image](/files/salesforce/Badge_SF-Certified_AI-Associate.png)
-
----
 # Oracle Cloud Infrastructure Professional  Certification 
 ![Certificate Image](/files/oracle/oci_professional_certification.png)
 
@@ -31,6 +27,10 @@ Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smga
 
 # Oracle Cloud Infrastructure Associate Certification 
 ![Certificate Image](/files/oracle/oci_2023_foundation_associate_certifications.png)
+
+---
+# Salesforce Certification
+![Certificate Image](/files/salesforce/Badge_SF-Certified_AI-Associate.png)
 
 ---
 # Member of AWS ETS 2025
