@@ -17,7 +17,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ---
-**Microsoft Learn Transcript -> Checkout my Transcript here!** [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript").
+## Microsoft Learn Transcript --> Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript").
 {: .notice}
 
 | Exam / Certification Code | Certification Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
