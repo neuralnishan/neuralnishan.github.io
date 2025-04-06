@@ -28,6 +28,15 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 | AI-900 | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Download](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png) | 2023-08-08| Unlimited | Microsoft | Online Proctored by PearsonVUE |
 
 ---
+# Microsoft Azure Applied Skills (Hands on Expertise on Azure Cloud)
+
+| Applied Skills Code | Applied Skills Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
+|------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
+| AI-3002| [Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/51e23d9da965588f) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/51e23d9da965588f) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png) | 2024-12-18 | Unlimited | Microsoft | Online MSFT Azure Cloud |
+| AI-3003| [Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Download](/files/microsoft/appliedskills/MMicrosoft Applied Skills Build a natural language processing solution with Azure AI Language.png) | 2024-12-15 | Unlimited | Microsoft | Online MSFT Azure Cloud |
+| DP-604| [Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bfe40a3e91369fb1) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bfe40a3e91369fb1) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Implement a data science and machine learning solution with Microsoft Fabric.png) | 2024-12-24 | Unlimited | Microsoft | Online MSFT Azure Cloud |
+
+---
 # Oracle Cloud Certifications (2023-2025)
 ## Oracle Cloud Infrastructure Professional Certification (2023-2024)
 ![Certificate Image](/files/oracle/logos/oci_professional_certification.png)
