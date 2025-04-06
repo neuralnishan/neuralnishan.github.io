@@ -9,15 +9,6 @@ redirect_from:
 ---
 # Certifications
 
-## Microsoft Azure Certifications
-
-| Logo | Certification Name | Verify Link | Date Obtained | Date Expiration | Download |
-|------|--------------------|-------------|---------------|-----------------|----------|
-| ![Microsoft Azure Logo](/files/microsoft/mslogos/azure-data-engineer-associate-600x600.png) | [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cc036a4b7affc9ae) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cc036a4b7affc9ae) | 2024-09-28 | 2025-09-28  | [Download](/files/microsoft/microsft_azure_data_engineer_associate_dp_203_certificate.png) |
-
-
-
-
 ---
 # Microsoft Azure Certifications
 ### Microsoft Certified: Azure Data Engineer Associate
