@@ -100,7 +100,7 @@ redirect_from:
 
 ### Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric
 
-![Certificate Image](/files/microsoft/Microsoft Applied Skills Implement a data science and machine learning solution with Microsoft Fabric.png)
+![Certificate Image](/files/microsoft/appliedskills/Microsoft Applied Skills Implement a data science and machine learning solution with Microsoft Fabric.png)
 > Fig. Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric
 
 ### Tasks Performed
@@ -115,7 +115,7 @@ redirect_from:
 
 ### Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence
 
-![Certificate Image](/files/microsoft/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png)
+![Certificate Image](/files/microsoft/appliedskills/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png)
 > Fig. Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence
 
 ### Tasks Performed
@@ -129,7 +129,7 @@ redirect_from:
 
 ### Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language
 
-![Certificate Image](/files/microsoft/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png)
+![Certificate Image](/files/microsoft/appliedskills/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png)
 > Fig. Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language
 
 ### Tasks Performed
@@ -170,7 +170,7 @@ redirect_from:
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2024 Generative AI Professional
 
-![Certificate Image](/files/oracle/oci_generative_ai_2024_professional_certificate.png)
+![Certificate Image](/files/oracle/certificates/oci_generative_ai_2024_professional_certificate.png)
 > Fig. OCI Generative AI Professional Certificate
 
 ### Skills measured
@@ -183,7 +183,7 @@ redirect_from:
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2023 Data Science Professional
 
-![Certificate Image](/files/oracle/oci_data_science_professional_2023_certificate.png)
+![Certificate Image](/files/oracle/certificates/oci_data_science_professional_2023_certificate.png)
 > Fig. Oracle Cloud Infrastructure 2023 Data Science Professional Certificate
 
 ### Skills measured
@@ -203,7 +203,7 @@ redirect_from:
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2023 AI Foundations Associate
 
-![Certificate Image](/files/oracle/oci_2023_ai_foundation_associate_certificate.png)
+![Certificate Image](/files/oracle/certificates/oci_2023_ai_foundation_associate_certificate.png)
 > Fig. Oracle Cloud Infrastructure 2023 AI Foundations Associate Certificate
 
 ### Skills measured
@@ -218,7 +218,7 @@ redirect_from:
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2023 Foundations Associate
 
-![Certificate Image](/files/oracle/oci_2023_certified_foundation_associate_certificate.png)
+![Certificate Image](/files/oracle/certificates/oci_2023_certified_foundation_associate_certificate.png)
 > Fig. Oracle Cloud Infrastructure 2023 Foundations Associate Certificate
 
 ### Skills measured
@@ -234,7 +234,7 @@ redirect_from:
 
 ### Oracle Certified: Oracle Cloud Data Management 2023 Foundations Associate
 
-![Certificate Image](/files/oracle/oci_data_management_2023_foundation_associate_certificate.png)
+![Certificate Image](/files/oracle/certificates/oci_data_management_2023_foundation_associate_certificate.png)
 > Fig. Oracle Cloud Data Management 2023 Foundations Associate Certificate
 
 ### Skills measured
