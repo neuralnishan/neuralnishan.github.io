@@ -20,7 +20,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 ## Microsoft Learn Transcript --> Checkout my Transcript here! [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript")
 
 
-| Exam / Certification Code | Certification Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
+| Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
 | DP-203 | [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cc036a4b7affc9ae) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cc036a4b7affc9ae) | [Download](/files/microsoft/microsft_azure_data_engineer_associate_dp_203_certificate.png) | 2024-11-28 | 2025-11-28 | Microsoft | Online Proctored by PearsonVUE |
 | AI-102| [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/CAB2713E62F9049A) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cab2713e62f9049a) | [Download](/files/microsoft/microsft_azure_ai_engineer_associate_ai_102_certificate.png) | 2024-04-30 | 2026-04-30 | Microsoft | Online Proctored by PearsonVUE |
@@ -53,7 +53,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 ## Oracle Cloud Infrastructure Associate Certification (2023)
 ![Certificate Image](/files/oracle/logos/oci_2023_foundation_associate_certifications.png)
 
-| Exam / Certification Code | Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
+| Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
 | 1Z0-1195-25 | [Oracle Data Platform 2025 Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24CC81FC2D539E062FEBFE65EBBF49679ACC6C0775A01D8ACEAF723583573E87)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24CC81FC2D539E062FEBFE65EBBF49679ACC6C0775A01D8ACEAF723583573E87)| [Download](/files/oracle/certificates/oci_data_platform_2025_certified_foundations_associate.png)| 2025-04-06 | 2027-04-06 | Oracle | Online Proctored by Proctorio|
 | 1Z0-12101-25| [Oracle Cloud Success Navigator Essentials](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A1AC6D0CD7E7CDE713ED5D9B0872B37A91D5211974A4FA401D7E2A12DD758D11)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A1AC6D0CD7E7CDE713ED5D9B0872B37A91D5211974A4FA401D7E2A12DD758D11)| [Download](/files/oracle/certificates/oracle_cloud_success_2025_navigator_essentials.png)| 2025-03-29 | 2027-03-29 | Oracle | Online Proctored by Proctorio |
@@ -72,9 +72,9 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 ---
 # Salesforce Certification (2024)
 
-| Exam / Certification Code | Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
+| Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
-| 1Z0-1195-25 | [Salesforce Certified AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
+| N/A | [Salesforce Certified AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 
 ---
 # Member of AWS ETS (2025)
