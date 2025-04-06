@@ -29,7 +29,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 | AI-900 | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Download](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png) | 2023-08-08| Unlimited | Microsoft | Online Proctored by PearsonVUE |
 
 ---
-# Oracle Cloud Certifications
+# Oracle Cloud Certifications (2023-2025)
 ## Oracle Cloud Infrastructure Professional Certification (2023-2024)
 ![Certificate Image](/files/oracle/logos/oci_professional_certification.png)
 
@@ -60,6 +60,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 
 ---
 # Salesforce Certification (2024)
+
 | Exam / Certification Code | Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
 | 1Z0-1195-25 | [Salesforce Certified AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
