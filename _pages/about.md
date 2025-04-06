@@ -27,6 +27,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 | DP-100 | [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a2c48d4c8739efa2) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a2c48d4c8739efa2) | [Download](/files/microsoft/microsft_azure_data_scientist_associate_dp_100_certificate.png) | 2024-04-28 | 2026-04-28 | Microsoft | Online Proctored by PearsonVUE |
 | AI-900 | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Download](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png) | 2023-08-08| Unlimited | Microsoft | Online Proctored by PearsonVUE |
 
+---
 
 # Oracle Cloud Certifications
 ## Oracle Cloud Infrastructure Professional Certification (2023-2024)
@@ -41,6 +42,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 ## Oracle Cloud Infrastructure Associate Certification (2023)
 ![Certificate Image](/files/oracle/logos/oci_2023_foundation_associate_certifications.png)
 
+---
 | Exam / Certification Code | Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
 | 1Z0-1195-25 | [Oracle Data Platform 2025 Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24CC81FC2D539E062FEBFE65EBBF49679ACC6C0775A01D8ACEAF723583573E87)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24CC81FC2D539E062FEBFE65EBBF49679ACC6C0775A01D8ACEAF723583573E87)| [Download](/files/oracle/certificates/oci_data_platform_2025_certified_foundations_associate.png)| 2025-04-06 | 2027-04-06 | Oracle | Online Proctored by Proctorio|
@@ -55,12 +57,15 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 | 1Z0-1105-23| [Oracle Cloud Data Management 2023 Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EDB1D7B5BC55B0792B75103E0A3FED57061D15C244141FBF09C0915DB5A5ADF2)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EDB1D7B5BC55B0792B75103E0A3FED57061D15C244141FBF09C0915DB5A5ADF2)| [Download](/files/oracle/certificates/oci_data_management_2023_foundation_associate.png)| 2023-09-26 | 2025-09-26 | Oracle | Online Proctored by Proctorio |
 | 1Z0-1085-23| [Oracle Cloud Infrastructure 2023 Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C4C367FE735E18EA7368BAF239838FD07A2867C5FE87DBA93C31AA046B709010)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C4C367FE735E18EA7368BAF239838FD07A2867C5FE87DBA93C31AA046B709010)| [Download](/files/oracle/certificates/oci_2023_certified_foundation_associate.png)| 2023-09-18 | 2025-09-18 | Oracle | Online Proctored by Proctorio |
 | 1Z0-1122-23| [Oracle Cloud Infrastructure 2023 AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30C10DE85126138FE96AECDD36784A529DC8407FC27CF0C4214C58B44F28DD39)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30C10DE85126138FE96AECDD36784A529DC8407FC27CF0C4214C58B44F28DD39)| [Download](/files/oracle/certificates/oci_2023_ai_certified_foundation_associate.png)| 2023-09-17 | 2025-09-17 | Oracle | Online Proctored by Proctorio |
-| 1Z0-1110-23| [Oracle Cloud Infrastructure 2023 Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B)| [Download](/files/oracle/certificates/oci_2023_certified_data_science_professional.png)| 2023-08-10 | 2025-08-10 | Oracle | Online Proctored by Respondus LockedDown Browser |
+| 1Z0-1110-23| [Oracle Cloud Infrastructure 2023 Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B)| [Download](/files/oracle/certificates/oci_2023_certified_data_science_professional.png)| 2023-08-10 | 2025-08-10 | Oracle | Online Proctored by Respondus LockedDown Browser|
+
+---
 # Salesforce Certification (2024)
 | Exam / Certification Code | Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
 | 1Z0-1195-25 | [Salesforce Certified AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 
+---
 # Member of AWS ETS (2025)
 ![Certificate Image](/files/aws/aws_ets_membership.png)
 
