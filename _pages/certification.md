@@ -170,7 +170,7 @@ redirect_from:
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2024 Generative AI Professional
 
-![Certificate Image](/files/oracle/certificates/oci_generative_ai_2024_professional_certificate.png)
+![Certificate Image](/files/oracle/certificates/oci_2024_generative_ai_certified_professional.png)
 > Fig. OCI Generative AI Professional Certificate
 
 ### Skills measured
@@ -183,7 +183,7 @@ redirect_from:
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2023 Data Science Professional
 
-![Certificate Image](/files/oracle/certificates/oci_data_science_professional_2023_certificate.png)
+![Certificate Image](/files/oracle/certificates/oci_2023_certified_data_science_professional.png)
 > Fig. Oracle Cloud Infrastructure 2023 Data Science Professional Certificate
 
 ### Skills measured
@@ -203,7 +203,7 @@ redirect_from:
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2023 AI Foundations Associate
 
-![Certificate Image](/files/oracle/certificates/oci_2023_ai_foundation_associate_certificate.png)
+![Certificate Image](/files/oracle/certificates/oci_2025_certified_ai_foundations_associate.png)
 > Fig. Oracle Cloud Infrastructure 2023 AI Foundations Associate Certificate
 
 ### Skills measured
@@ -218,7 +218,7 @@ redirect_from:
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2023 Foundations Associate
 
-![Certificate Image](/files/oracle/certificates/oci_2023_certified_foundation_associate_certificate.png)
+![Certificate Image](/files/oracle/certificates/oci_2023_certified_foundation_associate.png)
 > Fig. Oracle Cloud Infrastructure 2023 Foundations Associate Certificate
 
 ### Skills measured
@@ -234,7 +234,7 @@ redirect_from:
 
 ### Oracle Certified: Oracle Cloud Data Management 2023 Foundations Associate
 
-![Certificate Image](/files/oracle/certificates/oci_data_management_2023_foundation_associate_certificate.png)
+![Certificate Image](/files/oracle/certificates/oci_data_management_2023_foundation_associate.png)
 > Fig. Oracle Cloud Data Management 2023 Foundations Associate Certificate
 
 ### Skills measured
