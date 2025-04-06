@@ -29,7 +29,6 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 
 
 # Oracle Cloud Certifications
----
 ## Oracle Cloud Infrastructure Professional Certification (2023-2024)
 ![Certificate Image](/files/oracle/logos/oci_professional_certification.png)
 
@@ -41,6 +40,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 
 ## Oracle Cloud Infrastructure Associate Certification (2023)
 ![Certificate Image](/files/oracle/logos/oci_2023_foundation_associate_certifications.png)
+
 | Exam / Certification Code | Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
 | 1Z0-1195-25 | [Oracle Data Platform 2025 Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24CC81FC2D539E062FEBFE65EBBF49679ACC6C0775A01D8ACEAF723583573E87)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24CC81FC2D539E062FEBFE65EBBF49679ACC6C0775A01D8ACEAF723583573E87)| [Download](/files/oracle/certificates/oci_data_platform_2025_certified_foundations_associate.png)| 2024-04-06 | 2025-04-06 | Oracle | Online Proctored by Proctorio|
@@ -59,7 +59,6 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 
 
 # Salesforce Certification (2024)
----
 | Exam / Certification Code | Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
 | 1Z0-1195-25 | [Salesforce Certified AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
