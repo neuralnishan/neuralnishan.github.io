@@ -18,7 +18,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 
 ---
 # Joining in the Microsoft AI Skills Fest (2025)
-![Certificate Image](/files/microsoft/MicrosoftAISkillsFestGWRAttemptBadge[full].png)
+![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
 
 ---
 ## [Microsoft Learn Transcript:Checkout my Transcript here>Click this link!](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript")
