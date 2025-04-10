@@ -1,14 +1,10 @@
 ---
 layout: archive
-title: "Microsoft Certification"
+title: "Certifications"
 permalink: /certification/
 author_profile: true
 redirect_from:
   - /resume
-
----
-# Certifications
-
 ---
 # Microsoft Azure Certifications
 ### Microsoft Certified: Azure Data Engineer Associate
