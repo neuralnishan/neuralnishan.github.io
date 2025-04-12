@@ -23,7 +23,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 
 ---
 # Microsoft Azure Certifications (2023-2026)
----
+
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
 | DP-203 | [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cc036a4b7affc9ae) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cc036a4b7affc9ae) | [Download](/files/microsoft/microsft_azure_data_engineer_associate_dp_203_certificate.png) | 2024-11-28 | 2025-11-28 | Microsoft | Online Proctored by PearsonVUE |
