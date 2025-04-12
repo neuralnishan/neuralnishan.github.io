@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi There! What's in it for me? :)"
+title: "Hi There + What's in it for me? + You will find everything + Just Scroll from top to bottom of the first page."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
