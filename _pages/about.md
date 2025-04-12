@@ -13,7 +13,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 ---
 
 
-# Microsoft Azure Certification (2023-2025)
+# Microsoft Azure Certification (2023-2026)
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ---
@@ -32,7 +32,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 | AI-900 | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Download](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png) | 2023-08-08| Unlimited | Microsoft | Online Proctored by PearsonVUE |
 
 ---
-# Microsoft Azure Applied Skills (Hands on Expertise on Azure Cloud)
+# Microsoft Azure Applied Skills (2024-2025)
 
 | Applied Skills Code | Applied Skills Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
