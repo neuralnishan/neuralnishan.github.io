@@ -10,20 +10,18 @@ redirect_from:
 It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinating world of **data-driven** exploration. I’m on a quest to contribute my skill set as a cognitive explorer, seeking out opportunities that align with my fervor for cutting-edge artificial intelligence research. Recently, I’ve been actively pursuing a role within a technically-oriented establishment—one that allows me to nurture and elevate my proficiencies while contributing to the organization’s strategic objectives. My journey in the data-driven analysis realm spans over three year, during which I’ve honed my expertise as a researcher, continuous learner. Notably, I hold certification from the prestigious Microsoft Azure **DP-100,AI-102,DP-203,AI-900** and Oracle OCI Data Science and Generative AI Professional certification.My initiation into this field began with an extensive repertoire of coursework via Coursera, where I collaborated with fellow data professionals. Together, we tackled real-world problems, applying pragmatic solutions rooted in innovative data-driven science.Now, let’s talk tech! My skill set includes proficiency in **Python, R, and SQL** —essential tools for predictive modeling and rigorous statistical analyses. Additionally, I’m adept at navigating database systems and love crafting captivating data visualizations using **Tableau**. But it’s not just about the technical side. I’m deeply committed to advancing principles of **diversity, equity, and inclusion**."
 {: .notice}
 
-
+---
+# Microsoft Azure Certifications (2023-2026)
+![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ---
 # Joining in the Microsoft AI Skills Fest (2025)
 ![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
 
 ---
-# Microsoft Azure Certification (2023-2026)
-![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
-
----
 ## Microsoft Learn Transcript -->[Click this link!](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript")
 
-
+# Microsoft Azure Certifications (2023-2026)
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
 | DP-203 | [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cc036a4b7affc9ae) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cc036a4b7affc9ae) | [Download](/files/microsoft/microsft_azure_data_engineer_associate_dp_203_certificate.png) | 2024-11-28 | 2025-11-28 | Microsoft | Online Proctored by PearsonVUE |
