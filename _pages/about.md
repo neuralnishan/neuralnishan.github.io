@@ -48,7 +48,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 ## Oracle Cloud Success Navigator Essentials (2025)
 ![Certificate Image](/files/oracle/logos/oracle_cloud_success_navigator_essentials_2025.png)
 
-## Oracle Cloud Infrastructure Associate Certification (2023-2025)
+## Oracle Cloud Infrastructure Other Achievements (2023-2025)
 ![Certificate Image](/files/oracle/logos/other_oracle_achievements.png)
 
 ## Oracle Cloud Infrastructure Associate Certification (2023)
