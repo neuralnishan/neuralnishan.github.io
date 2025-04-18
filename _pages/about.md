@@ -41,9 +41,11 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 | AI-3003| [Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png) | 2024-12-15 | Unlimited | Microsoft | Online MSFT Azure Cloud |
 
 ---
+# Oracle Cloud Badges (2023-2025)
+![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)
+
 # Oracle Cloud Certifications (2023-2025)
 ## Oracle Cloud Infrastructure Professional Certification (2023-2024)
-![Certificate Image](/files/oracle/logos/oci_professional_certification.png)
 
 ## Oracle Cloud Infrastructure Associate Certification (2025)
 ![Certificate Image](/files/oracle/logos/oci_2025_foundation_associate_certifications.png)
@@ -54,7 +56,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 ## Oracle Cloud Infrastructure Other Achievements (2023-2025)
 ![Certificate Image](/files/oracle/logos/other_oracle_achievements.png)
 
-## Oracle Fusion Cloud Applications (HCM,SCM,CX,ERP) Associate Certification (2025)
+## Oracle Fusion Cloud Applications SaaS (HCM,SCM,CX,ERP) Associate Certification (2025)
 ![Certificate Image](/files/oracle/logos/oracle_fusion_cloud_applications_2025_associate_cert_hcm_erp_cx_scm.png)
 
 ## Oracle Cloud Infrastructure Associate Certification (2023)
