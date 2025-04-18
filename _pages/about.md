@@ -15,6 +15,10 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ---
+# Oracle Cloud Badges (2023-2025)
+![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)
+
+---
 # Joining in the Microsoft AI Skills Fest (2025)
 ![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
 
@@ -41,9 +45,6 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 | AI-3003| [Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png) | 2024-12-15 | Unlimited | Microsoft | Online MSFT Azure Cloud |
 
 ---
-# Oracle Cloud Badges (2023-2025)
-![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)
-
 # Oracle Cloud Certifications (2023-2025)
 ## Oracle Cloud Infrastructure Professional Certification (2023-2024)
 ![Certificate Image](/files/oracle/logos/oci_professional_certification.png)
