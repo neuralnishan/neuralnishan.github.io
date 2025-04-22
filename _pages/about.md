@@ -15,8 +15,7 @@ It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinat
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ---
-# AWS Eudcate and AWS Emerging Talent Community Member (2025)
-### Duration: Feb 2024 - Cont.
+# AWS Eudcate & AWS Emerging Talent Community Member (2025)
 ![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
 
 ---
