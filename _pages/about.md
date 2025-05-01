@@ -11,7 +11,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 {: .notice}
 
 ---
-⌚Avg. Email & Msg. Response: 5-7 working days as well as for DM too.
+⌚Avg. Email, Call & Msg. Response: 5-7 working days (UTC+1 : 8PM-9PM) as well as for DM too.
 {: .notice}
 
 ---
