@@ -8,28 +8,24 @@ redirect_from:
   - /about.html
 ---
 Nishan is an Azure Data Scientist as well as an AI enthusiast, and his passion lies in the fascinating world of Data-Driven exploration. He is genuinely interested in the research field of NLP, especially in ML, CV, GenAI, LLMs, AI agents, and RLHF.
-{: .notice}
-
----
+\n
 He is highly dedicated to multi-cloud computing technology. For example, he predominantly gained knowledge through self-paced learning in Microsoft Learn, and he later obtained an expertise in the Data and AI path through Microsoft Certification. He also has more than two years of hands-on experience with Azure Cloud, and he leveraged the expertise he gained through Microsoft Azure applied skills to solve POC challenges on Azure Cloud. He additionally concentrated on Oracle Cloud Infrastructure and Oracle Fusion Cloud(CX,HCM,SCM,ERP). He has Oracle Cloud professional certifications including Data Science Professional, Generative AI Professional, and AI Vector Search Professional. He devoted himself to solving data-related problems not only through cloud technologies but also on personal computers as well.He is skilled in data science tools such as Python, SQL, Tableau, PowerBI on MS Fabric, Apache Spark, and Apache Airflow. He also has knowledge of A/B testing, CI/CD pipelines, ETL/ELT, EDA, MLflow, and ML life cycles. 
-{: .notice}
-
----
+\n
 Aside from his expertise in technology, he loves making his own meals, reading books, watching Sci-Fi movies, participating in Olympiads, and exploring historical sites. Although he rarely checks social media too often, he appreciates communication via email, or you can submit your query by filling out the MSFT form below :)
 {: .notice}
 
-📧Email: neuralnishan@protonmail.com
-📝Form: https://forms.office.com/r/1S5HQET81s
-⌚Avg. Response: 7 working days as well as for DM too
+📧Email: neuralnishan@protonmail.com\n
+📝Form: https://forms.office.com/r/1S5HQET81s\n
+⌚Avg. Response: 7 working days as well as for DM too\n
 {: .notice}
 
 URLs:
-🔗Personal & Portfolio Website : https://neuralnishan.github.io/
-🔗LinkedIn : https://nl.linkedin.com/in/smnishan
-🔗Substack: https://substack.com/@neuralnishan
-🔗Github : https://github.com/neuralnishan
-🔗Credly : https://www.credly.com/users/neuralnishan
-🔗Salesforce: https://www.salesforce.com/trailblazer/neuralnishan
+🔗Personal & Portfolio Website : [link]( https://neuralnishan.github.io/ "Github")
+🔗LinkedIn : [link](https://nl.linkedin.com/in/smnishan "LinkedIN")
+🔗Substack: [link](https://substack.com/@neuralnishan "Substack")
+🔗Github :[link]( https://github.com/neuralnishan "Github")
+🔗Credly : [link](https://www.credly.com/users/neuralnishan "Credly")
+🔗Salesforce: [link](https://www.salesforce.com/trailblazer/neuralnishan "Salesforce")
 {: .notice}
 
 
