@@ -19,6 +19,10 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ---
+# Joined in the Microsoft AI Skills Fest (2025) | Helped to set a GWR Title
+![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
+
+---
 # AWS Eudcate & AWS Emerging Talent Community Member (2025)
 ![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
 
@@ -26,9 +30,6 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 # Oracle Cloud Badges (2023-2025)
 ![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)
 
----
-# Joining in the Microsoft AI Skills Fest (2025)
-![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
 
 ---
 # Microsoft Learn Transcript -->[Click this link!](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript")
