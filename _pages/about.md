@@ -12,18 +12,18 @@ Aside from his expertise in technology, he loves making his own meals, reading b
 {: .notice}
 
 ---
-### 📧Email: neuralnishan@protonmail.com\n
-### 📝Form: https://forms.office.com/r/1S5HQET81s\n
-### ⌚Avg. Response: 7 working days as well as for DM too\n
+### 📧Email: neuralnishan@protonmail.com
+### 📝Form: https://forms.office.com/r/1S5HQET81s
+### ⌚Avg. Response: 7 working days as well as for DM too
+{: .notice}
 
-
-### URLs:
-# 🔗Personal & Portfolio Website : [link]( https://neuralnishan.github.io/ "Github")
-# 🔗LinkedIn : [link](https://nl.linkedin.com/in/smnishan "LinkedIN")
-# 🔗Substack: [link](https://substack.com/@neuralnishan "Substack")
-# 🔗Github :[link]( https://github.com/neuralnishan "Github")
-# 🔗Credly : [link](https://www.credly.com/users/neuralnishan "Credly")
-# 🔗Salesforce: [link](https://www.salesforce.com/trailblazer/neuralnishan "Salesforce")
+# URLs:
+### 🔗Personal & Portfolio Website : [link]( https://neuralnishan.github.io/ "Github")
+### 🔗LinkedIn : [link](https://nl.linkedin.com/in/smnishan "LinkedIN")
+### 🔗Substack: [link](https://substack.com/@neuralnishan "Substack")
+### 🔗Github :[link]( https://github.com/neuralnishan "Github")
+### 🔗Credly : [link](https://www.credly.com/users/neuralnishan "Credly")
+### 🔗Salesforce: [link](https://www.salesforce.com/trailblazer/neuralnishan "Salesforce")
 
 
 ---
