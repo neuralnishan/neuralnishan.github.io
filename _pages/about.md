@@ -1,11 +1,32 @@
 ---
 permalink: /
-title: "Hi There + What's in it for me? + You will find everything + Just scroll from top to bottom of the first page."
+title: "Hi There + What's in it?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
+Nishan is an Azure Data Scientist as well as an AI enthusiast, and his passion lies in the fascinating world of Data-Driven exploration. He is genuinely interested in the research field of NLP, especially in ML, CV, GenAI, LLMs, AI agents, and RLHF.
+
+He is highly dedicated to multi-cloud computing technology. For example, he predominantly gained knowledge through self-paced learning in Microsoft Learn, and he later obtained an expertise in the Data and AI path through Microsoft Certification. He also has more than two years of hands-on experience with Azure Cloud, and he leveraged the expertise he gained through Microsoft Azure applied skills to solve POC challenges on Azure Cloud. He additionally concentrated on Oracle Cloud Infrastructure and Oracle Fusion Cloud(CX,HCM,SCM,ERP). He has Oracle Cloud professional certifications including Data Science Professional, Generative AI Professional, and AI Vector Search Professional. He devoted himself to solving data-related problems not only through cloud technologies but also on personal computers as well.He is skilled in data science tools such as Python, SQL, Tableau, PowerBI on MS Fabric, Apache Spark, and Apache Airflow. He also has knowledge of A/B testing, CI/CD pipelines, ETL/ELT, EDA, MLflow, and ML life cycles. 
+
+Aside from his expertise in technology, he loves making his own meals, reading books, watching Sci-Fi movies, participating in Olympiads, and exploring historical sites. Although he rarely checks social media too often, he appreciates communication via email, or you can submit your query by filling out the MSFT form below :)
+
+📧Email: neuralnishan@protonmail.com
+📝Form: https://forms.office.com/r/1S5HQET81s
+⌚Avg. Response: 7 working days as well as for DM too
+
+URLs:
+🔗Personal & Portfolio Website : https://neuralnishan.github.io/
+🔗LinkedIn : https://nl.linkedin.com/in/smnishan
+🔗Substack: https://substack.com/@neuralnishan
+🔗Github : https://github.com/neuralnishan
+🔗Credly : https://www.credly.com/users/neuralnishan
+🔗Salesforce: https://www.salesforce.com/trailblazer/neuralnishan
+{: .notice}
+
+
 ---
 It's **Nishan**, I’m an **AI Enthusiast**, and my passion lies in the fascinating world of **data-driven** exploration. I’m on a quest to contribute my skill set as a cognitive explorer, seeking out opportunities that align with my fervor for cutting-edge artificial intelligence research. Recently, I’ve been actively pursuing a role within a technically-oriented establishment—one that allows me to nurture and elevate my proficiencies while contributing to the organization’s strategic objectives. My journey in the data-driven analysis realm spans over three year, during which I’ve honed my expertise as a researcher, continuous learner. Notably, I hold certification from the prestigious Microsoft Azure **DP-100,AI-102,DP-203,AI-900** and Oracle OCI Data Science and Generative AI Professional certification.My initiation into this field began with an extensive repertoire of coursework via Coursera, where I collaborated with fellow data professionals. Together, we tackled real-world problems, applying pragmatic solutions rooted in innovative data-driven science.Now, let’s talk tech! My skill set includes proficiency in **Python, R, and SQL** —essential tools for predictive modeling and rigorous statistical analyses. Additionally, I’m adept at navigating database systems and love crafting captivating data visualizations using **Tableau**. But it’s not just about the technical side. I’m deeply committed to advancing the principles of **diversity, equity, and inclusion**."
 {: .notice}
