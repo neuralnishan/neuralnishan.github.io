@@ -11,18 +11,8 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 {: .notice}
 
 ---
-# 📝Form: https://forms.office.com/r/1S5HQET81s  , ⌚Avg. Response: 5-7 working days as well as for DM too.
-
-
----
-# Important URLs:
-### 🔗Personal & Portfolio Website : [link]( https://neuralnishan.github.io/ "Github")
-### 🔗LinkedIn : [link](https://nl.linkedin.com/in/smnishan "LinkedIN")
-### 🔗Substack: [link](https://substack.com/@neuralnishan "Substack")
-### 🔗Github :[link]( https://github.com/neuralnishan "Github")
-### 🔗Credly : [link](https://www.credly.com/users/neuralnishan "Credly")
-### 🔗Salesforce: [link](https://www.salesforce.com/trailblazer/neuralnishan "Salesforce")
-
+⌚Avg. Email & Msg. Response: 5-7 working days as well as for DM too.
+{: .notice}
 
 ---
 # Microsoft Azure Certifications (2023-2026)
