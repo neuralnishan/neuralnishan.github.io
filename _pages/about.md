@@ -54,6 +54,14 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | AI-3003| [Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png) | 2024-12-15 | Unlimited | Microsoft | Online MSFT Azure Cloud |
 
 ---
+# Salesforce Certification (2024-2025)
+
+| Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
+|---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
+| N/A | [Salesforce AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
+| AFS-201 | [Salesforce Agentforce Specialist](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2025-04-18 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
+
+---
 # Oracle Cloud Certifications (2023-2025)
 ## Oracle Cloud Infrastructure Professional Certification (2023-2024)
 ![Certificate Image](/files/oracle/logos/oci_professional_certification.png)
@@ -88,14 +96,6 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | 1Z0-1085-23| [Oracle Cloud Infrastructure 2023 Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C4C367FE735E18EA7368BAF239838FD07A2867C5FE87DBA93C31AA046B709010)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C4C367FE735E18EA7368BAF239838FD07A2867C5FE87DBA93C31AA046B709010)| [Download](/files/oracle/certificates/oci_2023_certified_foundation_associate.png)| 2023-09-18 | 2025-09-18 | Oracle | Online Proctored by Proctorio |
 | 1Z0-1122-23| [Oracle Cloud Infrastructure 2023 AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30C10DE85126138FE96AECDD36784A529DC8407FC27CF0C4214C58B44F28DD39)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30C10DE85126138FE96AECDD36784A529DC8407FC27CF0C4214C58B44F28DD39)| [Download](/files/oracle/certificates/oci_2023_ai_certified_foundation_associate.png)| 2023-09-17 | 2025-09-17 | Oracle | Online Proctored by Proctorio |
 | 1Z0-1110-23| [Oracle Cloud Infrastructure 2023 Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B)| [Download](/files/oracle/certificates/oci_2023_certified_data_science_professional.png)| 2023-08-10 | 2025-08-10 | Oracle | Online Proctored by Respondus LockedDown Browser|
-
----
-# Salesforce Certification (2024-2025)
-
-| Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
-|---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
-| N/A | [Salesforce AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
-| AFS-201 | [Salesforce Agentforce Specialist](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2025-04-18 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 
 ---
 # NVIDIA GTC Spring Attendee (2025)
