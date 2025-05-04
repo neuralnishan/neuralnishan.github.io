@@ -62,7 +62,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | AFS-201 | [Salesforce Agentforce Specialist](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2025-04-18 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 
 ---
-# Oracle Cloud Certifications (2023-2025)
+# Oracle Cloud Certifications (2023-2027)
 ## Oracle Cloud Infrastructure Professional Certification (2023-2024)
 ![Certificate Image](/files/oracle/logos/oci_professional_certification.png)
 
