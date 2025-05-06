@@ -11,7 +11,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 {: .notice}
 
 ---
-⌚**Avg. Email, Call & Msg. Response: 3-7** working days and **(UTC+1 : 8PM-9PM)** as well as for **DM** too.
+⌚**Avg. Email, Call & Msg. Response: 7-14** working days due to the professional busy schedule.**N.B.** It might vary based on the time. and **(UTC+1 : 8PM-9PM)** as well as for **DM** too.
 {: .notice}
 
 ---
@@ -23,11 +23,11 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
 
 ---
-# AWS Eudcate & AWS Emerging Talent Community Member (2025)
+# AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025)
 ![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
 
 ---
-# Oracle Cloud Badges (2023-2025)
+# Oracle Cloud Community and Winner Badges (2023-2025)
 ![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)
 
 
