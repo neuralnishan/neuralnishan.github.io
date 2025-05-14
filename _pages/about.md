@@ -11,17 +11,6 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 {: .notice}
 
 ---
-# Communication Preference:
-1st: 📩 Email (Priority within 24 hours)
-2nd: 📝 Microsoft Forms (Priority within 7-14 work/business days)
-3rd: 📞 Phone Calls (UTC+1 : 8.00 PM - 9.00 PM)
-{: .notice}
-
----
-⌚**N.B.** Unknown numbers will be automaticaly rejected or will be forwared to AI assitant. I suggest you fill up the **MSFT Form** at first, then make a phone call. It might vary based on the time.**(UTC+1 : 8.00 PM - 9.00 PM)** as well as for **DM** too.
-{: .notice}
-
----
 # Microsoft Azure Certifications (2023-2026)
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
@@ -112,6 +101,16 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 # Microsoft Security Bootcamp Attendee (2024)
 ![Certificate Image](/files/microsoft/microsoft_security_bootcamp_2024_attendee.png)
 
+---
+# Communication Preference:
+1st: 📩 Email (Priority within 24 hours)\n
+2nd: 📝 Microsoft Forms (Priority within 7-14 work/business days)\n
+3rd: 📞 Phone Calls (UTC+1 : 8.00 PM - 9.00 PM)\n
+{: .notice}
+
+---
+⌚**N.B.** Unknown numbers will be automaticaly rejected or will be forwared to AI assitant. I suggest you fill up the **MSFT Form** at first, then make a phone call. It might vary based on the time.**(UTC+1 : 8.00 PM - 9.00 PM)** as well as for **DM** too.
+{: .notice}
 ---
 # Submit Your Query!
 Scan QR Code to fill up the form link below!
