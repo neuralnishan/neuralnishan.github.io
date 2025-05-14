@@ -103,9 +103,9 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 
 ---
 # Communication Preference:
-1st: 📩 Email (Priority within 24 hours)\n
-2nd: 📝 Microsoft Forms (Priority within 7-14 work/business days)\n
-3rd: 📞 Phone Calls (UTC+1 : 8.00 PM - 9.00 PM)\n
+1st: 📩 Email (Priority within 24 hours)< br / >
+2nd: 📝 Microsoft Forms (Priority within 7-14 work/business days)< br / >
+3rd: 📞 Phone Calls (UTC+1 : 8.00 PM - 9.00 PM)< br / >
 {: .notice}
 
 ---
