@@ -12,12 +12,13 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 
 ---
 # Communication Preference:
-### 1st: 📩 Email (Priority within 24 hours)
-### 2nd: 📝 Microsoft Forms (Priority within 7-14 work/business days)
-### 3rd: 📞 Phone Calls (UTC+1 : 8.00 PM - 9.00 PM)
+1st: 📩 Email (Priority within 24 hours)
+2nd: 📝 Microsoft Forms (Priority within 7-14 work/business days)
+3rd: 📞 Phone Calls (UTC+1 : 8.00 PM - 9.00 PM)
+{: .notice}
 
 ---
-⌚**N.B.** Unknown numbers will be automaticaly rejected or wll be forwared to AI assitant. I suggest you fill up the **MSFT Form** at first, then make a phone call. It might vary based on the time.**(UTC+1 : 8.00 PM - 9.00 PM)** as well as for **DM** too.
+⌚**N.B.** Unknown numbers will be automaticaly rejected or will be forwared to AI assitant. I suggest you fill up the **MSFT Form** at first, then make a phone call. It might vary based on the time.**(UTC+1 : 8.00 PM - 9.00 PM)** as well as for **DM** too.
 {: .notice}
 
 ---
