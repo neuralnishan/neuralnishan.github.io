@@ -6,23 +6,23 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-# Coding Mindset:
-## Let Assume Example variables
-Opportunity = 10    
-Anything = 5  
-Outliers = True  # Assume outliers exist  
-if Opportunity > Anything:  
-    print("Opportunity is greater!")  
-elif Outliers:  
-    print("Remove your outliers!")      
-else:  
-    print("No action needed and You are on the right track!")  
-{: .notice}   
 
 ---
 Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his passion lies in the fascinating world of Data-Driven exploration. He is genuinely interested in the research field of **NLP**, especially in **ML, CV, GenAI, LLMs, AI agents,** and **RLHF**.He is highly dedicated to multi-cloud computing technology. For example, he predominantly gained knowledge through **self-paced learning** in **Microsoft Learn**, and he later obtained an expertise in the **Data and AI** path through **Microsoft Certification** such as **DP-100,AI-102,DP-203,AI-900**. He also has more than **two years** of **hands-on experience** with **Azure Cloud**, and he leveraged the expertise he gained through **Microsoft Azure applied skills** to solve **POC challenges** on Azure Cloud. He additionally concentrated on **Oracle Cloud Infrastructure** and **Oracle Fusion Cloud(CX,HCM,SCM,ERP)**. He has **Oracle Cloud professional certifications including Data Science Professional, Generative AI Professional,** and **AI Vector Search Professional**. He devoted himself to solving data-related problems not only through cloud technologies but also on personal computers as well.He is skilled in data science and data engineering tools such as **Python, SQL, Tableau, PowerBI on MS Fabric, Apache Spark, and Apache Airflow.** He also has knowledge of **A/B testing, CI/CD pipelines, ETL/ELT, EDA, MLflow, and ML life cycles.** Aside from his expertise in technology, he loves making his own meals, reading books, watching Sci-Fi movies, participating in Olympiads, Cloud Challenges, Hackathons and exploring historical sites. He is deeply committed to advancing the principles of **diversity, equity, and inclusion**. Although he rarely checks social media too often, he appreciates communication **via email**, or you can submit your query by filling out the MSFT form below at the end of this page. Just scroll down, then you will find a **QR Code** as well as a link of the **Microsoft Form**. Thanks for reading and visiting my site and **Have a Good Day! :)**
 {: .notice}
+
+---
+### Assign numerical values to variables     
+Opportunity = 10  # Example value (replace with your actual value)    
+Anything = 5      # Example value (replace with your actual value)    
+Outliers = True   # Assume outliers exist       
+if Opportunity > Anything:      
+    print("Opportunity is greater for you right now!")      
+elif Outliers:  # Check if outliers exist (boolean check)      
+    print("Remove your outliers at first!")              
+else:        
+    print("No action needed and You are on the right track!")      
+{: .notice} 
 
 ---
 # Microsoft Azure Certifications (2023-2026)
