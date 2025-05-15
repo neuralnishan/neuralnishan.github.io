@@ -12,16 +12,16 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 {: .notice}
 
 ---
-#Assign numerical values to variables       
-Opportunity = 10  # Example value (replace with your actual value)    
-Anything = 5      # Example value (replace with your actual value)    
-Outliers = True   # Assume outliers exist       
-if Opportunity > Anything:      
-    print("Opportunity is greater for you right now!")      
-elif Outliers:  # Check if outliers exist (boolean check)      
-    print("Remove your outliers at first!")              
-else:        
-    print("No action needed and You are on the right track!")    
+**#Assign numerical values to variables**         
+Opportunity = 10  # Example value (replace with your actual value)      
+Anything = 5      # Example value (replace with your actual value)      
+Outliers = True   # Assume outliers exist         
+if Opportunity > Anything:        
+    print("**Opportunity is greater for you right now!**")        
+elif Outliers:  # Check if outliers exist (boolean check)        
+    print("**Remove your outliers at first!**")                
+else:          
+    print("**No action needed and You are on the right track!**")      
 {: .notice} 
 
 ---
