@@ -118,10 +118,10 @@ else:
 
 ---
 # Communication Preference:
-1st: 📩 Email (Priority within 24 hours)  
-2nd: 📝 Microsoft Forms (Priority within 7-14 work/business days)  
-3rd: 📞 Phone Calls (UTC+1 : 7.00 PM - 8.00 PM)  
-⌚**N.B.** Unknown phone numbers will be automaticaly rejected or will be forwared to AI assitant.So, I suggest you fill up the **MSFT Form** at first, then make a phone call. It might vary based on the time.**(UTC+1 : 8.00 PM - 9.00 PM)** as well as for **DM** too.  
+**1st: 📩 Email (Priority within 24 hours)**    
+**2nd: 📝 Microsoft Forms (Priority within 7-14 work/business days)**    
+**3rd: 📞 Phone Calls (UTC+2 : 7.00 PM - 8.00 PM)**    
+⌚**N.B.** Unknown phone numbers will be automaticaly rejected or will be forwared to AI assitant.So, I suggest you fill up the **MSFT Form** at first, then make a phone call. It might vary based on the time.**(UTC+2 : 7.00 PM - 8.00 PM)** as well as for **DM** too.  
 {: .notice}
 
 ---
