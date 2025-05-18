@@ -76,7 +76,7 @@ else:
 ## Oracle Cloud Infrastructure Professional Certification (2023-2027)
 ![Certificate Image](/files/oracle/logos/oci_professional_certification.png)
 
-## Oracle Cloud Infrastructure Associate Certification (2025)
+## Oracle Cloud Infrastructure Associate Certification (2025-2027)
 ![Certificate Image](/files/oracle/logos/oci_2025_foundation_associate_certifications.png)
 
 ## Oracle Fusion Cloud Applications SaaS (HCM,SCM,CX,ERP) Associate Certification (2025-2027)
