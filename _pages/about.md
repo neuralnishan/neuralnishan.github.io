@@ -73,7 +73,7 @@ else:
 
 ---
 # Oracle Cloud Certifications (2023-2027)
-## Oracle Cloud Infrastructure Professional Certification (2023-2024)
+## Oracle Cloud Infrastructure Professional Certification (2023-2027)
 ![Certificate Image](/files/oracle/logos/oci_professional_certification.png)
 
 ## Oracle Cloud Infrastructure Associate Certification (2025)
