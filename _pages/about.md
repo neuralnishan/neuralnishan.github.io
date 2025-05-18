@@ -121,7 +121,7 @@ else:
 **1st: 📩 Email (Priority within 24 hours)**    
 **2nd: 📝 Microsoft Forms (Priority within 7-14 work/business days)**    
 **3rd: 📞 Phone Calls (UTC+2 : 7.00 PM - 8.00 PM)**    
-⌚**N.B.** Unknown phone numbers will be automaticaly rejected or will be forwared to AI assitant.So, I suggest you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the time.**(UTC+2 : 7.00 PM - 8.00 PM)** as well as for **Response for DM on Snap,TG and MS Teams** too.  
+⌚**N.B.** Unknown phone numbers will be automaticaly rejected or will be forwared to AI assitant.So, I suggest you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the time.**(UTC+2 : 7.00 PM - 8.00 PM)** as well as avg. **Response for DM on Snap,TG and MS Teams** too.  
 {: .notice}
 
 ---
