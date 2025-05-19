@@ -20,11 +20,11 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
 
 ---
-# AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025)
+# AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025-♾️)
 ![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
 
 ---
-# Oracle Cloud Community and Winner Badges (2023-2025)
+# Oracle Cloud Community and Winner Badges (2023-2025-♾️)
 ![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)
 
 
@@ -42,7 +42,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | AI-900 | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Download](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png) | 2023-08-08| Unlimited | Microsoft | Online Proctored by PearsonVUE |
 
 ---
-# Microsoft Azure Applied Skills (2024-2025)
+# Microsoft Azure Applied Skills (2024-2025-♾️)
 
 | Applied Skills Code | Applied Skills Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
@@ -51,7 +51,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | AI-3003| [Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png) | 2024-12-15 | Unlimited | Microsoft | Online MSFT Azure Cloud |
 
 ---
-# Salesforce Certification (2024-2025)
+# Salesforce Certification (2024-2025-♾️)
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
