@@ -162,7 +162,7 @@ redirect_from:
 
 >I possess a comprehensive understanding of the ML development process, managing the  lifecycle of models on Oracle Cloud, including data ingestion, design, development, training, optimization, deployment, integration, and maintenance.
 
-# Oracle Cloud Infrastructure Professional Certificates
+# Oracle Cloud Infrastructure Professional ertifications
 
 ### Oracle Certified: Oracle APEX Cloud Certified 2025 Developer Professional
 
@@ -225,6 +225,8 @@ redirect_from:
 
 > Oracle Cloud Infrastructure 2023 Data Science Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B "Oracle").
 
+
+# Oracle Cloud Infrastructure Associate Certifications
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2023 AI Foundations Associate
 
