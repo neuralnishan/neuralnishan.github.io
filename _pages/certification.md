@@ -164,7 +164,7 @@ redirect_from:
 
 # Oracle Cloud Infrastructure Professional ertifications
 
-### Oracle Certified: Oracle APEX Cloud Certified 2025 Developer Professional
+### Oracle Certified: Oracle APEX Cloud Certified (2025-♾️) Developer Professional
 
 ![Certificate Image](/files/oracle/certificates/oci_apex_cloud_developer_2025_certified_foundations_associate.png)
 > Fig. Oracle APEX Cloud Certified 2025 Developer Professional
