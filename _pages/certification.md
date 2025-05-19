@@ -162,7 +162,36 @@ redirect_from:
 
 >I possess a comprehensive understanding of the ML development process, managing the  lifecycle of models on Oracle Cloud, including data ingestion, design, development, training, optimization, deployment, integration, and maintenance.
 
-# Oracle Cloud Infrastructure Certificates
+# Oracle Cloud Infrastructure Professional Certificates
+
+### Oracle Certified: Oracle APEX Cloud Certified 2025 Developer Professional
+
+![Certificate Image](/files/oracle/certificates/oci_apex_cloud_developer_2025_certified_foundations_associate.png)
+> Fig. Oracle APEX Cloud Certified 2025 Developer Professional
+
+### Skills measured
+★ Using SQL Workshop
+★ Creating an APEX Application
+★ Managing Pages and Regions
+★ Developing Reports
+★ Creating and Using Forms
+★ Creating Application Page Controls
+★ Adding Computations, Processes, Validations and Branches
+★ Implementing Navigation in your Application
+★ Managing Application Data
+★ Using Themes and Theme Styles
+★ Extending Application Capabilities
+★ Implementing Security in your Application
+★ Adding Additional Pages to your Application
+★ Creating and Using Dynamic Actions and Plug-ins
+★ Migrating Application Development Between Environments
+★ Managing Workflows and Tasks
+★ Using Generative AI in Oracle APEX
+★ Building AI-powered apps in APEX
+★ Implement RAG and Vector Search
+
+> Oracle APEX Cloud Certified 2025 Developer Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A848E108B85B6C6EC95BABB64400C739D22BAE41376A24B59542805DD9E43A97 "Oracle").
+
 
 ### Oracle Certified: Oracle Cloud Infrastructure 2024 Generative AI Professional
 
