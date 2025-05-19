@@ -72,20 +72,20 @@ else:
 | AFS-201 | [Salesforce Agentforce Specialist](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2025-04-18 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 
 ---
-# Oracle Cloud Certifications (2023-2027)
+# Oracle Cloud Certifications (2023-2027-♾️)
 ## Oracle Cloud Infrastructure Professional Certification (2023-2027)
 ![Certificate Image](/files/oracle/logos/oci_professional_certification.png)
 
 ## Oracle Cloud Infrastructure Associate Certification (2025-2027)
 ![Certificate Image](/files/oracle/logos/oci_2025_foundation_associate_certifications.png)
 
-## Oracle Fusion Cloud Applications SaaS (HCM,SCM,CX,ERP) Associate Certification (2025-2027)
+## Oracle Fusion Cloud Applications SaaS (HCM,SCM,CX,ERP) Associate Certification (2025-♾️)
 ![Certificate Image](/files/oracle/logos/oracle_fusion_cloud_applications_2025_associate_cert_hcm_erp_cx_scm.png)
 
-## Oracle Cloud Success Navigator Essentials (2025)
+## Oracle Cloud Success Navigator Essentials (2025-♾️)
 ![Certificate Image](/files/oracle/logos/oracle_cloud_success_navigator_essentials_2025.png)
 
-## Oracle Cloud Infrastructure Other Achievements (2023-2025)
+## Oracle Cloud Infrastructure Other Achievements (2023-2025-♾️)
 ![Certificate Image](/files/oracle/logos/other_oracle_achievements.png)
 
 ## Oracle Cloud Infrastructure Associate Certification (2023)
