@@ -23,6 +23,6 @@ Work experience
 
 ---
 # Volunteer Experience
-## Microsoft PowerUP Champs Program by Microsoft Power Platform , Instructor
+## Microsoft PowerUP Champs Program by Microsoft Power Platform , Instructor and Volunteer
 - **Location:** Online
 - **Duration:** Jan 2025 ‑ Cont.
