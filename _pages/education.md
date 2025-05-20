@@ -9,7 +9,7 @@ redirect_from:
 Educational Background
 ======
 **Degree:** B.Sc. in Computer Science and Engineering  
-**Institution:** North South University(NSU)    
+**Institution:** North South University (NSU)    
 
 
 
