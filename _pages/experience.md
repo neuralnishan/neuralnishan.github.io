@@ -15,21 +15,21 @@ Work experience
 ## Providing Microsoft Azure Cloud Data and AI Solutions for Enterprise Grade Companies & Startups, Azure Data Scientist 
 - **Location:** Amsterdam, Netherlands
 - **Type:** Remote
-- **Employment TIme:** Part-Time
+- **Employment Time:** Part-Time
 - **Duration:** Jul 2024 ‑ Cont.
 
 ---
 ## HeadGear Limited, Data Analyst
 - **Location:** Dhaka, Bangladesh
 - **Type:** Remote
-- **Employment TIme:** Full-Time
+- **Employment Time:** Full-Time
 - **Duration:** Sep 2022 ‑ Jun 2024
 
 ---
 ## HeadGear Limited, Junior Software Developer Intern
 - **Location:** Dhaka, Bangladesh
 - **Type:** Internship
-- **Employment TIme:** Hybrid
+- **Employment Time:** Hybrid
 - **Duration:** May 2022 ‑ Aug 2022
 
 
