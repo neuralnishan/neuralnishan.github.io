@@ -5,6 +5,6 @@ type: "Raise Your Game with Oracle Cloud 2025"
 #permalink: 
 venue: ""
 redirect_to: "/files/oracle/badges/oracle_cloud_badges.png"
-date: 2025-05-25
+date: 2025-05-15
 location: "Oracle University | Learning Community"
 ---
