@@ -1,10 +1,10 @@
 ---
 title: "Microsoft Learn AI Skills Challenge & Microsoft Cloud Skills Challenge, Participant"
 collection: achievements
-type: "Completed 60+ online Self‑paced Training and Won 7 free Microsoft certification exam. Modules: 812 , Training Time: 638 Hours and Passed Azure DP203 | DP100 | AI102 | AI900"
+type: "Completed 186+ online Self‑paced Training and Won 8 free Microsoft certification exam. Modules: 886 , Training Time: 700 Hours and Passed Azure DP203 | DP100 | DP700 | AI102 | AI900"
 #permalink: /achievements/2023-09-08-achievement-5
 redirect_to: "https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero"
 venue: ""
-date: 2025-05-01
+date: 2025-05-25
 location: "Online | Microsoft Learn"
 ---
