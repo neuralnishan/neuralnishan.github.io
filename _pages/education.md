@@ -10,8 +10,8 @@ Educational Background
 ======
 **Degree:** B.Sc. in Computer Science and Engineering    
 **Institution:** North South University (NSU)  
-**CGPA:**  if(Skill > CGPA) | Go for Industry Career  
-**CGPA:**  if(CGPA > Skill) | Go for Academia Career  
+**Option 1:**  if(Skill > CGPA) | Go for Industry Career  
+**Option 2:**  if(CGPA > Skill) | Go for Academia Career  
 ## The choice is upto you.
 
 
