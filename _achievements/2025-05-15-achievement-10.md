@@ -1,5 +1,5 @@
 ---
-title: "Level 2 Winner in the Raise Your Game with Oracle Cloud Applications Certification Challenge and Cleared the Oracle Cloud Apex Developer Professional Certification Exam with 86% Score"
+title: "Cleared Level 2 in the ()Raise Your Game with Oracle Cloud Applications Certification Challenge, Winner"
 collection: achievements
 type: "Raise Your Game with Oracle Cloud 2025"
 #permalink: 
