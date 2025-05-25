@@ -1,5 +1,5 @@
 ---
-title: "Cleared Level 2 in the ()Raise Your Game with Oracle Cloud Applications Certification Challenge, Winner"
+title: "Cleared Level 2 in the 'Raise Your Game with Oracle Cloud Applications Certification Challenge', Winner"
 collection: achievements
 type: "Raise Your Game with Oracle Cloud 2025"
 #permalink: 
