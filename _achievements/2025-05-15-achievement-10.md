@@ -4,7 +4,7 @@ collection: achievements
 type: "Raise Your Game with Oracle Cloud 2025"
 #permalink: 
 venue: ""
-redirect_to: "/files/oracle/badges/oracle_cloud_badges.png"
+redirect_to: "/files/oracle/badges/raise_your_game_2025.png"
 date: 2025-05-15
 location: "Oracle University | Learning Community"
 ---
