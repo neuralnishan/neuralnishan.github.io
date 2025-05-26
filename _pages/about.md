@@ -111,7 +111,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ⌚**N.B.** Unknown phone numbers will be automaticaly rejected or will be forwared to AI assitant.So, I suggest you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the time.**(GMT+2 : 8.00 PM - 9.00 PM)** as well as avg. **Response for DM on Snap and MS Teams** too.  
 {: .notice}
 
----S
+---
 # Submit Your Query!
 Scan QR Code to fill up the form link below!
 
