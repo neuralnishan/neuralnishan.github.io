@@ -23,8 +23,7 @@ part) and BERT(for the linguistic part).
 [Project Demo ](https://huggingface.co/Zayn/VQA_Asking_Questions_About_Image_Content)
 <br>
 [Download Capstone Poster here](http://hashcatnissan.github.io/files/projects/project_1_Capstone_Poster.pdf)
-
-
-Supervisor: Dr. Mohammad Ashrafuzzman Khan
 <br>
-Authors: S M Gazzali Arafat Nishan, Ashfaq Uddin Ahmed,Tashfia Tabassum
+Supervisor: Prof. Mohammad Ashrafuzzman Khan  
+Authors: S M Gazzali Arafat Nishan, Ashfaq Uddin Ahmed,Tashfia Tabassum  
+<br>
