@@ -22,7 +22,7 @@ Figure 3: Our End-to-End ViT-GPT Framework
 
 [Project Demo ](https://huggingface.co/Zayn/AICVTG_What_if_a_machine_could_create_captions_automatically)
 <br>
-Supervisor: Prof. Dr. Shafin Rahman  
+Supervisor: Prof. Shafin Rahman  
 Authors: S M Gazzali Arafat Nishan, Shafiul Bashar, Md. Imran Hossain  
 <br>
 

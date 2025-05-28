@@ -19,7 +19,7 @@ Figure 2: Prescription sharing with patients on IPFS over Blockchain by doctor
 [Project Demo ](https://github.com/hashcatnissan/Application_Of_Blockchain_For_A_Secure_Online_Telemedicine)
 
 <br>
-Supervisor: Dr. Mohammad Monirujjaman Khan  
+Supervisor: Prof. Mohammad Monirujjaman Khan  
 Authors: S M Gazzali Arafat Nishan, Rofiqul Alam Shehab, Shafiul Bashar, Md Asif Hossain  
 <br>
 
