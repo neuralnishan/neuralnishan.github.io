@@ -21,9 +21,8 @@ Figure 2. Vision Transformer Complete Network Architecture
 Figure 3: Our End-to-End ViT-GPT Framework
 
 [Project Demo ](https://huggingface.co/Zayn/AICVTG_What_if_a_machine_could_create_captions_automatically)
-
-Supervisor: Dr. Shafin Rahman
 <br>
-Authors: S M Gazzali Arafat Nishan, Shafiul Bashar, Md. Imran Hossain
+Supervisor: Prof. Dr. Shafin Rahman  
+Authors: S M Gazzali Arafat Nishan, Shafiul Bashar, Md. Imran Hossain  
 <br>
 
