@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi!+ You got better, Didn't You? + Let your expertise talk!"
+title: "Hi!+ You Got Better, Didn't You? + Let your expertise talk!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
