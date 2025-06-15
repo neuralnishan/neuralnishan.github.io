@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi!+ You Got Better, Didn't You? + Let Your Expertise Talk!"
+title: "Hi!+ What Does This Person Want Me To Feel About Them And What Do They Want Me To Notice? + Then, Let Your Expertise Talk!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
