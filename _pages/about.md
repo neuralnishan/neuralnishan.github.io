@@ -26,12 +26,12 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 
 # Multi Cloud Achievements
 ---
-# Microsoft Cloud Skills Achievements (2023-2024-2025-♾️)
-![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_challenges_2023_2025.png)
-
----
 # Joined in the Microsoft AI Skills Fest (2025) | Helped to set a GWR Title
 ![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
+
+---
+# Microsoft Cloud Skills Achievements (2023-2024-2025-♾️)
+![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_challenges_2023_2025.png)
 
 ---
 # Oracle Cloud Community Member and Winner Badges (2023-2025-♾️)
