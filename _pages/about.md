@@ -16,16 +16,22 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ---
+# Salesforce Certifications (2024-2025-♾️)
+![Certificate Image](/files/salesforce/salesforce_badges.png.png)
+
+---
+# AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025-♾️)
+![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
+
+
+# Multi Cloud Achievements
+---
 # Microsoft Cloud Skills Achievements (2023-2024-2025-♾️)
 ![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_challenges_2023_2025.png)
 
 ---
 # Joined in the Microsoft AI Skills Fest (2025) | Helped to set a GWR Title
 ![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
-
----
-# AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025-♾️)
-![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
 
 ---
 # Oracle Cloud Community Member and Winner Badges (2023-2025-♾️)
@@ -59,8 +65,9 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
+| AFS-201 | [Salesforce Agentforce Specialist](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_agentforce_specialist.png)| 2025-06-21 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 | N/A | [Salesforce AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
-| AFS-201 | [Salesforce Agentforce Specialist](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2025-04-18 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
+
 
 ---
 # Oracle Cloud Certifications (2023-2027-♾️)   
