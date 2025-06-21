@@ -148,7 +148,45 @@ redirect_from:
 ★✅ Data for AI,Data Management  
 ★✅ Business and Productivity Tools and Salesforce Customer 360  
 
-> Salesforce AI Certification Verification Link : [link](https://sforce.co/verifycert "Microsoft").
+> Salesforce AI Certification Verification Link : [link](https://sforce.co/verifycert "Salesforce").
+
+---
+## Salesforce Certified Agentforce Specialist
+![Certificate Image](/files/salesforce/salesforce_agentforce_specialist.png)
+> Fig. Salesforce Agentforce Specialist Certificate
+
+### Skills measured
+
+### Agentforce Overview
+★✅Discover Agentforce
+★✅Explore Agent Studio
+★✅Establish Trust with Einstein
+
+### Generative AI in CRM Applications
+★✅Use Sales AI
+★✅Employ Customer Service AI
+
+### Prompt Builder
+★✅Explore Prompt Design Concepts
+★✅Create Prompt Templates
+★✅Ground Prompt Templates Using Merge Fields
+★✅Implement the Einstein Trust Layer
+
+### Model Builder
+★✅Identify AI Models
+★✅Manage Existing Models in Einstein Studio
+
+### Agentforce for Service
+★✅Get Started with Agentforce Service Agent (ASA)
+★✅Test Agentforce using Testing Center
+★✅Build a PDF RAG Agent
+★✅Build a Knowledge RAG Agent
+
+### Agentforce for Sales  
+★✅Deploy SDR Agent  
+★✅Leverage Sales Coach Agent  
+
+> Salesforce Agentforce Specialist Certification Verification Link : [link](https://sforce.co/verifycert "Salesforce").
 
 
 ---
