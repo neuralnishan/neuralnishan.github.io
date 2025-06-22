@@ -19,12 +19,11 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 # Salesforce Certifications (2024-2025-♾️)
 ![Certificate Image](/files/salesforce/salesforce_badges.png.png)
 
+# Multi Cloud Achievements and Cloud Community Membership
 ---
 # AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025-♾️)
 ![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
 
-
-# Multi Cloud Achievements
 ---
 # Joined in the Microsoft AI Skills Fest (2025) | Helped to set a GWR Title
 ![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
