@@ -155,6 +155,8 @@ redirect_from:
 ![Certificate Image](/files/salesforce/salesforce_agentforce_specialist.png)
 > Fig. Salesforce Agentforce Specialist Certificate
 
+### Agentforce Specialists are responsible for managing and optimizing Agentforce, have deep understanding of both Salesforce platform configuration and Agentforce capabilities.
+
 ### Skills measured  
 
 ### Agentforce Overview  
