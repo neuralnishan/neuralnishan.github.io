@@ -133,25 +133,12 @@ redirect_from:
 ★✅ Create a custom text classification solution  
 ★✅ Create a custom named entity recognition (NER) solution  
 
-> Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b "Microsoft").
-
+> Microsoft Applied Skills Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b "Microsoft")
 
 ---
 # Salesforce Certification
-## Salesforce Certified AI Associate
-![Certificate Image](/files/salesforce/salesforce_ai_associate_cert.png)
-> Fig. Salesforce AI Assocaite Certificate
-
-### Skills measured
-★✅ AI Fundamentals and AI Capabilities in CRM  
-★✅ Ethical Considerations of AI  
-★✅ Data for AI,Data Management  
-★✅ Business and Productivity Tools and Salesforce Customer 360  
-
-> Salesforce AI Certification Verification Link : [link](https://sforce.co/verifycert "Salesforce").
-
 ---
-## Salesforce Certified Agentforce Specialist
+## Salesforce Certified (2025) Agentforce Specialist 
 ![Certificate Image](/files/salesforce/salesforce_agentforce_specialist.png)
 > Fig. Salesforce Agentforce Specialist Certificate
 
@@ -190,6 +177,18 @@ redirect_from:
 
 > Salesforce Agentforce Specialist Certification Verification Link : [link](https://sforce.co/verifycert "Salesforce").
 
+## Salesforce Certified (2024) AI Associate
+![Certificate Image](/files/salesforce/salesforce_ai_associate_cert.png)
+> Fig. Salesforce AI Assocaite Certificate
+
+### Skills measured
+★✅ AI Fundamentals and AI Capabilities in CRM  
+★✅ Ethical Considerations of AI  
+★✅ Data for AI,Data Management  
+★✅ Business and Productivity Tools and Salesforce Customer 360  
+
+> Salesforce AI Certification Verification Link : [link](https://sforce.co/verifycert "Salesforce").
+
 
 ---
 ## My skills as an Oracle Cloud Infrastructure (OCI) Data Science Professional: 
@@ -202,7 +201,7 @@ redirect_from:
 
 >I possess a comprehensive understanding of the ML development process, managing the  lifecycle of models on Oracle Cloud, including data ingestion, design, development, training, optimization, deployment, integration, and maintenance.
 
-# Oracle Cloud Infrastructure Professional ertifications
+# Oracle Cloud Infrastructure Professional Certifications
 
 ### Oracle Certified: Oracle APEX Cloud Certified (2025-♾️) Developer Professional
 
@@ -233,7 +232,7 @@ redirect_from:
 > Oracle APEX Cloud Certified 2025 Developer Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A848E108B85B6C6EC95BABB64400C739D22BAE41376A24B59542805DD9E43A97 "Oracle").
 
 
-### Oracle Certified: Oracle Cloud Infrastructure 2024 Generative AI Professional
+### Oracle Certified: Oracle Cloud Infrastructure (2024-2026) Generative AI Professional
 
 ![Certificate Image](/files/oracle/certificates/oci_2024_generative_ai_certified_professional.png)
 > Fig. OCI Generative AI Professional Certificate
@@ -246,7 +245,7 @@ redirect_from:
 > Oracle Cloud Infrastructure 2024 Generative AI Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=79884B7FFDC859086559A7546CB012E4DC5E8CA828A5DE9FC467A0F6D7C44FAA "Oracle").
 
 
-### Oracle Certified: Oracle Cloud Infrastructure 2023 Data Science Professional
+### Oracle Certified: Oracle Cloud Infrastructure (2023-2025) Data Science Professional
 
 ![Certificate Image](/files/oracle/certificates/oci_2023_certified_data_science_professional.png)
 > Fig. Oracle Cloud Infrastructure 2023 Data Science Professional Certificate
@@ -266,9 +265,49 @@ redirect_from:
 > Oracle Cloud Infrastructure 2023 Data Science Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B "Oracle").
 
 
-# Oracle Cloud Infrastructure Associate Certifications
+# Oracle Cloud Infrastructure (2025-2027) Associate Certifications
 
-### Oracle Certified: Oracle Cloud Infrastructure 2023 AI Foundations Associate
+### Oracle Certified: Oracle Cloud Infrastructure (2025-2027) AI Foundations Associate
+
+![Certificate Image](/files/oracle/certificates/oci_2025_certified_ai_foundations_associate.png)
+> Fig. Oracle Cloud Infrastructure 2025 AI Foundations Associate Certificate
+
+### Skills measured
+★✅Strong foundational knowledge about the artificial intelligence and machine learning concepts, knowledge about the role of large language models along with the related OCI Services.     
+★✅Explore Machine Learning and Deep Learning Fundamentals: Dive into the basics of machine learning with an emphasis on supervised and unsupervised learning techniques. Gain insights into deep learning, exploring convolutional and sequence models like CNNs and RNNs and LSTMs.      
+★✅Discover Generative AI and Language Models: Understand the capabilities and applications of generative AI models and language frameworks, learning how these tools can be utilized to automate and enhance a wide range of tasks.     
+★✅OCI AI Solutions: Learn about OCI ML Services.    
+★✅Understand AI and ML Basics: Learn the foundational concepts of AI and ML including the differences between artificial intelligence and machine learning and deep learning.  
+★✅Get Started with OCI's AI Tools: Familiarize yourself with OCI's comprehensive AI tools portfolio.  
+★✅OCI AI Solutions: Learn about OCI AI services.   
+★✅OCI AI Solutions: Learn about OCI Generative AI and Oracle 23ai including Oracle Select AI to address real-world business challenges.  
+
+> Oracle Cloud Infrastructure 2025 AI Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=912A82C64F8F5015835F493C97D787879DD749E9D428ED32139BB6BB515306BE "Oracle").
+
+
+### Oracle Certified: Oracle Data Platform (2025-2027) Certified Foundations Associate
+
+![Certificate Image](/files/oracle/certificates/oci_2025_certified_foundations_associate.png.png)
+> Fig. Oracle Cloud Data Management 2025 Foundations Associate Certificate
+
+### Skills measured
+★✅Discuss Oracle Cloud Data Management Principles  
+★✅Explain Oracle Free Tier Accounts  
+★✅Describe Autonomous Database tools and Instance Creation  
+★✅Describe Exadata Use Cases and Business Problems  
+★✅Describe MySQL and NoSQL services  
+★✅Explain Resiliency  
+★✅Discuss concepts and uses of OCI Analytics and AI Data Services  
+★✅Explain Migration and Upgrade options  
+
+> Oracle Cloud Data Management 2025 Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24CC81FC2D539E062FEBFE65EBBF49679ACC6C0775A01D8ACEAF723583573E87 "Oracle").
+
+
+
+
+# Oracle Cloud Infrastructure (2023-2025) Associate Certifications 
+
+### Oracle Certified: Oracle Cloud Infrastructure (2023-2025) AI Foundations Associate
 
 ![Certificate Image](/files/oracle/certificates/oci_2025_certified_ai_foundations_associate.png)
 > Fig. Oracle Cloud Infrastructure 2023 AI Foundations Associate Certificate
@@ -283,7 +322,7 @@ redirect_from:
 > Oracle Cloud Infrastructure 2023 AI Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=30C10DE85126138FE96AECDD36784A529DC8407FC27CF0C4214C58B44F28DD39 "Oracle").
 
 
-### Oracle Certified: Oracle Cloud Infrastructure 2023 Foundations Associate
+### Oracle Certified: Oracle Cloud Infrastructure (2023-2025) Foundations Associate
 
 ![Certificate Image](/files/oracle/certificates/oci_2023_certified_foundation_associate.png)
 > Fig. Oracle Cloud Infrastructure 2023 Foundations Associate Certificate
@@ -299,7 +338,7 @@ redirect_from:
 > Oracle Cloud Infrastructure 2023 Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C4C367FE735E18EA7368BAF239838FD07A2867C5FE87DBA93C31AA046B709010 "Oracle").
 
 
-### Oracle Certified: Oracle Cloud Data Management 2023 Foundations Associate
+### Oracle Certified: Oracle Cloud Data Management (2023-2025) Foundations Associate
 
 ![Certificate Image](/files/oracle/certificates/oci_data_management_2023_foundation_associate.png)
 > Fig. Oracle Cloud Data Management 2023 Foundations Associate Certificate
