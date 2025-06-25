@@ -6,10 +6,23 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# Microsoft Azure Certifications
+# Microsoft Azure Certifications  
+### Microsoft Certified: Fabric Data Engineer Associate  
+
+![Certificate Image](/files/microsoft/microsoft_azure_fabric_data_engineer_associate_dp_700_certificate.png)
+> Fig. Azure Fabric Data Engineer Associate Certificate
+
+### Skills measured  
+★✅ Ingesting and transforming data      
+★✅ Securing and managing an analytics solution      
+★✅ Monitoring and optimizing an analytics solution       
+
+> Azure Fabric Data Engineer Associate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/d61411166c394a7a "Microsoft").
+
+
 ### Microsoft Certified: Azure Data Engineer Associate
 
-![Certificate Image](/files/microsoft/microsft_azure_data_engineer_associate_dp_203_certificate.png)
+![Certificate Image](/files/microsoft/microsoft_azure_data_engineer_associate_dp_203_certificate.png)
 > Fig. Azure Data Engineer Associate Certificate
 
 ### Skills measured
@@ -22,7 +35,7 @@ redirect_from:
 
 ### Microsoft Certified: Azure Data Scientist Associate
 
-![Certificate Image](/files/microsoft/microsft_azure_data_scientist_associate_dp_100_certificate.png)
+![Certificate Image](/files/microsoft/microsoft_azure_data_scientist_associate_dp_100_certificate.png)
 > Fig. Azure Data Scientist Associate Certificate
 
 ### Skills measured
@@ -48,7 +61,7 @@ redirect_from:
 
 ### Microsoft Certified: Azure AI Engineer Associate
 
-![Certificate Image](/files/microsoft/microsft_azure_ai_engineer_associate_ai_102_certificate.png)
+![Certificate Image](/files/microsoft/microsoft_azure_ai_engineer_associate_ai_102_certificate.png)
 > Fig. Azure AI Engineer Associate Certificate
 
 ### Skills measured:
