@@ -54,12 +54,6 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | AFS-201 | [Salesforce Agentforce Specialist](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_agentforce_specialist.png)| 2025-06-21 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 | N/A | [Salesforce AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 
-
-# Multi Cloud Achievements and Cloud Community Membership
----
-# AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025-♾️)
-![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
-
 ---
 # Oracle Cloud Community Member and Winner Badges (2023-2024-2025-♾️)
 ![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)
@@ -102,6 +96,12 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | 1Z0-1110-23| [Oracle Cloud Infrastructure 2023 Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B)| [Download](/files/oracle/certificates/oci_2023_certified_data_science_professional.png)| 2023-08-10 | 2025-08-10 | Oracle | Online Proctored by Respondus LockedDown Browser|
 
 # Others(♾️)
+
+# Multi Cloud Achievements and Cloud Community Membership
+---
+# AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025-♾️)
+![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
+
 ---
 # Joined in the Microsoft AI Skills Fest (2025) | Helped to set a GWR Title
 ![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
