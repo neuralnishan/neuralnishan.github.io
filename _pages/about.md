@@ -12,17 +12,8 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 {: .notice}
 
 ---
-# Microsoft Azure Certifications (2023-2026)
+# Microsoft Azure Certifications (2023-2024-2024-2026-♾️)
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
-
----
-# Salesforce Certifications (2024-2025-♾️)
-![Certificate Image](/files/salesforce/salesforce_badges.png.png)
-
-# Multi Cloud Achievements and Cloud Community Membership
----
-# AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025-♾️)
-![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
 
 ---
 # Joined in the Microsoft AI Skills Fest (2025) | Helped to set a GWR Title
@@ -33,15 +24,10 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_challenges_2023_2025.png)
 
 ---
-# Oracle Cloud Community Member and Winner Badges (2023-2025-♾️)
-![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)
-
-
----
 # Microsoft Learn Transcript -->[Click this link!](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript")
 
 ---
-# Microsoft Azure Certifications (2023-2026)
+# Microsoft Azure Certifications (2023-2024-2025-2026-♾️)
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
@@ -61,6 +47,10 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | AI-3003| [Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png) | 2024-12-15 | Unlimited | Microsoft | Online MSFT Azure Cloud |
 
 ---
+# Salesforce Certifications (2024-2025-♾️)
+![Certificate Image](/files/salesforce/salesforce_badges.png.png)
+
+---
 # Salesforce Certification (2024-2025-♾️)
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
@@ -69,8 +59,17 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | N/A | [Salesforce AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=G5kU4AxHT+ZuUvlYq/u+pqWXFoRtypYVKrD3L4lLZ4OObOZXuMeazU5fTY1keQU4)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 
 
+# Multi Cloud Achievements and Cloud Community Membership
 ---
-# Oracle Cloud Certifications (2023-2027-♾️)   
+# AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025-♾️)
+![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
+
+---
+# Oracle Cloud Community Member and Winner Badges (2023-2024-2025-♾️)
+![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)
+
+---
+# Oracle Cloud Certifications (2023-2024-2025-2026-2027-♾️)   
 ## Oracle Cloud Infrastructure Professional Certification (2023-2027)  
 ![Certificate Image](/files/oracle/logos/oci_professional_certification.png)
 
@@ -80,13 +79,10 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ## Oracle Fusion Cloud Applications SaaS (HCM,ERP,SCM,CX) Associate Certification (2025-♾️)  
 ![Certificate Image](/files/oracle/logos/oracle_fusion_cloud_applications_2025_associate_cert_hcm_erp_cx_scm_0.png)
 
-## Oracle Fusion Cloud Applications SaaS (CX,ERP,HCM,SCM) Associate Certification (2025-♾️)  
-![Certificate Image](/files/oracle/logos/oracle_fusion_cloud_applications_2025_associate_cert_hcm_erp_cx_scm.png)
-
 ## Oracle Cloud Infrastructure Other Achievements (2025-♾️)
 ![Certificate Image](/files/oracle/logos/oracle_cloud_gcp_architecture_oracle_access_governance_success_navigator_essentials_2025.png) 
 
-## Oracle Cloud Infrastructure Other Achievements (2023-2025-♾️)  
+## Oracle Cloud Infrastructure Other Achievements (2023-2024-2025-♾️)  
 ![Certificate Image](/files/oracle/logos/other_oracle_achievements.png)
 
 ## Oracle Cloud Infrastructure Associate Certification (2023)  
@@ -109,6 +105,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | 1Z0-1122-23| [Oracle Cloud Infrastructure 2023 AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30C10DE85126138FE96AECDD36784A529DC8407FC27CF0C4214C58B44F28DD39)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30C10DE85126138FE96AECDD36784A529DC8407FC27CF0C4214C58B44F28DD39)| [Download](/files/oracle/certificates/oci_2023_ai_certified_foundation_associate.png)| 2023-09-17 | 2025-09-17 | Oracle | Online Proctored by Proctorio |
 | 1Z0-1110-23| [Oracle Cloud Infrastructure 2023 Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B)| [Download](/files/oracle/certificates/oci_2023_certified_data_science_professional.png)| 2023-08-10 | 2025-08-10 | Oracle | Online Proctored by Respondus LockedDown Browser|
 
+# Others(♾️)
 ---
 # NVIDIA GTC Spring Attendee (2025)
 ![Certificate Image](/files/nvidia/nvidia_gtc_attendee.jpg)
@@ -132,11 +129,11 @@ Scan QR Code to fill up the form link below!
 ![MicrosoftFormsQR](/files/qr/qr.png)
 
 Click the link to fill out the forms!
-[link](https://forms.office.com/r/1S5HQET81s "Fillout Microsoft Forms!").
+[link](https://forms.office.com/r/1S5HQET81s "Fillout MSFT Form!").
 
 
 # Nishan's Perspective (Short Story)
 ---
-**Hi there**, **Nishan** executes and moves in **silence,** and he has seen a lot of **fake smiles, fake promises, fake dreams, and betrayals,** and so many **empty promises** that a lot of people showed to him in the past. He struggled from his childhood till now.He grew up **without a father** since the age of 4. Only his **guiding star** is his **loving care mom**, who has always been beside him since his childhood to this stage he currently stands at. **The star** who always supports him beyond every success navigation . He has a **set of setbacks,** and he knows how to adapt it using **gradient descent algorithms.** Overall, at the end of the day, his **circle** is very small since he doesn't let everyone access his personal life. He also **neither chases attention** from anybody nor says **waste words** that can hurt people.  He also does not even show his **strength** loudly and also does not even let **emotions cloud his judgment.** He observes the surroundings of his zone, and then he calculates his steps using **backpropagation algorithms** and asks himself, **What's in it for him?"** He asks for **clarification** from his own mind and tries to find any gap between his **decision and throughput**. His decisions come from his **brain, especially neural networks, and neural networks** are his favorite part of life. He knows his zone very well, and he can detect using his intellect concept and the **probability score** between **0 and 1.** He then calculates the **probability score** to come to a decision. **P-value** really plays a vital role in his **decision-making,** and he usually uses some **attributes** to figure out who is real for him. Or who is pretending to be with him? If someone crosses over him, he doesn't even go for an argument with him/her; rather, he permanently removes them from his life like **an outlier** from his **own dataverse.** He believes that **loyalty** is a very **expensive gift,** and he doesn't expect it from a **very cheap outlier,** even though nowadays it's hard to find **loyalty** in our **humanverse.** He values it more than anything, and he never forgives those who usually **betray him or undervalue** him in front of other **respected people.** He never forgets it easily since you already crossed from his zone to outlier. Some people might think he is weak since he doesn't show any **reaction** for them. In his opinion, who makes a mistake and doesn't give him/her a **second chance** to enter into **his dataverse,** or even you can call it its own neural universe? He doesn't even fear anything except his **Creator,** who always sees him. He is definitely **mentally strong enough** to save his own dataverse. He doesn't even show any interest in talking with you again as before; he used to if he found out **betrayal from you.** That's life, how it goes on. And. It's all about **time,** and time is a **relative thing** that he believes he doesn't even **show off.** He tries to lead his with very **simple algorithms,** like a **linear regression,** sometimes like a **clustering.** He knows how to cluster people using **clustering algorithms** like **K-Means,** which helps him a lot. Some people can't take **his success, or his career growth, his intelligence level, and his expertise** in something and try to harm him, and he even knows them since he already found out the **algorithms,** and he uses **decision tree algorithms** to find it out. Sometimes he uses **BFS/DFS, Shortest path finding (SPF), heuristic search, Dijkstra's algorithm** to find the **fake one.** **You know me well?. From my perspective, you don't even know me at all.** It's a long story to come to this point, but till now he is **happy with his personal life** as well as the **position he currently stands at.**And Finally,He believes that **He's right where he belongs**. From his perspective, he's just not in the right point where he currently belongs. But He tries to do his best effort to move in from point **A** to point **B** according to his plan. Whoever comes in his way as a **barrier**, he just removes them like an **outlier** using his **Neural Universe's Own Decision-Making Algorithms** from his brain. and He definately uses some **attributes** to make a conclusion. Thanks for reading, Wishing you a **Good Day**.
+**Hi there**, **Nishan** executes and moves in **silence,** and he has seen a lot of **fake smiles, fake promises, fake dreams, and betrayals,** and so many **empty promises** that a lot of people showed to him in the past. He struggled from his childhood till now.He grew up **without a father** since the age of 4. Only his **guiding star** is his **loving care mom**, who has always been beside him since his childhood to this stage he currently stands at. **The star** who always supports him beyond every success navigation . He has a **set of setbacks,** and he knows how to adapt it using **gradient descent algorithms.** Overall, at the end of the day, his **circle** is very small since he doesn't let everyone access his personal life. He also **neither chases attention** from anybody nor says **waste words** that can hurt people.  He also does not even show his **strength** loudly and also does not even let **emotions cloud his judgment.** He observes the surroundings of his zone, and then he calculates his steps using **backpropagation algorithms** and asks himself, **What's in it for him?"** He asks for **clarification** from his own mind and tries to find any gap between his **decision and throughput**. His decisions come from his **brain, especially neural networks, and neural networks** are his favorite part of life. He knows his zone very well, and he can detect using his intellect concept and the **probability score** between **0 and 1.** He then calculates the **probability score** to come to a decision. **P-value** really plays a vital role in his **decision-making,** and he usually uses some **attributes** to figure out who is real for him. Or who is pretending to be with him? If someone crosses over him, he doesn't even go for an argument with him/her; rather, he permanently removes them from his life like **an outlier** from his **own dataverse.** He believes that **loyalty** is a very **expensive gift,** and he doesn't expect it from a **very cheap outlier,** even though nowadays it's hard to find **loyalty** in our **humanverse.** He values it more than anything, and he never forgives those who usually **betray him or undervalue** him in front of other **respected people.** He never forgets it easily since you already crossed from his zone to outlier. Some people might think he is weak since he doesn't show any **reaction** for them. In his opinion, who makes a mistake and doesn't give him/her a **second chance** to enter into **his dataverse,** or even you can call it its own neural universe? He doesn't even fear anything except his **Creator,** who always sees him. He is definitely **mentally strong enough** to save his own dataverse. He doesn't even show any interest in talking with you again as before; he used to if he found out **betrayal from you.** That's life, how it goes on. And. It's all about **time,** and time is a **relative thing** that he believes he doesn't even **show off.** He tries to lead his life with very **simple algorithms,** like a **linear regression,** sometimes like a **clustering.** He knows how to cluster people using **clustering algorithms** like **K-Means,** which helps him a lot. Some people can't take **his success, or his career growth, his intelligence level, and his expertise** in something and try to harm him, and he even knows them since he already found out the **algorithms,** and he uses **decision tree algorithms** to find it out. Sometimes he uses **BFS/DFS, Shortest path finding (SPF), heuristic search, Dijkstra's algorithm** to find the **fake one.** **You know me well?. From my perspective, you don't even know me at all.** It's a long story to come to this point, but till now he is **happy with his personal life** as well as the **position he currently stands at.**And Finally,He believes that **He's right where he belongs**. From his perspective, he's just not in the right point where he currently belongs. But He tries to do his best effort to move in from point **A** to point **B** according to his plan. Whoever comes in his way as a **barrier**, he just removes them like an **outlier** using his **Neural Universe's Own Decision-Making Algorithms** from his brain. and He definately uses some **attributes** to make a conclusion. Thanks for reading, Wishing you a **Good Day**.
 {: .notice}
 
