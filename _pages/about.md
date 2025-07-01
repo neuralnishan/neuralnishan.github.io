@@ -16,10 +16,6 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
 ---
-# Joined in the Microsoft AI Skills Fest (2025) | Helped to set a GWR Title
-![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
-
----
 # Microsoft Cloud Skills Achievements (2023-2024-2025-♾️)
 ![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_challenges_2023_2025.png)
 
@@ -106,6 +102,10 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | 1Z0-1110-23| [Oracle Cloud Infrastructure 2023 Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=12BDBDB27B35ABC64216CA3227CE944E66126286ED81D5E91CAE784E9C472D5B)| [Download](/files/oracle/certificates/oci_2023_certified_data_science_professional.png)| 2023-08-10 | 2025-08-10 | Oracle | Online Proctored by Respondus LockedDown Browser|
 
 # Others(♾️)
+---
+# Joined in the Microsoft AI Skills Fest (2025) | Helped to set a GWR Title
+![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
+
 ---
 # NVIDIA GTC Spring Attendee (2025)
 ![Certificate Image](/files/nvidia/nvidia_gtc_attendee.jpg)
