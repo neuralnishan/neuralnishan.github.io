@@ -75,7 +75,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ## Oracle Cloud Infrastructure Other Achievements (2023-2024-2025-♾️)  
 ![Certificate Image](/files/oracle/logos/other_oracle_achievements.png)
 
-## Oracle Cloud Infrastructure Associate Certification (2023)  
+## Oracle Cloud Infrastructure Associate Certification (2023-2025)  
 ![Certificate Image](/files/oracle/logos/oci_2023_foundation_associate_certifications.png)
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
