@@ -44,7 +44,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 
 ---
 # Salesforce Certifications (2024-2025-♾️)
-![Certificate Image](/files/salesforce/salesforce_badges.png.png)
+![Certificate Image](/files/salesforce/salesforce_badges.png)
 
 ---
 # Salesforce Certification (2024-2025-♾️)
