@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there!+ You are visiting a Cloud Trailblazer Webpage! + Let's ask something interesting at first + What Does This Person Want Me To Feel About Them And What Do They Want Me To Notice? + Then, Let Your Expertise Talk!"
+title: "Hi!+ You are visiting a cloud trailblazer webpage! + Let's ask something interesting at first + What Does This Person Want Me To Feel About Them And What Do They Want Me To Notice? + Then, Let Your Expertise Talk!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
