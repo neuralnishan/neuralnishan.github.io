@@ -119,8 +119,8 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ---
 # Communication Preference:
 **1st: 📩 Professional Email (Priority within 24 hours)**    
-**:2nd 📞 Phone Calls but except Urgent/Business (CEST : 7.00 PM - 8.00 PM)**    
-⌚**N.B.** Unknown phone numbers will be automaticaly forwared to AI assitant.So, I suggest you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)** as well as avg. **Response for DM on LinkedIn, Snap and MS Teams** too.
+**2nd: 📞 Phone Calls but except Urgent/Business (CEST : 7.00 PM - 8.00 PM)**    
+⌚**N.B.** Unknown phone numbers will be automaticaly forwared to AI assitant.So, I suggest you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)** as well as avg. **Response for DM on LinkedIn, Snap and MS Teams** too.    
 **3rd: 📝 Microsoft Forms (Priority within 3-5 work/business days)**      
 {: .notice}
 
