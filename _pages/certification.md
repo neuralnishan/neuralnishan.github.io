@@ -207,6 +207,21 @@ redirect_from:
 ---
 # Oracle Cloud Infrastructure Professional Certifications
 
+### Oracle Certified: Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+
+![Certificate Image](/files/oracle/certificates/oci_2025_certified_data_science_professional.jpg)
+> Fig. Oracle Cloud Infrastructure (2025) Certified Data Science Professional
+
+### Skills measured
+★✅ Identify OCI services to implement an ML solution for a business use case
+★✅ Apply OCI Data & AI services to create ML solutions
+★✅ Incorporate ML and cloud best practices
+★✅ Use OCI Data Science to design and build ML models
+★✅ Train and optimize ML models
+★✅ Deploy and maintain ML models
+ 
+> Oracle Cloud Infrastructure (2025) Certified Data Science Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24CC81FC2D539E062FEBFE65EBBF496713C9B711C36B07783FDAD6E5F7355D3A "Oracle").
+
 ### Oracle Certified: Oracle AI Vector Search Certified (2025-♾️) Professional
 
 ![Certificate Image](/files/oracle/certificates/oracle_ai_vector_search_2025_certified_professional.jpg)
