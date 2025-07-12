@@ -214,20 +214,20 @@ redirect_from:
 > Fig. Oracle Cloud Infrastructure for Sunbird Ed Specialty
 
 ### Skills measured 
-★✅ Understand Oracle Cloud Infrastructure (OCI) concepts
-★✅ Including regions
-★✅ Availability domains (AD)
-★✅ Tenancy
-★✅ And compartments
-★✅ Define and use OCI's Identity and Access Management (IAM) capabilities for access and security management
-★✅ Apply knowledge of essential OCI Core services and cloud native services
-★✅ To effectively leverage these services in deploying Sunbird ED
-★✅ Analyze the key features
-★✅ Functionalities
-★✅ And purposes of Sunbird ED microservices and their related building block APIs
-★✅ Showcasing a high level of understanding and evaluation
-★✅ Examine the technology stack and libraries for Sunbird ED's frontend development and efficient data management
-★✅ Set up OCI services for effective Sunbird ED platform management and optimization
+★✅ Understand Oracle Cloud Infrastructure (OCI) concepts  
+★✅ Including regions  
+★✅ Availability domains (AD)  
+★✅ Tenancy  
+★✅ And compartments  
+★✅ Define and use OCI's Identity and Access Management (IAM) capabilities for access and security management  
+★✅ Apply knowledge of essential OCI Core services and cloud native services  
+★✅ To effectively leverage these services in deploying Sunbird ED  
+★✅ Analyze the key features  
+★✅ Functionalities  
+★✅ And purposes of Sunbird ED microservices and their related building block APIs  
+★✅ Showcasing a high level of understanding and evaluation  
+★✅ Examine the technology stack and libraries for Sunbird ED's frontend development and efficient data management  
+★✅ Set up OCI services for effective Sunbird ED platform management and optimization  
  
 > Oracle Cloud Infrastructure for Sunbird Ed Specialty Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC099E428FA3B1EC0E0199284E659CDC4DF231348F7C561C84DFBB592C4E55F8 "Oracle").
 
