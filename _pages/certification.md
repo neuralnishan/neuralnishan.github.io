@@ -208,7 +208,22 @@ redirect_from:
 # Oracle Cloud Infrastructure Professional & Specialty Certifications
 ---
 
-### Oracle Certified Specialty: Oracle Cloud Infrastructure for Sunbird Ed Specialty
+### Oracle Certified : Oracle Cloud Infrastructure 2025 Certified DevOps Professional   
+
+![Certificate Image](/files/oracle/certificates/oracle_cloud_infrastructure_2025_certified_devOps_professional.png)
+> Fig. Oracle Cloud Infrastructure 2025 Certified DevOps Professional  
+
+### Skills measured 
+★✅ Using Code and Templates for Provisioning and Configuring Infrastructure    
+★✅ Configuring and Managing Continuous Integration and Continuous Delivery (CI/CD)    
+★✅ Managing Containers using Container Orchestration Engine    
+★✅ Enabling DevSecOps  
+★✅ Implementing Monitoring and Observability (O&M)  
+
+> Oracle Cloud Infrastructure 2025 Certified DevOps Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24CC81FC2D539E062FEBFE65EBBF496743B71E6B73CE90E3703A46B6D2F02718 "Oracle").
+---
+
+### Oracle Certified Specialty: Oracle Cloud Infrastructure for Sunbird Ed 2025 Specialty
 
 ![Certificate Image](/files/oracle/certificates/oracle_cloud_infrastructure_for_sunbird_ed_specialty.png)
 > Fig. Oracle Cloud Infrastructure for Sunbird Ed Specialty
@@ -232,7 +247,7 @@ redirect_from:
 > Oracle Cloud Infrastructure for Sunbird Ed Specialty Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC099E428FA3B1EC0E0199284E659CDC4DF231348F7C561C84DFBB592C4E55F8 "Oracle").
 
 
-### Oracle Certified: Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+### Oracle Certified: Oracle Cloud Infrastructure Certified 2025 Data Science Professional
 
 ![Certificate Image](/files/oracle/certificates/oci_2025_certified_data_science_professional.jpg)
 > Fig. Oracle Cloud Infrastructure (2025) Certified Data Science Professional
@@ -291,7 +306,7 @@ redirect_from:
 > Oracle APEX Cloud Certified 2025 Developer Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A848E108B85B6C6EC95BABB64400C739D22BAE41376A24B59542805DD9E43A97 "Oracle").
 
 
-### Oracle Certified: Oracle Cloud Infrastructure (2024-2026) Generative AI Professional
+### Oracle Certified: Oracle Cloud Infrastructure 2024 Generative AI Professional
 
 ![Certificate Image](/files/oracle/certificates/oci_2024_generative_ai_certified_professional.png)
 > Fig. OCI Generative AI Professional Certificate
@@ -304,7 +319,7 @@ redirect_from:
 > Oracle Cloud Infrastructure 2024 Generative AI Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=79884B7FFDC859086559A7546CB012E4DC5E8CA828A5DE9FC467A0F6D7C44FAA "Oracle").
 
 
-### Oracle Certified: Oracle Cloud Infrastructure (2023-2025) Data Science Professional
+### Oracle Certified: Oracle Cloud Infrastructure 2023 Data Science Professional
 
 ![Certificate Image](/files/oracle/certificates/oci_2023_certified_data_science_professional.png)
 > Fig. Oracle Cloud Infrastructure 2023 Data Science Professional Certificate
@@ -326,7 +341,7 @@ redirect_from:
 
 # Oracle Cloud Infrastructure (2025-2027) Associate Certifications
 
-### Oracle Certified: Oracle Cloud Infrastructure (2025-2027) AI Foundations Associate
+### Oracle Certified: Oracle Cloud Infrastructure 2025 AI Foundations Associate
 
 ![Certificate Image](/files/oracle/certificates/oci_2025_certified_ai_foundations_associate.png)
 > Fig. Oracle Cloud Infrastructure 2025 AI Foundations Associate Certificate
@@ -344,7 +359,7 @@ redirect_from:
 > Oracle Cloud Infrastructure 2025 AI Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=912A82C64F8F5015835F493C97D787879DD749E9D428ED32139BB6BB515306BE "Oracle").
 
 
-### Oracle Certified: Oracle Data Platform (2025-2027) Certified Foundations Associate
+### Oracle Certified: Oracle Data Platform 2025 Certified Foundations Associate
 ![Certificate Image](/files/oracle/certificates/oci_2025_certified_foundations_associate.png.png)
 > Fig. Oracle Cloud Data Management 2025 Foundations Associate Certificate
 
@@ -363,7 +378,7 @@ redirect_from:
 
 
 # Oracle Cloud Infrastructure (2023-2025) Associate Certifications 
-### Oracle Certified: Oracle Cloud Infrastructure (2023-2025) AI Foundations Associate
+### Oracle Certified: Oracle Cloud Infrastructure 2023 AI Foundations Associate
 
 ![Certificate Image](/files/oracle/certificates/oci_2025_certified_ai_foundations_associate.png)
 > Fig. Oracle Cloud Infrastructure 2023 AI Foundations Associate Certificate
@@ -378,7 +393,7 @@ redirect_from:
 > Oracle Cloud Infrastructure 2023 AI Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=30C10DE85126138FE96AECDD36784A529DC8407FC27CF0C4214C58B44F28DD39 "Oracle").
 
 
-### Oracle Certified: Oracle Cloud Infrastructure (2023-2025) Foundations Associate
+### Oracle Certified: Oracle Cloud Infrastructure 2023 Foundations Associate
 
 ![Certificate Image](/files/oracle/certificates/oci_2023_certified_foundation_associate.png)
 > Fig. Oracle Cloud Infrastructure 2023 Foundations Associate Certificate
@@ -394,7 +409,7 @@ redirect_from:
 > Oracle Cloud Infrastructure 2023 Foundations Associate Certificate Verification Link : [link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C4C367FE735E18EA7368BAF239838FD07A2867C5FE87DBA93C31AA046B709010 "Oracle").
 
 
-### Oracle Certified: Oracle Cloud Data Management (2023-2025) Foundations Associate
+### Oracle Certified: Oracle Cloud Data Management 2023 Foundations Associate
 
 ![Certificate Image](/files/oracle/certificates/oci_data_management_2023_foundation_associate.png)
 > Fig. Oracle Cloud Data Management 2023 Foundations Associate Certificate
