@@ -245,7 +245,7 @@ redirect_from:
 ★✅ Set up OCI services for effective Sunbird ED platform management and optimization  
  
 > Oracle Cloud Infrastructure for Sunbird Ed Specialty Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC099E428FA3B1EC0E0199284E659CDC4DF231348F7C561C84DFBB592C4E55F8 "Oracle").
-
+---
 
 ### Oracle Certified: Oracle Cloud Infrastructure Certified 2025 Data Science Professional
 
