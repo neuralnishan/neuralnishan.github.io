@@ -221,8 +221,8 @@ redirect_from:
 ★✅ Implementing Monitoring and Observability (O&M)  
 
 > Oracle Cloud Infrastructure 2025 Certified DevOps Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24CC81FC2D539E062FEBFE65EBBF496743B71E6B73CE90E3703A46B6D2F02718 "Oracle").
----
 
+---
 ### Oracle Certified Specialty: Oracle Cloud Infrastructure for Sunbird Ed 2025 Specialty
 
 ![Certificate Image](/files/oracle/certificates/oracle_cloud_infrastructure_for_sunbird_ed_specialty.png)
