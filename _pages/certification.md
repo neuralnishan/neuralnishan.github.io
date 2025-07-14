@@ -220,7 +220,7 @@ redirect_from:
 ★✅ Enabling DevSecOps  
 ★✅ Implementing Monitoring and Observability (O&M)  
 
-> Oracle Cloud Infrastructure 2025 Certified DevOps Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24CC81FC2D539E062FEBFE65EBBF496743B71E6B73CE90E3703A46B6D2F02718 "Oracle").
+> Oracle Cloud Infrastructure 2025 Certified DevOps Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24CC81FC2D539E062FEBFE65EBBF496743B71E6B73CE90E3703A46B6D2F02718 "Oracle").  
 
 ---
 ### Oracle Certified Specialty: Oracle Cloud Infrastructure for Sunbird Ed 2025 Specialty
@@ -244,9 +244,9 @@ redirect_from:
 ★✅ Examine the technology stack and libraries for Sunbird ED's frontend development and efficient data management  
 ★✅ Set up OCI services for effective Sunbird ED platform management and optimization  
  
-> Oracle Cloud Infrastructure for Sunbird Ed Specialty Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC099E428FA3B1EC0E0199284E659CDC4DF231348F7C561C84DFBB592C4E55F8 "Oracle").
----
+> Oracle Cloud Infrastructure for Sunbird Ed Specialty Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC099E428FA3B1EC0E0199284E659CDC4DF231348F7C561C84DFBB592C4E55F8 "Oracle").  
 
+---
 ### Oracle Certified: Oracle Cloud Infrastructure Certified 2025 Data Science Professional
 
 ![Certificate Image](/files/oracle/certificates/oci_2025_certified_data_science_professional.jpg)
