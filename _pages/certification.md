@@ -206,6 +206,24 @@ redirect_from:
 # Oracle Cloud Certifications(2023-2024-2025-2026-2027-♾️)
 ---
 # Oracle Cloud Infrastructure Professional & Specialty Certifications
+
+---
+### Oracle Certified : Oracle Autonomous Database Cloud 2025 Certified Professional   
+
+![Certificate Image](/files/oracle/certificates/oracle_autonomous_database_cloud_2025_certified_professional.png)
+> Fig. Oracle Autonomous Database Cloud 2025 Certified Professional
+
+### Skills measured 
+★✅ Migrate to Autonomous Database  
+★✅ Provision Autonomous Database  
+★✅ Deploy on Autonomous Database Shared Infrastructure  
+★✅ Deploy on Autonomous Database Dedicated Infrastructure  
+★✅ Leverage Autonomous Database Tools  
+★✅ Develop on ADB  
+★✅ Manage an ADB  
+★✅Monitor an ADB  
+
+> Oracle Autonomous Database Cloud 2025 Certified Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=86BBB35FFB685CAAD16D8046B06A24BD99E492C4090BF2D5F61011864B7462E2 "Oracle").  
 ---
 
 ### Oracle Certified : Oracle Cloud Infrastructure 2025 Certified DevOps Professional   
