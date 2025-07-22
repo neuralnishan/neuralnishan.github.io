@@ -286,12 +286,12 @@ redirect_from:
 > Fig. Oracle AI Vector Search (2025) Certified Professional
 
 ### Skills measured
-★✅ Understanding of vector fundamentals
-★✅ Using Vector Indexes
-★✅ Performing Similarity Search
-★✅ Using Vector Embeddings
-★✅ Building a RAG Application
-★✅ Utilizing and integrating related AI capabilities
+★✅ Understanding of vector fundamentals  
+★✅ Using Vector Indexes  
+★✅ Performing Similarity Search  
+★✅ Using Vector Embeddings  
+★✅ Building a RAG Application  
+★✅ Utilizing and integrating related AI capabilities  
 
 > Oracle AI Vector Search (2025) Certified Professional Certificate Verification Link : [link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1663B3D6379FC23F41B00755C1FE4BD439F137F847B17E8760F28C6BACD0A063 "Oracle").
 
@@ -378,7 +378,7 @@ redirect_from:
 
 
 ### Oracle Certified: Oracle Data Platform 2025 Certified Foundations Associate
-![Certificate Image](/files/oracle/certificates/oci_2025_certified_foundations_associate.png.png)
+![Certificate Image](/files/oracle/certificates/oci_2025_certified_foundations_associate.png)
 > Fig. Oracle Cloud Data Management 2025 Foundations Associate Certificate
 
 ### Skills measured
