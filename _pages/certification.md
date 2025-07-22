@@ -188,7 +188,7 @@ redirect_from:
 ★✅Deploy SDR Agent     
 ★✅Leverage Sales Coach Agent    
 
-> Salesforce Agentforce Specialist Certification Verification Link : [link](https://sforce.co/verifycert "Salesforce").
+> Salesforce Agentforce Specialist Certification Verification Link : [link](https://www.salesforce.com/trailblazer/neuralnishan "Salesforce").
 
 ## Salesforce Certified (2024) AI Associate
 ![Certificate Image](/files/salesforce/salesforce_ai_associate_cert.png)
@@ -200,7 +200,7 @@ redirect_from:
 ★✅ Data for AI,Data Management  
 ★✅ Business and Productivity Tools and Salesforce Customer 360  
 
-> Salesforce AI Certification Verification Link : [link](https://sforce.co/verifycert "Salesforce").
+> Salesforce AI Certification Verification Link : [link](https://www.salesforce.com/trailblazer/neuralnishan  "Salesforce").
 
 ---
 # Oracle Cloud Certifications(2023-2024-2025-2026-2027-♾️)
