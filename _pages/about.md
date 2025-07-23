@@ -110,7 +110,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 # Microsoft Cloud and AI Bootcamp Platinum Attendee (2025)  
 ![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_and_ai_bootcamp_2025.png)
 
-### Key SKills Learned  
+# 🧠Key SKills Learned:
 **Tuesday 22 July, 2025**  
 **Leading in the Age of AI**  
 ★✅ Competing in the Age of Intelligence  
