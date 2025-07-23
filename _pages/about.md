@@ -105,9 +105,45 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 
 # Others(♾️)
 
-# Multi Cloud Achievements and Cloud Community Membership
+# MultiCloud Achievements, Live Interactive Bootcamp Attendee and Cloud Community Membership
 ---
-# AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025-♾️)
+# Microsoft Cloud and AI Bootcamp Platinum Attendee (2025)  
+![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_and_ai_bootcamp_2025.png)
+
+### Key SKills Learned  
+**Tuesday 22 July, 2025**  
+**Leading in the Age of AI**  
+★✅ Competing in the Age of Intelligence  
+★✅ Leading the AI Shift  
+★✅ Executive AI Briefing: Inside Microsoft’s Customer Zero Playbook  
+★✅ How businesses can unlock business and financial benefits in the Age of AI  
+★✅ Promise to Proof: Testament of AI-Powered Business Transformation  
+
+**Wednesday 23 July, 2025**  
+**Architecting Scalable, Intelligent AI systems**  
+★✅ Microsoft AI Horizons - Season 3 of AI  
+★✅ Fuelling Intelligent Systems - Data Readiness for AI  
+★✅ Automation vs. Intelligence - Where Do AI Agents Fit  
+★✅ Microsoft Datacenters: Illuminating the Unseen Power of the Cloud  
+★✅ Voice and Agentic AI: The Future of Autonomous Customer Service  
+
+**Thursday 24 July, 2025**  
+**Building & Scaling AI Apps + Agents**  
+★✅ New Agentic Development  
+★✅ AI-Accelerated Developer Tools and Platforms  
+★✅ Building World Class Cloud and AI Platform with Cloud Native and AKS  
+★✅ Fireside Chat: Next-gen AI Developer  
+★✅ Code Smarter, Faster: Empowering India’s Developers with AI  
+
+**Friday 25 July, 2025**  
+**Migrate & Modernise:**   
+★✅ Migrate and Modernise Your Estate for AI Innovation  
+★✅ Accelerate AI Innovation on a proven platform for Linux  
+★✅ End-to-End AI Innovation: Embedding AI in Every Step  
+★✅ From Legacy to Learning: Migration for AI-readiness & Impact      
+
+---
+# AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025)
 ![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
 
 ---
