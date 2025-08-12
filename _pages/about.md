@@ -15,7 +15,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 
 | Category | Skills |
 |----------|---------|
-| Programming Languages | Python, R, SQL, SAS |
+| Programming Languages | Python, R, SQL |
 | Cloud Platforms | Microsoft Azure(AI+Data+Fabric) , Oracle Cloud Infrastructure(Data+AI+DevOps+Apex) , Salesforce(AI+Agentforce) |
 | Machine Learning/AI | TensorFlow, PyTorch, Scikit-learn, NLTK, SpaCy, OpenCV, MLflow |
 | Data Processing | Pandas, NumPy, Apache Spark, Apache Hadoop, Apache Kafka, Apache Flink |
