@@ -24,7 +24,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | DevOps & Tools | Docker, Kubernetes, Git, GitHub, CI/CD |
 | Databases | MySQL, PostgreSQL, NoSQL |
 | Development Tools | Jupyter Notebook, Flask, VS Code |
-| Methodologies | A/B Testing, EDA, MLOps, ML Lifecycle |6
+| Methodologies | A/B Testing, EDA, MLOps, ML Lifecycle |
 | Other Skills | ETL/ELT , Data Modeling, Statistical Analysis |
 
 ---
