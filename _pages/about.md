@@ -12,6 +12,16 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 {: .notice}
 
 ---
+---
+# Technical Skills
+| Category | Skills |
+|----------|---------|
+| Programming | Python, R, SQL |
+| Cloud | Azure, AWS, Oracle Cloud |
+| ML/AI | TensorFlow, PyTorch, scikit-learn |
+| Data | Pandas, NumPy, Spark |
+| DevOps | Docker, Kubernetes, Git |
+---
 # Microsoft Azure Certifications (2023-2024-2025-2026-♾️)
 ![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
 
