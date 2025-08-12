@@ -16,16 +16,16 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | Category | Skills |
 |----------|---------|
 | Programming Languages | Python, R, SQL, SAS |
-| Cloud Platforms | Microsoft Azure > Oracle Cloud Infrastructure > Salesforce |
-| Machine Learning/AI | TensorFlow, PyTorch, Scikit-learn, NLTK, spaCy, OpenCV, MLflow |
+| Cloud Platforms | Microsoft Azure(AI+Data) , Oracle Cloud Infrastructure(Data+AI+DevOps) , Salesforce(AI+Agentforce) |
+| Machine Learning/AI | TensorFlow, PyTorch, Scikit-learn, NLTK, SpaCy, OpenCV, MLflow |
 | Data Processing | Pandas, NumPy, Apache Spark, Apache Hadoop, Apache Kafka, Apache Flink |
 | Data Visualization | Matplotlib, Seaborn, Tableau, Power BI |
-| Big Data & ETL | Snowflake, Redshift, dbt, Apache Airflow |
-| DevOps & Tools | Docker, Kubernetes, Git, GitHub, CI/CD pipelines |
-| Databases | MySQL, PostgreSQL, MongoDB, Oracle DB |
+| Big Data & ETL | Snowflake, dbt, Apache Airflow |
+| DevOps & Tools | Docker, Kubernetes, Git, GitHub, CI/CD |
+| Databases | MySQL, PostgreSQL, NoSQL |
 | Development Tools | Jupyter Notebook, Flask, VS Code |
-| Methodologies | A/B Testing, EDA, MLOps, ML Lifecycle Management |
-| Other Skills | ETL/ELT Pipeline Design, Data Modeling, Statistical Analysis |
+| Methodologies | A/B Testing, EDA, MLOps, ML Lifecycle |
+| Other Skills | ETL/ELT , Data Modeling, Statistical Analysis |
 
 ---
 # Microsoft Azure Certifications (2023-2024-2025-2026-♾️)
