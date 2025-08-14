@@ -12,10 +12,10 @@ Work experience
 
 
 ---
-## Providing Microsoft Azure Cloud Data and AI Solutions for Enterprise Grade Companies & Startups, Azure Data Scientist 
+## Neural Universe Lab, Azure Data Scientist 
 - **Location:** Amsterdam, Netherlands
 - **Type:** Remote
-- **Employment Time:** Part-Time
+- **Employment Time:** Full-Time
 - **Duration:** Jul 2024 ‑ Cont.
 
 ---
