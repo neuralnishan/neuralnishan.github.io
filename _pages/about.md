@@ -79,14 +79,14 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ## Oracle Cloud Infrastructure Professional and Specialty Certification (2025-2027-♾️)    
 ![Certificate Image](/files/oracle/logos/oci_professional_specialty_certification_2025_2027_stage_2.png)  
 
-## Oracle Cloud Infrastructure Professional Certification (2023-2026)    
-![Certificate Image](/files/oracle/logos/oci_professional_certification_2023_2026.png) 
-
 ## Oracle Cloud Infrastructure Associate Certification (2025-2027)  
 ![Certificate Image](/files/oracle/logos/oci_2025_foundation_associate_certifications.png)
 
 ## Oracle Fusion Cloud Applications SaaS (HCM,ERP,SCM,CX) Associate Certification (2025-♾️)  
 ![Certificate Image](/files/oracle/logos/oracle_fusion_cloud_applications_2025_associate_cert_hcm_erp_cx_scm_0.png)
+
+## Oracle Cloud Infrastructure Professional Certification (2023-2026)    
+![Certificate Image](/files/oracle/logos/oci_professional_certification_2023_2026.png) 
 
 ## Oracle Cloud Infrastructure Other Achievements (2025-♾️)
 ![Certificate Image](/files/oracle/logos/oracle_cloud_gcp_architecture_oracle_access_governance_success_navigator_essentials_2025.png) 
