@@ -76,7 +76,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ![Certificate Image](/files/databricks/databricks_fundamentals.png)
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
-| N/A | [Databricks Fundamentals](https://credentials.databricks.com/b70b437c-d92e-4662-ae21-040ecf844f73#acc.lDJxGpaX)| [Verify](https://credentials.databricks.com/b70b437c-d92e-4662-ae21-040ecf844f73#acc.lDJxGpaX)| [Download](/files/specialization/databricks/certificates/databricks_fundamentals_11ux4sak_1755614743141.pdf)| 2025-08-19 | 2026-08-19 | Databricks | Online Databricks|
+| N/A | [Databricks Fundamentals](https://credentials.databricks.com/b70b437c-d92e-4662-ae21-040ecf844f73#acc.lDJxGpaX)| [Verify](https://credentials.databricks.com/b70b437c-d92e-4662-ae21-040ecf844f73#acc.lDJxGpaX)| [Download](/files/databricks/databricks_fundamentals.png)| 2025-08-19 | 2026-08-19 | Databricks | Online Databricks|
 
 ---
 # Oracle Cloud Certifications (2023-2024-2025-2026-2027-♾️)  
