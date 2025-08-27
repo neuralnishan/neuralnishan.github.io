@@ -70,14 +70,6 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 | AFS-201 | [Salesforce Agentforce Specialist](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Download](/files/salesforce/salesforce_agentforce_specialist.png)| 2025-06-21 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 | N/A | [Salesforce AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 
----
-# Databricks Certifications (2025-2026-♾️)
-
-![Certificate Image](/files/databricks/databricks_fundamentals.png)
-
-| Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
-|---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
-| N/A | [Databricks Fundamentals](https://credentials.databricks.com/b70b437c-d92e-4662-ae21-040ecf844f73#acc.lDJxGpaX)| [Verify](https://credentials.databricks.com/b70b437c-d92e-4662-ae21-040ecf844f73#acc.lDJxGpaX)| [Download](/files/databricks/databricks_fundamentals.png)| 2025-08-19 | 2026-08-19 | Databricks | Online Databricks|
 
 ---
 # Oracle Cloud Certifications (2023-2024-2025-2026-2027-♾️)  
