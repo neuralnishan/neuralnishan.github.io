@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! ∫∫ What Does This Person Want Me To Feel About Them And What Do They Want Me To Notice? ∫∫ Then, Let Your Expertise Talk!"
+title: "Welcome! ∫∫"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
