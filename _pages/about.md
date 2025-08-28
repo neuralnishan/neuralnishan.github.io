@@ -17,14 +17,14 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 |----------|---------|
 | Programming L. | Python, R, SQL |
 | Cloud Platforms | MSFT Azure(AI+Data+Fabric) , OCI(Data+AI+DevOps+Apex), Salesforce(AI+AgentForce) |
-| ML/AI | TensorFlow, PyTorch, Scikit-learn, NLTK, SpaCy, OpenCV, MLflow |
-| Data Processing | Pandas, NumPy, Apache Spark, Apache Hadoop, Apache Kafka, Apache Flink |
+| ML/AI | TensorFlow, PyTorch, Scikit-learn, NLTK, OpenCV, MLflow |
+| Data Processing | Pandas, NumPy, Apache Spark, Apache Hadoop |
 | Data Visualization | Matplotlib, Seaborn, Tableau, Power BI |
 | Big Data & ETL | Snowflake, dbt, Apache Airflow |
 | DevOps & Tools | Docker, Kubernetes, Git, GitHub, CI/CD |
-| Databases | MySQL, PostgreSQL, NoSQL |
-| Development Tools | Jupyter Notebook, Flask, VS Code |
-| Methodologies | A/B Testing, EDA, MLOps, ML Lifecycle |
+| Databases | MySQL, NoSQL |
+| Development Tools | Jupyter Notebook, VSCode |
+| Methodologies | A/B Testing, EDA, MLOps |
 | Other Skills | ETL/ELT , Data Modeling, Statistical Analysis |
 
 ---
