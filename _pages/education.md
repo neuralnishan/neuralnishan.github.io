@@ -9,9 +9,9 @@ redirect_from:
 Educational Background
 ======
 
-**Degree:** Micromasters Program in Statistics and Data Science 
-**Institution:** MIT
-**Status:** Ongoing
+**Degree:** Micromasters Program in Statistics and Data Science   
+**Institution:** MIT  
+**Status:** Ongoing  
 
 **Degree:** B.Sc. in Computer Science and Engineering    
 **Institution:** NSU
