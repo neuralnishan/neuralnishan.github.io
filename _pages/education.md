@@ -15,7 +15,7 @@ Educational Background
 
 **Degree:** B.Sc. in Computer Science and Engineering    
 **Institution:** NSU
-**Status:** Done
+**Status:** Done  
 
 
 
