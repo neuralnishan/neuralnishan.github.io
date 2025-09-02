@@ -19,14 +19,21 @@ Work experience
 - **Duration:** Jul 2024 ‑ Cont.
 
 ---
-## HeadGear Limited, Data Analyst
+## HeadGear Limited, Data Engineer    
+- **Location:** Dhaka, Bangladesh    
+- **Type:** Remote    
+- **Employment Time:** Full-Time  
+- **Duration:** Sep 2022 ‑ Jun 2024  
+
+---
+## HeadGear Limited, Jr. Data Analyst
 - **Location:** Dhaka, Bangladesh
 - **Type:** Remote
 - **Employment Time:** Full-Time
 - **Duration:** Sep 2022 ‑ Jun 2024
 
 ---
-## HeadGear Limited, Junior Software Developer Intern
+## HeadGear Limited, Jr. Software Developer Intern
 - **Location:** Dhaka, Bangladesh
 - **Type:** Internship
 - **Employment Time:** Hybrid
