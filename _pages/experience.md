@@ -9,8 +9,6 @@ redirect_from:
 Work experience
 ======
 
-
-
 ---
 ## Neural Universe Lab, Azure Data Scientist 
 - **Location:** Amsterdam, Netherlands
