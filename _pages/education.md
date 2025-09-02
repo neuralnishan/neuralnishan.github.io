@@ -13,9 +13,9 @@ Educational Background
 **Institution:** MIT  
 **Status:** Ongoing  
 
-**Degree:** B.Sc. in Computer Science and Engineering    
-**Institution:** NSU
-**Status:** Done  
+**Degree:** B.Sc. in Computer Science and Engineering      
+**Institution:** NSU  
+**Status:** Done    
 
 
 
