@@ -21,7 +21,7 @@ Work experience
 - **Location:** Dhaka, Bangladesh    
 - **Type:** Remote    
 - **Employment Time:** Full-Time  
-- **Duration:** Sep 2022 ‑ Jun 2024  
+- **Duration:** Jul 4 ‑ Jun 2025  
 
 ---
 ## HeadGear Limited, Jr. Data Analyst
