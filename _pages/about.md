@@ -74,8 +74,8 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 ---
 # Oracle Cloud Certifications (2023-2024-2025-2026-2027-♾️)  
   
-## Oracle Cloud Infrastructure Professional and Specialty Certification (2025-2027-♾️)    
-![Certificate Image](/files/oracle/logos/oci_professional_specialty_certification_2025_2027.png)  
+## Oracle Cloud Infrastructure Professional, Associate and Specialty Certification (2025-2027-♾️)    
+![Certificate Image](/files/oracle/logos/oci_professional_associate_specialty_certification_2025_2027.png)  
 
 ## Oracle Cloud Infrastructure Associate Certification (2025-2027-♾️)  
 ![Certificate Image](/files/oracle/logos/oci_2025_foundation_associate_certifications.png)
@@ -101,6 +101,7 @@ Nishan is an **Azure Data Scientist** as well as an **AI enthusiast**, and his p
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
+| 1Z0-1114-25| [Oracle Redwood Application 2025 Certified Developer Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EC4B2F5BE1AE81D21D2589374BCA012A1404BD6E2548A0476BB0752CE6B892B5)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EC4B2F5BE1AE81D21D2589374BCA012A1404BD6E2548A0476BB0752CE6B892B5)| [Download](/files/oracle/certificates/oracle_redwood_application_2025_certified_developer_associate.png)| 2025-09-08 | 2027-09-08 | Oracle | Online Proctored by Proctorio|
 | 1Z0-1041-25| [Oracle Analytics Cloud 2025 Certified Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=65EBD8B4B474836B32861E0A69FF7608742372EA6C5490A2E83D28D3CE6383C1)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=65EBD8B4B474836B32861E0A69FF7608742372EA6C5490A2E83D28D3CE6383C1)| [Download](/files/oracle/certificates/oracle_analytics_2025_certified_professional.png)| 2025-09-05 | 2027-09-05 | Oracle | Online Proctored by Proctorio|
 | 1Z0-1127-25| [Oracle Cloud Infrastructure 2025 Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=66A59E725C08C78D63F12C1C3D72B257C16451F59DA0C330B9B12F9CBE0C6EEA)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=66A59E725C08C78D63F12C1C3D72B257C16451F59DA0C330B9B12F9CBE0C6EEA)| [Download](/files/oracle/certificates/oracle_cloud_infrastructure_2025_certified_generative_ai_professional.png)| 2025-09-04 | 2027-09-04 | Oracle | Online Proctored by Proctorio|
 | 1Z0-1084-25| [Oracle Cloud Infrastructure 2025 Certified Developer Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=513D71B6F105AAF1E80C87CD0B9BD57865E45911AAB95620FE7B4D3F2FE64F8D)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=513D71B6F105AAF1E80C87CD0B9BD57865E45911AAB95620FE7B4D3F2FE64F8D)| [Download](/files/oracle/certificates/oracle_cloud_infrastructure_2025_certified_developer_professional.png)| 2025-09-03 | 2027-09-03 | Oracle | Online Proctored by Proctorio|
