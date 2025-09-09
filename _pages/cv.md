@@ -9,50 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+# Education
 ======
 * Micromaster Program in Statistic and Data Science (MIT,USA)
 * B.Sc in Computer Science and Engineering (NSU,BD)
 
 
-Work experience
+# Work experience
 ======
 
 ---
 * Role: Data Engineer  
   * Head Gear LTD.  
-  * Duties included: 
-  Engineered and deployed over 10 scalable data pipelines using Azure Data Factory (ADF), reducing data ingestion time by 40%.    
-
-  Developed and optimized PySpark scripts in Azure Databricks to process over 10GB+ of raw data daily, improving data readiness for analytics by 25%.  
-
-  Managed and administered Azure data storage solutions, including Azure Data Lake Storage (ADLS) and Azure Synapse, resulting in a 15% reduction in cloud storage costs.  
-
-  Collaborated with cross-functional teams to deliver 50+ transformed sales datasets, enabling the launch of a new BI dashboard suite.  
-
-  Implemented robust security policies and access controls for over 100+ data assets, ensuring 95%+ compliance with corporate governance standards.  
-
-  Monitored and resolved an average of 15 critical pipeline failures per month, achieving a 90%+ data availability rate.  
-
-  Created and maintained over 20+ star and snowflake schemas in Azure Synapse, which reduced query times by an average of 30%.  
-
-  Automated 80% of routine data ingestion tasks using ADF pipelines, freeing up 10+ hours of manual work per week.  
-
-  Developed and optimized complex SQL queries that improved report generation time by 50%+ for key business metrics.  
-
-  Successfully migrated 2+ on-premises data warehouses containing over 5+ TB of Sales data to Azure, achieving a 20% cost savings on infrastructure.
+  TechStack: Azure, ADF, Azure Databricks, Azure Synapse, ADLS,SQL, Python  
+  * Duties included:  
+  ✅ Engineered and deployed over 10 scalable data pipelines using Azure Data Factory (ADF), reducing data ingestion time by 40%.    
+  ✅ Developed and optimized PySpark scripts in Azure Databricks to process over 10GB+ of raw data daily, improving data readiness for analytics by 25%.  
+  ✅ Managed and administered Azure data storage solutions, including Azure Data Lake Storage (ADLS) and Azure Synapse, resulting in a 15% reduction in cloud storage costs.  
+  ✅ Collaborated with cross-functional teams to deliver 50+ transformed sales datasets, enabling the launch of a new BI dashboard suite.  
+  ✅ Implemented robust security policies and access controls for over 100+ data assets, ensuring 95%+ compliance with corporate governance standards.  
+  ✅ Monitored and resolved an average of 15 critical pipeline failures per month, achieving a 90%+ data availability rate.  
+  ✅ Created and maintained over 20+ star and snowflake schemas in Azure Synapse, which reduced query times by an average of 30%.  
+  ✅ Automated 80% of routine data ingestion tasks using ADF pipelines, freeing up 10+ hours of manual work per week.  
+  ✅ Developed and optimized complex SQL queries that improved report generation time by 50%+ for key business metrics.  
+  ✅ Successfully migrated 2+ on-premises data warehouses containing over 5+ TB of Sales data to Azure, achieving a 20% cost savings on infrastructure.  
 {: .notice}  
   
 ---
-* Role: Jr. Data Analyst
-  * Head Gear LTD.
-  * Duties included: Data Collection, Data Preprocessing, Feature Engineering & Scaling, Data Wrangling, Model training, Model Evalution, Deployment,Unveiled key trends and patterns through EDA, Making Dasboards on Tableau
+* Role: Jr. Data Analyst  
+  * Head Gear LTD.  
+  TechStack: Python, SQL, Tableau, Azure Cloud, AWS, EDA, Jupyternotebook  
+  * Duties included: 
+  ✅ Data Collection  
+  ✅ Data Preprocessing  
+  ✅ Feature Engineering & Scaling  
+  ✅ Data Wrangling  
+  ✅ Model training  
+  ✅ Model Evalution  
+  ✅ Deployment  
+  ✅Unveiled key trends and patterns through EDA     
+  ✅ Making Dasboards on Tableau    
  {: .notice}
 
 ---
-* Role: Jr. Software Developer Intern
-  * Head Gear LTD.
-  Duties included: API specifications, Code documentation, Website Maintenance, Writing Clean Code, Fronend-Backend work, Database maintanance
+* Role: Jr. Software Developer Intern  
+  * Head Gear LTD.  
+  Duties included:  
+  ✅ API specifications  
+  ✅ Code documentation  
+  ✅ Website Maintenance  
+  ✅ Writing Clean Code  
+  ✅ Fronend-Backend work  
+  ✅ Database maintanance  
  {: .notice}
   
 Skills
