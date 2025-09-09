@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Learn AI Skills Challenge(2023) | Microsoft Cloud Skills Challenge(2024) | Microsoft AI Skill Fest(2025)"
+title: "Microsoft AI Skill Fest(2025) | Microsoft Cloud Skills Challenge(2024) | Microsoft Learn AI Skills Challenge(2023)"
 collection: achievements
 type: "Completed 275+ online Self‑paced Training and Won 8 free Microsoft certification exam. Modules: 1295, Training Time: 1023+ Hours and Passed Azure DP100 | DP700 | AI102 | DP203 | AI900"
 #permalink: /achievements/2023-09-08-achievement-5
