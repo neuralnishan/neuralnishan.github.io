@@ -36,8 +36,8 @@ redirect_from:
 * Role: Jr. Data Analyst  
   * Head Gear LTD.  
   TechStack: Python, SQL, Tableau, Azure Cloud, AWS, EDA, Jupyternotebook  
-  * Duties included: 
-  ✅ Data Collection  
+  * Duties included:   
+  ✅ Data Collection    
   ✅ Data Preprocessing  
   ✅ Feature Engineering & Scaling  
   ✅ Data Wrangling  
