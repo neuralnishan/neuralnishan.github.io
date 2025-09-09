@@ -9,15 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-# Education  
-======
+# Education:    
 * Micromaster Program in Statistic and Data Science (MIT,USA)  
 * B.Sc in Computer Science and Engineering (NSU,BD)  
 
 
-# Work experience  
-======
-
+# Work experience:    
 ---
 * Role: Data Engineer  
   * Head Gear LTD.  
@@ -63,8 +60,7 @@ redirect_from:
   ✅ Database maintanance  
  {: .notice}
   
-Skills
-======
+# Tehcnical Skills:  
 * Python*, SQL*, R  
 * NoSQL (Azure CosMosDB, Apache Cassandra)  
 * Tools, Frameworks & Libraries  
