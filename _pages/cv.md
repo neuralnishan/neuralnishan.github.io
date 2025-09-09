@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+# Education  
 ======
-* Micromaster Program in Statistic and Data Science (MIT,USA)
-* B.Sc in Computer Science and Engineering (NSU,BD)
+* Micromaster Program in Statistic and Data Science (MIT,USA)  
+* B.Sc in Computer Science and Engineering (NSU,BD)  
 
 
-# Work experience
+# Work experience  
 ======
 
 ---
@@ -65,19 +65,19 @@ redirect_from:
   
 Skills
 ======
-* Python*, SQL*, R
-* NoSQL (Azure CosMosDB, Apache Cassandra)
-* Tools, Frameworks & Libraries
-  * Jupyter Notebook*, PySpark, Apache Airflow*, Apache Spark*, Anaconda Navigator
-  * Tensorflow*, Pytorch*, OpenCV
-  * Pandas, Polaris*, Sci-kit learn*, NumPy*, Matplotlib*, Plotly
-* EDA & DataViz 
-  * Tableau 
-  * MS PowerBI*
-* Cloud Skill
-  * Microsoft Azure , 6x Microsoft Certified (Data+Fabric+AI+AzureML+Mlflow+AzureDatabricks+AzureSynapseAnalytics+PowerBI)
-  * Oracle Cloud Infrastructure and Oracle Fusion Cloud,  31x Oracle Certified (DataScience+DevOps+AI+GenAI+VectorSearch)
-  * Salesforce Cloud, 2x Salesforce Certified (AI+AgentForce)
+* Python*, SQL*, R  
+* NoSQL (Azure CosMosDB, Apache Cassandra)  
+* Tools, Frameworks & Libraries  
+  * Jupyter Notebook*, PySpark, Apache Airflow*, Apache Spark*, Anaconda Navigator  
+  * Tensorflow*, Pytorch*, OpenCV  
+  * Pandas, Polaris*, Sci-kit learn*, NumPy*, Matplotlib*, Plotly  
+EDA & DataViz:   
+  * Tableau  
+  * MS PowerBI*  
+Cloud Skill:  
+  * Microsoft Azure , 6x Microsoft Certified (Data+Fabric+AI+AzureML+Mlflow+AzureDatabricks+AzureSynapseAnalytics+PowerBI)  
+  * Oracle Cloud Infrastructure and Oracle Fusion Cloud,  31x Oracle Certified (DataScience+DevOps+AI+GenAI+VectorSearch)  
+  * Salesforce Cloud, 2x Salesforce Certified (AI+AgentForce)  
  
 Projects
 ======
