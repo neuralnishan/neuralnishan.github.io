@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 
 ---
-Nishan is an **Azure Data Scientist** as well as an **AI Trailblazer**, and his passion stands in the fascinating world of Data-Driven exploration.
+Nishan is an **Azure Data Scientist** as well as an **AI Trailblazer**, and his passion stands in the fascinating world of Data-Driven exploration. He is genuinely interested in the research field of **NLP**, especially in **ML, CV, GenAI, LLMs, RL, HCI** and **RLHF**.
 {: .notice}
 
 ---
- He is genuinely interested in the research field of **NLP**, especially in **ML, CV, GenAI, LLMs, RL, HCI** and **RLHF**.He is highly dedicated to multi-cloud computing technology. For example, he predominantly gained knowledge through **Self-Paced Learning** as well as **MSFT Experts Led-Training** in **Microsoft Learn**, and he later obtained an expertise in the MSFT Azure **Data and AI** path through **Microsoft Certification** such as **DP-700,DP-203,DP-100,AI-102,AI-900**. He also has more than **two years** of **hands-on experience** with **Azure Cloud**, and he leveraged the expertise he gained through **Microsoft Azure applied skills** to solve **POC challenges** on Azure Cloud.He additionally concentrated on **Oracle Cloud Infrastructure** and **Oracle Fusion Cloud**. He devoted himself to solving data-related problems not only through cloud technologies but also on personal computers as well.He is skilled in data science and data engineering tools.
+Nishan is highly dedicated to multi-cloud computing technology. For example, he predominantly gained knowledge through **Self-Paced Learning** as well as **MSFT Experts Led-Training** in **Microsoft Learn**, and he later obtained an expertise in the MSFT Azure **Data and AI** path through **Microsoft Certification** such as **DP-700,DP-203,DP-100,AI-102,AI-900**. He also has more than **two years** of **hands-on experience** with **Azure Cloud**, and he leveraged the expertise he gained through **Microsoft Azure applied skills** to solve **POC challenges** on Azure Cloud.He additionally concentrated on **Oracle Cloud Infrastructure** and **Oracle Fusion Cloud**. He devoted himself to solving data-related problems not only through cloud technologies but also on personal computers as well.He is skilled in data science and data engineering tools.
  {: .notice}
  
  ---
