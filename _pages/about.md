@@ -16,7 +16,7 @@ Nishan is highly dedicated to multi-cloud computing technology. For example, he 
  {: .notice}
  
  ---
-  Aside from his expertise in technology, he loves making his own meals, reading books, watching Sci-Fi movies, participating in Olympiads, Cloud Challenges, Hackathons and exploring historical sites. He is deeply committed to advancing the principles of **Diversity, Equity, and Inclusion**. Although he rarely checks social media too often, he appreciates communication only via **Email, LinkedIn**, or you can submit your query by filling out the **MSFT Form** below at the end of this page. Just scroll down, then you will find a **QR Code** as well as a link of the **MSFT Form**. Thanks for reading and visiting my site and **I wish, You Have a Good Day Forward! :)**
+  Aside from his expertise in technology, he loves making his own meals, reading books, watching Sci-Fi movies, participating in Olympiads, Cloud Challenges, Hackathons and exploring historical sites. He is deeply committed to advancing the principles of **Diversity, Equity, and Inclusion**. Although he rarely checks social media too often, he appreciates communication only via **Email, LinkedIn**, or you can submit your query by filling out the **MSFT Form** below at the end of this page.You can get connected  with him via **Wire** in realtime for sending DM. Just scroll down, then you will find a **MSFT Form and Wire App. QR Code** as well as a link of the **MSFT Form**. Thanks for reading and visiting his site and **He wishes, You Have a Good Day Forward! :)**
 {: .notice}
 
 # Technical Skills
