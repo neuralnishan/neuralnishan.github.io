@@ -9,7 +9,7 @@ redirect_from:
 Educational Background
 ====== 
 
-**Degree:** B.Sc. in Computer Science and Engineering      
+**Degree:** B.Sc. in CSE    
 **Institution:** NSU  
 **Status:** Done    
 
