@@ -27,19 +27,19 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 ---
 # Technical Skills
 
-| Category | Skills |
+| **Category** | **Skills** |
 |----------|---------|
-| Programming L. | Python, R, SQL |
-| Cloud Platforms | MSFT Azure(AI+Data+Fabric) , OCI(Data+AI+DevOps+Apex), Salesforce(AI+AgentForce) |
-| ML/AI | TensorFlow, PyTorch, Scikit-learn, NLTK, OpenCV, MLflow |
-| Data Processing | Pandas, NumPy, Apache Spark, Apache Hadoop |
-| Data Visualization | Matplotlib, Seaborn, Tableau, Power BI |
-| Big Data & ETL | Snowflake, dbt, Apache Airflow |
-| DevOps & Tools | Docker, Kubernetes, Git, GitHub, CI/CD |
-| Databases | MySQL, NoSQL |
-| Development Tools | Jupyter Notebook, VSCode |
-| Methodologies | A/B Testing, EDA, MLOps |
-| Other Skills | ETL/ELT , Data Modeling, Statistical Analysis |
+| **Programming L.** | **Python**, R, **SQL** |
+| **Cloud Platforms** | **MSFT Azure(AI+Data+Fabric)**, **OCI(Data+AI+DevOps+Apex)**, **Salesforce(AI+AgentForce)** |
+| **ML/AI** | **TensorFlow, PyTorch, Scikit-learn, NLTK, OpenCV, MLflow** |
+| **Data Processing** | **Pandas, Polaris, NumPy, Apache Spark**, Apache Hadoop |
+| **Data Visualization** | Matplotlib, Seaborn, Tableau, **Power BI** |
+| **Big Data & ETL** | Snowflake, dbt, **Apache Airflow** |
+| **DevOps & Tools** | **Docker, Kubernetes, Git, GitHub, CI/CD** |
+| **Databases** | MySQL, NoSQL |
+| **Development Tools** | Jupyter Notebook, **VSCode** |
+| **Methodologies** | **A/B Testing, EDA, MLOps** |
+| **Other Skills** | **ETL/ELT , Data Modeling, Statistical Analysis** |
 
 ---
 # Microsoft Azure Certifications (2023-2024-2025-2026-♾️)
