@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 # Education:    
-* Micromaster Program in Statistic and Data Science (MIT,USA)  
 * B.Sc in Computer Science and Engineering (NSU,BD)  
 
 
