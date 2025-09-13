@@ -9,16 +9,22 @@ redirect_from:
 
 ---
 Nishan is an **Azure Data Scientist** as well as an **AI Trailblazer**, and his passion stands in the fascinating world of Data-Driven exploration. He is genuinely interested in the research field of **NLP**, especially in **ML, CV, GenAI, LLMs, RL, HCI** and **RLHF**.
+He is highly dedicated to multi-cloud computing technology. For example, he predominantly gained knowledge through **Self-Paced Learning** as well as **MSFT Experts Led-Training** in **Microsoft Learn**, and he later obtained an expertise in the MSFT Azure **Data and AI** path through **Microsoft Certification** such as **DP-700,DP-203,DP-100,AI-102,AI-900**. He also has more than **two years** of **hands-on experience** with **Azure Cloud**, and he leveraged the expertise he gained through **Microsoft Azure applied skills** to solve **POC challenges** on Azure Cloud.He additionally concentrated on **Oracle Cloud Infrastructure** and **Oracle Fusion Cloud**. He devoted himself to solving data-related problems not only through cloud technologies but also on personal computers as well.He is skilled in data science and data engineering tools.
+{: .notice}
+ 
+ ---
+  Aside from his expertise in technology, he loves making his own meals, reading books, watching Sci-Fi movies, participating in Olympiads, Cloud Challenges, Hackathons and exploring historical sites. He is deeply committed to advancing the principles of **Diversity, Equity, and Inclusion**. Although he rarely checks social media too often, he appreciates communication only via **Email, LinkedIn**, or you can submit your query by filling out the **MSFT Form** below.You can get connected  with him via **Wire** in realtime for sending DM. Just scroll down, then you will find a **MSFT Form and Wire App. QR Code** as well as a link of the **MSFT Form**. Thanks for reading and visiting his site and **He wishes, You Have a Good Day Forward! :)**
 {: .notice}
 
 ---
-Nishan is highly dedicated to multi-cloud computing technology. For example, he predominantly gained knowledge through **Self-Paced Learning** as well as **MSFT Experts Led-Training** in **Microsoft Learn**, and he later obtained an expertise in the MSFT Azure **Data and AI** path through **Microsoft Certification** such as **DP-700,DP-203,DP-100,AI-102,AI-900**. He also has more than **two years** of **hands-on experience** with **Azure Cloud**, and he leveraged the expertise he gained through **Microsoft Azure applied skills** to solve **POC challenges** on Azure Cloud.He additionally concentrated on **Oracle Cloud Infrastructure** and **Oracle Fusion Cloud**. He devoted himself to solving data-related problems not only through cloud technologies but also on personal computers as well.He is skilled in data science and data engineering tools.
- {: .notice}
- 
- ---
-  Aside from his expertise in technology, he loves making his own meals, reading books, watching Sci-Fi movies, participating in Olympiads, Cloud Challenges, Hackathons and exploring historical sites. He is deeply committed to advancing the principles of **Diversity, Equity, and Inclusion**. Although he rarely checks social media too often, he appreciates communication only via **Email, LinkedIn**, or you can submit your query by filling out the **MSFT Form** below at the end of this page.You can get connected  with him via **Wire** in realtime for sending DM. Just scroll down, then you will find a **MSFT Form and Wire App. QR Code** as well as a link of the **MSFT Form**. Thanks for reading and visiting his site and **He wishes, You Have a Good Day Forward! :)**
+# Communication Preference:
+**1st: 📩 Professional Email (Priority within 24 hours)**    
+**2nd: 📞 Phone Calls but except Urgent/Business (CEST : 7.00 PM - 8.00 PM)**    
+⌚**N.B.** **Unknown Phone Numbers** will be automaticaly forwared to **AI assitant**.So, I suggest you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)** as well as avg. **Response for DM on LinkedIn, Wire, Snap and MS Teams** too.    
+**3rd: 📝 Microsoft Forms (Priority within 1-3 work/business days)**      
 {: .notice}
 
+---
 # Technical Skills
 
 | Category | Skills |
@@ -163,13 +169,7 @@ Nishan is highly dedicated to multi-cloud computing technology. For example, he 
 # Microsoft Security Bootcamp Attendee (2024)
 ![Certificate Image](/files/microsoft/microsoft_security_bootcamp_2024_attendee.png)
 
----
-# Communication Preference:
-**1st: 📩 Professional Email (Priority within 24 hours)**    
-**2nd: 📞 Phone Calls but except Urgent/Business (CEST : 7.00 PM - 8.00 PM)**    
-⌚**N.B.** Unknown phone numbers will be automaticaly forwared to AI assitant.So, I suggest you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)** as well as avg. **Response for DM on LinkedIn, Snap and MS Teams** too.    
-**3rd: 📝 Microsoft Forms (Priority within 1-3 work/business days)**      
-{: .notice}
+
 
 ---
 # Submit Your Query!
