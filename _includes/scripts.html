@@ -2,3 +2,16 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+
+// ...existing code...
+{% if site.footer_scripts %}
+  {% for script in site.footer_scripts %}
+    <script src="{{ script | relative_url }}"></script>
+  {% endfor %}
+{% else %}
+  <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+{% endif %}
+
+<!-- Add dark mode script -->
+<script src="{{ '/assets/js/dark-mode.js' | relative_url }}"></script>
+

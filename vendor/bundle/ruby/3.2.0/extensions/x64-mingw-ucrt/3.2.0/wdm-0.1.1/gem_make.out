@@ -1,0 +1,45 @@
+current directory: C:/Users/ZAYN/Downloads/Project/neuralnishan.github.io/vendor/bundle/ruby/3.2.0/gems/wdm-0.1.1/ext/wdm
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+checking for -lkernel32... yes
+checking for windows.h... yes
+checking for ruby.h... yes
+checking for HAVE_RUBY_ENCODING_H... yes
+checking for rb_thread_call_without_gvl()... yes
+creating Makefile
+
+current directory: C:/Users/ZAYN/Downloads/Project/neuralnishan.github.io/vendor/bundle/ruby/3.2.0/gems/wdm-0.1.1/ext/wdm
+make DESTDIR\= sitearchdir\=./.gem.20250916-19144-krdl8m sitelibdir\=./.gem.20250916-19144-krdl8m clean
+
+current directory: C:/Users/ZAYN/Downloads/Project/neuralnishan.github.io/vendor/bundle/ruby/3.2.0/gems/wdm-0.1.1/ext/wdm
+make DESTDIR\= sitearchdir\=./.gem.20250916-19144-krdl8m sitelibdir\=./.gem.20250916-19144-krdl8m
+generating wdm_ext-x64-mingw-ucrt.def
+compiling entry.c
+compiling memory.c
+compiling monitor.c
+compiling queue.c
+compiling rb_change.c
+rb_change.c: In function 'extract_absolute_path_from_notification':
+rb_change.c:139:5: warning: 'RB_OBJ_TAINT' is deprecated: taintedness turned out to be a wrong idea. [-Wdeprecated-declarations]
+  139 |     OBJ_TAINT(path);
+      |     ^~~~~~~~~
+In file included from C:/Ruby32-x64/include/ruby-3.2.0/ruby/internal/core/rstring.h:30,
+                 from C:/Ruby32-x64/include/ruby-3.2.0/ruby/internal/arithmetic/char.h:29,
+                 from C:/Ruby32-x64/include/ruby-3.2.0/ruby/internal/arithmetic.h:24,
+                 from C:/Ruby32-x64/include/ruby-3.2.0/ruby/ruby.h:28,
+                 from C:/Ruby32-x64/include/ruby-3.2.0/ruby.h:38,
+                 from wdm.h:22,
+                 from rb_change.c:4:
+C:/Ruby32-x64/include/ruby-3.2.0/ruby/internal/fl_type.h:116:30: note: declared here
+  116 | #define RB_OBJ_TAINT         RB_OBJ_TAINT
+      |                              ^~~~~~~~~~~~
+C:/Ruby32-x64/include/ruby-3.2.0/ruby/internal/fl_type.h:852:1: note: in expansion of macro 'RB_OBJ_TAINT'
+  852 | RB_OBJ_TAINT(VALUE obj)
+      | ^~~~~~~~~~~~
+compiling rb_monitor.c
+rb_monitor.c: In function 'rb_monitor_run_bang':
+rb_monitor.c:509:29: error: implicit declaration of function 'rb_thread_call_without_gvl' [-Wimplicit-function-declaration]
+  509 |         waiting_succeeded = rb_thread_call_without_gvl(wait_for_changes, monitor->process_event, stop_monitoring, monitor);
+      |                             ^~~~~~~~~~~~~~~~~~~~~~~~~~
+make: *** [Makefile:248: rb_monitor.o] Error 1
+
+make failed, exit code 2

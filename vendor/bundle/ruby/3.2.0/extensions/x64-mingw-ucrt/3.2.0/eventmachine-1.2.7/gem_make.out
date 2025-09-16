@@ -1,0 +1,29 @@
+current directory: C:/Users/ZAYN/Downloads/Project/neuralnishan.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/ZAYN/Downloads/Project/neuralnishan.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250916-7112-juisfd sitelibdir\=./.gem.20250916-7112-juisfd clean
+
+current directory: C:/Users/ZAYN/Downloads/Project/neuralnishan.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250916-7112-juisfd sitelibdir\=./.gem.20250916-7112-juisfd
+generating fastfilereaderext-x64-mingw-ucrt.def
+compiling mapper.cpp
+compiling rubymain.cpp
+In file included from C:/Ruby32-x64/include/ruby-3.2.0/ruby/internal/stdbool.h:31,
+                 from C:/Ruby32-x64/include/ruby-3.2.0/ruby/backward/2/bool.h:22,
+                 from C:/Ruby32-x64/include/ruby-3.2.0/ruby/defines.h:74,
+                 from C:/Ruby32-x64/include/ruby-3.2.0/ruby/ruby.h:25,
+                 from C:/Ruby32-x64/include/ruby-3.2.0/ruby.h:38,
+                 from rubymain.cpp:25:
+C:/Ruby32-x64/msys64/ucrt64/include/c++/15.1.0/cstdbool:48:6: warning: #warning "<cstdbool> is deprecated in C++17, remove the #include" [-Wcpp]
+   48 | #    warning "<cstdbool> is deprecated in C++17, remove the #include"
+      |      ^~~~~~~
+linking shared-object fastfilereaderext.so
+
+current directory: C:/Users/ZAYN/Downloads/Project/neuralnishan.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250916-7112-juisfd sitelibdir\=./.gem.20250916-7112-juisfd install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20250916-7112-juisfd
+
+current directory: C:/Users/ZAYN/Downloads/Project/neuralnishan.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250916-7112-juisfd sitelibdir\=./.gem.20250916-7112-juisfd clean
