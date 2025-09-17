@@ -91,7 +91,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 ## Oracle Cloud  Specialty Professional, and Associate Certification (2025-2027-♾️)    
 ![Certificate Image](/files/oracle/logos/oci_professional_associate_specialty_certification_2025_2027_new.png)  
 
-## Oracle Fusion Cloud Applications SaaS (HCM,ERP,SCM,CX) Associate Certification (2025-♾️)  
+## Oracle Fusion Cloud Applications SaaS (HCM,ERP,SCM,CX) Essentials Certification (2025-♾️)  
 ![Certificate Image](/files/oracle/logos/oracle_fusion_cloud_applications_2025_associate_cert_hcm_erp_cx_scm_0.png)
 
 ## Oracle Cloud Infrastructure Professional Certification (2023-2026)    
