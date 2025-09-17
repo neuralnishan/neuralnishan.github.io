@@ -11,28 +11,28 @@ Work experience
 
 ---
 ## Neural Universe Lab, Azure Data Scientist 
-- **Location:** N/A
+- **Location:** Amsterdam, NL
 - **Type:** Hybrid
 - **Employment Time:** Full-Time (Self-Employed)
 - **Duration:** Jul 2024 ‑ Cont.
 
 ---
 ## HeadGear Limited, Data Engineer    
-- **Location:** Dhaka, Bangladesh    
+- **Location:** DHK, BD  
 - **Type:** Remote    
 - **Employment Time:** Full-Time  
 - **Duration:** Jul 2024 ‑ Jun 2025  
 
 ---
 ## HeadGear Limited, Jr. Data Analyst
-- **Location:** Dhaka, Bangladesh
+- **Location:** DHK, BD
 - **Type:** Remote
 - **Employment Time:** Full-Time
 - **Duration:** Sep 2022 ‑ Jun 2024
 
 ---
 ## HeadGear Limited, Jr. Software Developer Intern
-- **Location:** Dhaka, Bangladesh
+- **Location:** DHK, BD
 - **Type:** Internship
 - **Employment Time:** Hybrid
 - **Duration:** May 2022 ‑ Aug 2022
