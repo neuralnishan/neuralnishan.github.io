@@ -88,15 +88,16 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 
 ---
 # Apache Airflow Certifications (2025-♾️)
-![Certificate Image](/files/astronomer/badges/astronomer-certification-for-apache-airflow-3-fundamentals.png)
+![Certificate Image](/files/astronomer/badges/astronomer_apache_airflow_dag_authorizing_and _apache_airflow_fundamentals_2025.png)
 
 ---
 # Apache Airflow Certifications (2025-♾️)
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
-| Airflow 101 (Airflow 3) | [Astronomer Certification for Apache Airflow 3 Fundamentals](https://www.credly.com/go/lnUPGtX2)| [Verify](https://www.credly.com/go/lnUPGtX2)| [Download](/files/astronomer/certificates/astronomer_certification_for_apache_airflow_3_fundamentals.png)| 2025-09-18 | Unlimited | Astronomer | Online Proctored |
-| DAG Authoring (Airflow 3)  | [Astronomer Certification for DAG Authoring in Apache Airflow 3](https://www.credly.com/go/lnUPGtX2)| [Verify](https://www.credly.com/go/lnUPGtX2)| [Download](/files/astronomer/certificates/astronomer_certification_for_apache_airflow_3_fundamentals.png)| 2025-09-18 | Unlimited | Astronomer | Online Proctored |
+| DAG Authoring (Airflow 3)  | [Astronomer Certification DAG Authoring for Apache Airflow 3]()https://www.credly.com/go/UFsNYksz| [Verify](https://www.credly.com/go/UFsNYksz)| [Download](/files/astronomer/certificates/AstronomerCertificationDAGAuthoringforApacheAirflow3.png)| 2025-09-18 | No Expiry | Astronomer | Online Proctored |
+| Airflow 101 (Airflow 3) | [Astronomer Certification for Apache Airflow 3 Fundamentals](https://www.credly.com/go/lnUPGtX2)| [Verify](https://www.credly.com/go/lnUPGtX2)| [Download](/files/astronomer/certificates/astronomer_certification_for_apache_airflow_3_fundamentals.png)| 2025-09-18 | No Expiry | Astronomer | Online Proctored |
+
 
 
 ---
