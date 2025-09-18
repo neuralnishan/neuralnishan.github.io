@@ -95,7 +95,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
-| DAG Authoring (Airflow 3)  | [Astronomer Certification DAG Authoring for Apache Airflow 3]()https://www.credly.com/go/UFsNYksz| [Verify](https://www.credly.com/go/UFsNYksz)| [Download](/files/astronomer/certificates/AstronomerCertificationDAGAuthoringforApacheAirflow3.png)| 2025-09-18 | No Expiry | Astronomer | Online Proctored |
+| DAG Authoring (Airflow 3)  | [Astronomer Certification DAG Authoring for Apache Airflow 3](https://www.credly.com/go/UFsNYksz)| [Verify](https://www.credly.com/go/UFsNYksz)| [Download](/files/astronomer/certificates/AstronomerCertificationDAGAuthoringforApacheAirflow3.png)| 2025-09-18 | No Expiry | Astronomer | Online Proctored |
 | Airflow 101 (Airflow 3) | [Astronomer Certification for Apache Airflow 3 Fundamentals](https://www.credly.com/go/lnUPGtX2)| [Verify](https://www.credly.com/go/lnUPGtX2)| [Download](/files/astronomer/certificates/astronomer_certification_for_apache_airflow_3_fundamentals.png)| 2025-09-18 | No Expiry | Astronomer | Online Proctored |
 
 
