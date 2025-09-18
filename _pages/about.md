@@ -85,6 +85,20 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 | N/A | [Salesforce AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | Unlimited | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 
 
+
+---
+# Apache Airflow Certifications (2025-♾️)
+![Certificate Image](/files/astronomer/badges/astronomer-certification-for-apache-airflow-3-fundamentals.png)
+
+---
+# Apache Airflow Certifications (2025-♾️)
+
+| Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
+|---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
+| Airflow 101 (Airflow 3) | [Astronomer Certification for Apache Airflow 3 Fundamentals](https://www.credly.com/go/lnUPGtX2)| [Verify](https://www.credly.com/go/lnUPGtX2)| [Download](/files/astronomer/certificates/astronomer_certification_for_apache_airflow_3_fundamentals.png)| 2025-09-18 | Unlimited | Astronomer | Online Proctored |
+| DAG Authoring (Airflow 3)  | [Astronomer Certification for DAG Authoring in Apache Airflow 3](https://www.credly.com/go/lnUPGtX2)| [Verify](https://www.credly.com/go/lnUPGtX2)| [Download](/files/astronomer/certificates/astronomer_certification_for_apache_airflow_3_fundamentals.png)| 2025-09-18 | Unlimited | Astronomer | Online Proctored |
+
+
 ---
 # Oracle Cloud Certifications (2023-2024-2025-2026-2027-♾️)  
   
