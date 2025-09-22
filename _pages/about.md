@@ -103,14 +103,8 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 ---
 # Oracle Cloud Certifications (2023-2024-2025-2026-2027-♾️)  
   
-## Oracle Cloud  Specialty Professional, and Associate Certification (2025-2027-♾️)    
-![Certificate Image](/files/oracle/logos/oci_professional_associate_specialty_certification_2025_2027_new.png)  
-
-## Oracle Fusion Cloud Applications SaaS (HCM,ERP,SCM,CX) Essentials Certification (2025-♾️)  
-![Certificate Image](/files/oracle/logos/oracle_fusion_cloud_applications_2025_associate_cert_hcm_erp_cx_scm_0.png)
-
-## Oracle Cloud Infrastructure Professional Certification (2023-2026)    
-![Certificate Image](/files/oracle/logos/oci_professional_certification_2023_2026.png) 
+## Oracle Cloud Specialty, Professional, Associate and Oracle Fusion Cloud Applications SaaS (HCM,ERP,SCM,CX) Essentials Certifications (2023-2024-2025-2026-2027-♾️)    
+![Certificate Image](/files/oracle/logos/oci_professional_associate_specialty_fusion_essentials_certifications_2023_2024_2025__2026_2027.png)  
 
 ## Oracle Cloud Infrastructure Other Achievements (2025-♾️)
 ![Certificate Image](/files/oracle/logos/oracle_cloud_gcp_architecture_oracle_access_governance_success_navigator_essentials_2025.png) 
@@ -118,15 +112,15 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 ## Oracle Cloud Infrastructure Other Achievements (2023-2024-2025-♾️)  
 ![Certificate Image](/files/oracle/logos/other_oracle_achievements.png)
 
-## Oracle Cloud Infrastructure Associate Certification (2023-2025)  
-![Certificate Image](/files/oracle/logos/oci_2023_foundation_associate_certifications.png)
-
 ---
 # Oracle Cloud Community Member and Winner Badges (2023-2024-2025-♾️)
 ![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
+| 1Z0-1195-25| [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9214AE9906DD4B24AFB78FE6BB4065DD0B01B9435FA11561E1AB8F6CF4E47162)| [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9214AE9906DD4B24AFB78FE6BB4065DD0B01B9435FA11561E1AB8F6CF4E47162)| [Download](/files/oracle/certificates/Oracle Cloud_Infrastructure_2025_Certified_Foundations_Associate_new.png)| 2025-09-22 | 2027-09-22 | Oracle | Online Proctored by Proctorio|
+| 1Z0-1085-25| [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F746094E6FB5A0098DC7F6315C90DD96DFB7F31962C1CA9B020BE7F06AF33FD)| [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F746094E6FB5A0098DC7F6315C90DD96DFB7F31962C1CA9B020BE7F06AF33FD)| [Download](/files/oracle/certificates/Oracle_Cloud_Infrastructure_2025_Certified_Foundations_Associate_new.png)| 2025-09-22 | 2027-09-22 | Oracle | Online Proctored by Proctorio|
+| 1Z0-1122-25| [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D23C7BA426194F76CED960196F13DDB87E817F31136D8BAD2ABD0E43EA1BDBF9)| [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D23C7BA426194F76CED960196F13DDB87E817F31136D8BAD2ABD0E43EA1BDBF9)| [Download](/files/oracle/certificates/Oracle_Cloud_Infrastructure_2025_Certified_AI_Foundations_Associate_new.png)| 2025-09-22 | 2027-09-22 | Oracle | Online Proctored by Proctorio|
 | 1Z0-1114-25| [Oracle Cloud Infrastructure 2025 Certified Application Integration Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7FD23D45F489CD3C0247A8E45D30ECCAD2EB0A51F058D0C4905C6E2D93BC5448)| [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7FD23D45F489CD3C0247A8E45D30ECCAD2EB0A51F058D0C4905C6E2D93BC5448)| [Download](/files/oracle/certificates/oracle_cloud_infrastructure_2025_certified_application_integration_professional.png)| 2025-09-16 | 2027-09-16 | Oracle | Online Proctored by Proctorio|
 | 1Z0-1114-25| [Oracle Cloud Infrastructure 2025 Certified Application Integration Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3356FCC45E07129521124ACC9D395B2F899FB1F2B20E86B6182997F55CAB7109)| [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3356FCC45E07129521124ACC9D395B2F899FB1F2B20E86B6182997F55CAB7109)| [Download](/files/oracle/certificates/oracle_cloud_infrastructure_2025_application_integration_professional.png)| 2025-09-15 | 2027-09-15 | Oracle | Online Proctored by Proctorio|
 | 1Z0-1114-25| [Oracle Guided Learning Project Management Certified Foundations Associate - Rel 1 (Beta)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7E6B3C3609830A255991F7C12064502AF8975988F011A6C572A97B64974C90C4)| [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7E6B3C3609830A255991F7C12064502AF8975988F011A6C572A97B64974C90C4)| [Download](/files/oracle/certificates/oracle_guided_learning_project_management_certified_foundations_associate_rel_1_Beta.png)| 2025-09-15 | 2027-09-15 | Oracle | Online Proctored by Proctorio|
