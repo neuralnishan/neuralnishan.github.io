@@ -87,7 +87,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 
 
 ---
-# Apache Airflow Certifications (2025-♾️)
+# Astronomer Certifications (2025-♾️)
 ![Certificate Image](/files/astronomer/badges/astronomer_apache_airflow_dag_authorizing_and _apache_airflow_fundamentals_2025.png)
 
 ---
