@@ -7,6 +7,21 @@ redirect_from:
   - /resume
 ---
 # Microsoft Azure Certifications  
+
+### Microsoft Certified: Azure Administrator Associate  
+
+![Certificate Image](/files/microsoft/microsoft_azure_administrator_associate_az104_certificate.png)  
+> Fig. Azure Administrator Associate Certificate  
+
+### Skills measured   
+★✅ Manage Azure identities and governance    
+★✅ Implement and manage storage   
+★✅ Deploy and manage Azure compute resources   
+★✅ Implement and manage virtual networking  
+★✅Monitor and maintain Azure resources     
+
+> Azure Administrator Associate Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bae96e1b17f4524 "Microsoft").
+
 ### Microsoft Certified: Fabric Data Engineer Associate  
 
 ![Certificate Image](/files/microsoft/microsoft_azure_fabric_data_engineer_associate_dp_700_certificate.png)
