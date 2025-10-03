@@ -44,7 +44,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 
 ---
 # Microsoft Azure Certifications (2023-2024-2025-2026-♾️)
-![Certificate Image](/files/microsoft/microsoft_cert_merge.png)
+![Certificate Image](/files/microsoft/mslogos/azure_certification_logos.png)
 
 ---
 # Microsoft Cloud Skills Achievements (2023-2024-2025-♾️)
