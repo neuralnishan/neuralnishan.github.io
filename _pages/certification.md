@@ -8,6 +8,19 @@ redirect_from:
 ---
 # Microsoft Azure Certifications  
 
+### Microsoft Certified: Azure Solutions Architect Expert    
+
+![Certificate Image](/files/microsoft/microsoft_azure_solutions_architect_expert_az305_certificate.png)  
+> Fig. Azure Solutions Architect Expert  Certificate  
+
+### Skills measured   
+★✅ Design identity, governance, and monitoring solutions      
+★✅ Design data storage solutions   
+★✅ Design business continuity solutions    
+★✅ Design infrastructure solutions   
+
+# Microsoft Azure Certifications  
+
 ### Microsoft Certified: Azure Administrator Associate  
 
 ![Certificate Image](/files/microsoft/microsoft_azure_administrator_associate_az104_certificate.png)  
