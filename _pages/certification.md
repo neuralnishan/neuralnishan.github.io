@@ -10,7 +10,7 @@ redirect_from:
 
 ### Microsoft Certified: Azure Solutions Architect Expert    
 
-![Certificate Image](/files/microsoft/microsoft_azure_solutions_architect_expert_az305_certificate.png)  
+![Certificate Image](/files/microsoft/microsoft_azure_solutions_architect_expert_az_305_certificate.png)  
 > Fig. Azure Solutions Architect Expert  Certificate  
 
 ### Skills measured   
