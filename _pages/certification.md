@@ -19,9 +19,19 @@ redirect_from:
 ★✅ Design business continuity solutions    
 ★✅ Design infrastructure solutions   
 
-# Microsoft Azure Certifications  
+### Microsoft Certified: Azure Cosmos DB Developer Specialty     
 
-### Microsoft Certified: Azure Administrator Associate  
+![Certificate Image](/files/microsoft/microsoft_azure_cosmos_DB_developer_specialty_dp_420_certficate.png)  
+> Fig. Azure Cosmos DB Developer Specialty   
+
+### Skills measured       
+★✅ Design and implement data models    
+★✅ Design and implement data distribution    
+★✅ Integrate an Azure Cosmos DB solution    
+★✅ Optimize an Azure Cosmos DB solution    
+★✅ Maintain an Azure Cosmos DB solution    
+
+### Microsoft Certified: Azure Administrator Associate    
 
 ![Certificate Image](/files/microsoft/microsoft_azure_administrator_associate_az104_certificate.png)  
 > Fig. Azure Administrator Associate Certificate  
