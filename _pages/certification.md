@@ -8,7 +8,21 @@ redirect_from:
 ---
 # Microsoft Azure Certifications  
 
-### Microsoft Certified: Azure Solutions Architect Expert    
+### Microsoft Certified: Azure DevOps Engineer Expert   
+
+![Certificate Image](/files/microsoft/microsoft_azure_DevOps_engineer_expert._certificate.png)   
+> Fig. Azure DevOps Engineer Expert Certificate     
+
+### Skills measured    
+★✅ Design and implement processes and communications  
+★✅ Design and implement a source control strategy  
+★✅ Design and implement build and release pipelines  
+★✅ Develop a security and compliance plan  
+★✅ Implement an instrumentation strategy  
+
+> Azure DevOps Engineer Expert Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/392c9cde0e967602 "Microsoft").  
+
+### Microsoft Certified: Azure Solutions Architect Expert      
 
 ![Certificate Image](/files/microsoft/microsoft_azure_solutions_architect_expert_az_305_certificate.png)  
 > Fig. Azure Solutions Architect Expert  Certificate  
@@ -18,6 +32,8 @@ redirect_from:
 ★✅ Design data storage solutions   
 ★✅ Design business continuity solutions    
 ★✅ Design infrastructure solutions   
+
+> Azure Solutions Architect Expert Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bbb34331fcb74db7 "Microsoft").  
 
 ### Microsoft Certified: Azure Cosmos DB Developer Specialty     
 
@@ -31,6 +47,8 @@ redirect_from:
 ★✅ Optimize an Azure Cosmos DB solution    
 ★✅ Maintain an Azure Cosmos DB solution    
 
+> AAzure Cosmos DB Developer Specialty Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946 "Microsoft").  
+
 ### Microsoft Certified: Azure Administrator Associate    
 
 ![Certificate Image](/files/microsoft/microsoft_azure_administrator_associate_az104_certificate.png)  
@@ -41,7 +59,7 @@ redirect_from:
 ★✅ Implement and manage storage   
 ★✅ Deploy and manage Azure compute resources   
 ★✅ Implement and manage virtual networking  
-★✅Monitor and maintain Azure resources     
+★✅ Monitor and maintain Azure resources     
 
 > Azure Administrator Associate Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bae96e1b17f4524 "Microsoft").
 
