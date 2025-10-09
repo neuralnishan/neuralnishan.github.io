@@ -6,7 +6,21 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# Microsoft Azure Certifications  
+# Microsoft Azure Certifications 
+
+### Microsoft Certified: Azure Database Administrator Associate     
+
+![Certificate Image](/files/microsoft/microsoft_azure_database_aministrator_associate_dp_300_certificate.png)   
+> Fig. Azure Database Administrator Associate Certificate     
+
+### Skills measured    
+★✅ Plan and implement data platform resources   
+★✅ Implement a secure environment  
+★✅ Monitor, configure, and optimize database resources  
+★✅ Configure and manage automation of tasks  
+★✅ Plan and configure a high availability and disaster recovery (HA/DR) environment   
+
+> Azure Database Administrator Associate Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/86ba0be9bf8d506b "Microsoft").  
 
 ### Microsoft Certified: Azure DevOps Engineer Expert   
 
