@@ -48,7 +48,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 
 ---
 # Microsoft Cloud Skills Achievements (2023-2024-2025-♾️)
-![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_challenges_2023_2025.png)
+![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_challenges_2023_2025.png)  
 
 ---
 # Microsoft Learn Transcript -->[Click this link!](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript")
@@ -58,6 +58,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
+| DP-300 | [Microsoft Certified: Azure Database Administrator Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/86ba0be9bf8d506b) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/86ba0be9bf8d506b) | [Download](/files/microsoft/microsoft_azure_database_aministrator_associate_dp_300_certificate.png) | 2025-10-09 | 2026-10-10 | Microsoft | Online Proctored by PearsonVUE |
 | AZ-400 | [Microsoft Certified: Azure DevOps Engineer Expert](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/392c9cde0e967602) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/392c9cde0e967602) | [Download](/files/microsoft/microsoft_azure_DevOps_engineer_expert._certificate.png) | 2025-10-08 | 2026-10-09 | Microsoft | Online Proctored by PearsonVUE |
 | DP-420 | [Microsoft Certified: Azure Cosmos DB Developer Specialty](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946) | [Download](/files/microsoft/microsoft_azure_cosmos_DB_developer_specialty_dp_420_certficate.png) | 2025-10-07 | 2026-10-08 | Microsoft | Online Proctored by PearsonVUE |
 | AZ-204 | [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946) | [Download](/files/microsoft/microsoft_azure_cosmos_DB_developer_specialty_dp_420_certficate.png) | 2025-10-06 | 2026-10-07 | Microsoft | Online Proctored by PearsonVUE |
