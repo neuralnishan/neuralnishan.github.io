@@ -8,6 +8,19 @@ redirect_from:
 ---
 # Microsoft Azure Certifications 
 
+### Microsoft Certified: Azure Security Engineer Associate     
+
+![Certificate Image](/files/microsoft/microsoft_certified_azure_security_engineer_associate_az_500_certificate.png)   
+> Fig. Azure Security Engineer Associate Certificate     
+
+### Skills measured     
+★✅ Secure identity and access   
+★✅ Secure networking   
+★✅ Secure compute, storage, and databases   
+★✅ Secure Azure using Microsoft Defender for Cloud and Microsoft Sentinel   
+
+> Azure Security Engineer Associate Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/24278eed802ab4a7 "Microsoft").  
+
 ### Microsoft Certified: Azure Database Administrator Associate     
 
 ![Certificate Image](/files/microsoft/microsoft_azure_database_aministrator_associate_dp_300_certificate.png)   
