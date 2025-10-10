@@ -61,7 +61,7 @@ redirect_from:
   ✅ Database maintanance  
  {: .notice}
   
-# Tehcnical Skills:  
+# Technical Skills:  
 * Python*, SQL*, R  
 * NoSQL (Azure CosMosDB, Apache Cassandra)  
 * Tools, Frameworks & Libraries  
