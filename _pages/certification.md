@@ -8,6 +8,18 @@ redirect_from:
 ---
 # Microsoft Azure Certifications 
 
+### Microsoft Certified: Fabric Analytics Engineer Associate     
+
+![Certificate Image](/files/microsoft/microsoft_azure_fabric_analytics_engineer_associate_dp_600_certificate.jpg)   
+> Fig. Azure Fabric Analytics Engineer Associate Certificate     
+
+### Skills measured     
+★✅ Maintain a data analytics solution  
+★✅ Prepare data  
+★✅ Implement and manage semantic models      
+
+> Azure Fabric Analytics Engineer Associate Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/f1975c324cca3794 "Microsoft").  
+
 ### Microsoft Certified: Azure Security Engineer Associate     
 
 ![Certificate Image](/files/microsoft/microsoft_certified_azure_security_engineer_associate_az_500_certificate.png)   
