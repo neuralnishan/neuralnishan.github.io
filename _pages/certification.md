@@ -8,6 +8,19 @@ redirect_from:
 ---
 # Microsoft Azure Certifications 
 
+### Microsoft Certified: Cybersecurity Architect Expert       
+
+![Certificate Image](/files/microsoft/microsoft_azure_fabric_analytics_engineer_associate_dp_600_certificate.jpg)   
+> Fig. Azure Cybersecurity Architect Expert Certificate     
+
+### Skills measured     
+★✅ Design solutions that align with security best practices and priorities   
+★✅ Design security operations, identity, and compliance capabilities    
+★✅ Design security solutions for infrastructure  
+★✅ Design security solutions for applications and data   
+
+> Azure Cybersecurity Architect Expert Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cbbf1932f8214f3 "Microsoft").  
+
 ### Microsoft Certified: Fabric Analytics Engineer Associate     
 
 ![Certificate Image](/files/microsoft/microsoft_azure_fabric_analytics_engineer_associate_dp_600_certificate.jpg)   

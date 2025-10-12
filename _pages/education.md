@@ -11,7 +11,7 @@ Educational Background
 
 **Degree:** B.Sc. in CSE    
 **Institution:** NSU  
-**Status:** Graduated    
+
 
 
 
