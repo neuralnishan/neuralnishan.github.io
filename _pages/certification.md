@@ -10,7 +10,7 @@ redirect_from:
 
 ### Microsoft Certified: Cybersecurity Architect Expert       
 
-![Certificate Image](/files/microsoft/microsoft_azure_fabric_analytics_engineer_associate_dp_600_certificate.jpg)   
+![Certificate Image](/files/microsoft/microsoft_certified_cybersecurity_architect_expert_sc_100_certificate.png)   
 > Fig. Azure Cybersecurity Architect Expert Certificate     
 
 ### Skills measured     
