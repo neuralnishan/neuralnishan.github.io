@@ -21,6 +21,19 @@ redirect_from:
 
 > Azure Cybersecurity Architect Expert Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cbbf1932f8214f3 "Microsoft").  
 
+### Microsoft Certified: Power BI Data Analyst Associate      
+
+![Certificate Image](/files/microsoft/microsoft_certified_power_bi_data_analyst_associate_pl_300_certificate.png)   
+> Fig. Azure Power BI Data Analyst Associate Certificate     
+
+### Skills measured      
+★✅ Prepare the data  
+★✅ Model the data  
+★✅ Visualize and analyze the data  
+★✅ Manage and secure Power BI  
+
+> Azure Power BI Data Analyst Associate Certification Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/81ab184bb00e00be "Microsoft").  
+
 ### Microsoft Certified: Fabric Analytics Engineer Associate     
 
 ![Certificate Image](/files/microsoft/microsoft_azure_fabric_analytics_engineer_associate_dp_600_certificate.jpg)   

@@ -5,6 +5,6 @@ type: "Completed 50+ online Self‑paced Training and Won 18 free Microsoft cert
 #permalink: /achievements/2023-09-08-achievement-5
 redirect_to: "https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero"
 venue: ""
-date: 2025-10-13
+date: 2025-10-14
 location: "Online | Microsoft Learn | Microsoft"
 ---
