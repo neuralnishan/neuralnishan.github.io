@@ -72,7 +72,7 @@ EDA & DataViz:
   * Tableau  
   * MS PowerBI*  
 Cloud Skill:  
-  * Microsoft Azure, 16x Microsoft Certified (Data+Fabric+AI+AzureML+Mlflow+AzureDatabricks+AzureSynapseAnalytics+PowerBI+MicrosoftEntra)  
+  * Microsoft Azure, 17x Microsoft Certified (Data+Fabric+AI+AzureML+Mlflow+AzureDatabricks+AzureSynapseAnalytics+PowerBI+MicrosoftEntra)  
   * Oracle Cloud Infrastructure and Oracle Fusion Cloud, 41x Oracle Certified (DataScience+DevOps+AI+GenAI+VectorSearch)  
   * Salesforce Cloud, 2x Salesforce Certified (AI+AgentForce)
   * Astronomer, 2x Apache Airflow Certified (Apache Airflow) 
