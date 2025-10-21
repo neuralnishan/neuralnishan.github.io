@@ -31,7 +31,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 | **Category** | **Skills** |
 |----------|---------|
 | **Programming L.** | **Python**, R, **SQL** |
-| **Cloud Platforms** | **MSFT Azure(AI+Data+Fabric)**, **OCI(Data+AI+DevOps+Apex)**, **Salesforce(AI+AgentForce)** |
+| **Cloud Platforms** | **MSFT Azure(AI+Data+Fabric)**, **Salesforce(AI+AgentForce)** |
 | **ML/AI** | **TensorFlow, PyTorch, Scikit-learn, NLTK, OpenCV, MLflow** |
 | **Data Processing** | **Pandas, Polaris, NumPy, Apache Spark**, Apache Hadoop |
 | **Data Visualization** | Matplotlib, Seaborn, Tableau, **Power BI** |
