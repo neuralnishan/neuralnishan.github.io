@@ -22,6 +22,19 @@ redirect_from:
 
 > AAzure Cosmos DB Developer Specialty Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946 "Microsoft").  
 
+### Microsoft Certified: Azure Solutions Architect Expert      
+
+![Certificate Image](/files/microsoft/microsoft_azure_solutions_architect_expert_az_305_certificate.png)  
+> Fig. Azure Solutions Architect Expert  Certificate  
+
+### Skills measured   
+★✅ Design identity, governance, and monitoring solutions      
+★✅ Design data storage solutions   
+★✅ Design business continuity solutions    
+★✅ Design infrastructure solutions   
+
+> Azure Solutions Architect Expert Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bbb34331fcb74db7 "Microsoft").  
+
 ### Microsoft Certified: Cybersecurity Architect Expert       
 
 ![Certificate Image](/files/microsoft/microsoft_certified_cybersecurity_architect_expert_sc_100_certificate.png)   
@@ -49,18 +62,6 @@ redirect_from:
 
 > Azure DevOps Engineer Expert Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/392c9cde0e967602 "Microsoft").  
 
-### Microsoft Certified: Azure Solutions Architect Expert      
-
-![Certificate Image](/files/microsoft/microsoft_azure_solutions_architect_expert_az_305_certificate.png)  
-> Fig. Azure Solutions Architect Expert  Certificate  
-
-### Skills measured   
-★✅ Design identity, governance, and monitoring solutions      
-★✅ Design data storage solutions   
-★✅ Design business continuity solutions    
-★✅ Design infrastructure solutions   
-
-> Azure Solutions Architect Expert Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bbb34331fcb74db7 "Microsoft").  
 
 ### Microsoft Certified: Power BI Data Analyst Associate      
 
