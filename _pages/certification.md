@@ -163,9 +163,9 @@ redirect_from:
 
 ### Skills measured
 ★✅ Design and prepare a machine learning solution  
-★✅ Explore data and train models  
-★✅ Prepare a model for deployment  
-★✅ Deploy and retrain a model  
+★✅ Explore data, and run experiments    
+★✅ Train and deploy models  
+★✅ Optimize language models for AI applications   
 
 ### Skills measured in renewal assessment:
 ★✅ Design a machine learning model training solution  
@@ -210,16 +210,16 @@ redirect_from:
 
 > Azure AI Engineer Associate Certificate Verification Link : [link](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/CAB2713E62F9049A?sharingId=A489942037851738 "Microsoft").
 
-###  Microsoft 365 Certified: Fundamentals
+###  Microsoft 365 Certified: Fundamentals  
 
-![Certificate Image](/files/microsoft/microsoft_365_certified_fundamentals_ms_900_certificate.png)
-> Fig. Microsoft 365 Fundamentals Certificate
+![Certificate Image](/files/microsoft/microsoft_365_certified_fundamentals_ms_900_certificate.png)  
+> Fig. Microsoft 365 Fundamentals Certificate  
 
-### Skills measured:
-★✅ Describe cloud concepts
-★✅ Describe Microsoft 365 apps and services
-★✅ Describe security, compliance, privacy, and trust in Microsoft 365
-★✅ Describe Microsoft 365 pricing, licensing, and support
+### Skills measured:  
+★✅ Describe cloud concepts  
+★✅ Describe Microsoft 365 apps and services  
+★✅ Describe security, compliance, privacy, and trust in Microsoft 365  
+★✅ Describe Microsoft 365 pricing, licensing, and support  
 
 > Microsoft 365 Fundamentals Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/1aaa1818f8168b1 "Microsoft").
 
