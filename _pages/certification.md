@@ -182,35 +182,31 @@ redirect_from:
 > Azure Data Scientist Associate Certificate Verification Link : [link](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/A2C48D4C8739EFA2?sharingId=A489942037851738 "Microsoft").
 
 
-### Microsoft Certified: Azure AI Engineer Associate
+### Microsoft Certified: Azure AI Engineer Associate   
 
 ![Certificate Image](/files/microsoft/microsoft_azure_ai_engineer_associate_ai_102_certificate.png)
 > Fig. Azure AI Engineer Associate Certificate
 
-### Skills measured:
-★✅ Plan and manage an Azure AI solution  
-★✅ Implement decision support solutions  
-★✅ Implement computer vision solutions  
-★✅ Implement natural language processing solutions  
-★✅ Implement knowledge mining and document intelligence solutions  
-★✅ Implement generative AI solutions  
+### Skills measured:  
+★✅ Plan and manage an Azure AI solution   
+★✅ Implement generative AI solutions   
+★✅ Implement an agentic solution   
+★✅ Implement computer vision solutions    
+★✅ Implement natural language processing solutions   
+★✅ Implement knowledge mining and information extraction solutions  
   
-### Skills measured in renewal assessment:
-★✅ Create speech-enabled apps with Azure AI services  
-★✅ Translate speech with the Azure AI Speech service  
-★✅ Image classification with custom Azure AI Vision models  
-★✅ Build a conversational language understanding model  
-★✅ Deploy Azure AI services in containers  
-★✅ Analyze text with Azure AI Language  
-★✅ Apply prompt engineering with Azure OpenAI Service  
-★✅ Create question answering solutions with Azure AI Language  
-★✅Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service  
-★✅ Extract data from forms with Azure Document Intelligence  
+### Skills measured in renewal assessment:   
+★✅ Using Azure AI Foundry, developer tools, and SDKs     
+★✅ Analyze and translate text  
+★✅ Project connections and creating a chat client  
+★✅ prompt engineering   
+★✅ Translate text  
 ★✅ Analyze images  
+★✅ Extract insights from text  
 
-> Azure AI Engineer Associate Certificate Verification Link : [link](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/CAB2713E62F9049A?sharingId=A489942037851738 "Microsoft").
+> Azure AI Engineer Associate Certificate Verification Link : [link](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/CAB2713E62F9049A?sharingId=A489942037851738 "Microsoft").  
 
-###  Microsoft 365 Certified: Fundamentals  
+### Microsoft 365 Certified: Fundamentals  
 
 ![Certificate Image](/files/microsoft/microsoft_365_certified_fundamentals_ms_900_certificate.png)  
 > Fig. Microsoft 365 Fundamentals Certificate  
