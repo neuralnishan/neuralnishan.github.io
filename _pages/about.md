@@ -94,10 +94,10 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 ![Certificate Image](/files/oracle/logos/oracle_cloud_gcp_architecture_oracle_access_governance_success_navigator_essentials_2025.png) 
 
 ## Oracle Cloud Infrastructure Other Achievements (2023-2024-2025-♾️)  
-![Certificate Image](/files/oracle/logos/other_oracle_achievements.png)
+![Certificate Image](/files/oracle/logos/other_oracle_achievements.png)  
 ---
-# Oracle Cloud Community Member and Winner Badges (2023-2024-2025-♾️)
-![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)
+# Oracle Cloud Community Member and Winner Badges (2023-2024-2025-♾️)  
+![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)  
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
