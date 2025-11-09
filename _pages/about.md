@@ -87,7 +87,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 ---
 # Oracle Cloud Certifications (2023-2024-2025-2026-2027-♾️)  
 
-## Oracle Cloud Specialty Professional, and Associate Certification (2025-2027-♾️)    
+## Oracle Cloud Specialty, Professional, and Associate Certification (2025-2027-♾️)    
 ![Certificate Image](/files/oracle/logos/oci_professional_associate_specialty_fusion_essentials_certifications_2023_2024_2025_2026_2027.png)  
 
 ## Oracle Cloud Infrastructure Other Achievements (2025-♾️)
