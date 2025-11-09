@@ -95,6 +95,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 
 ## Oracle Cloud Infrastructure Other Achievements (2023-2024-2025-♾️)  
 ![Certificate Image](/files/oracle/logos/other_oracle_achievements.png)  
+
 ---
 # Oracle Cloud Community Member and Winner Badges (2023-2024-2025-♾️)  
 ![Certificate Image](/files/oracle/badges/oracle_cloud_badges.png)  
