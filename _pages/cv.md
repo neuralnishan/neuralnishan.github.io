@@ -74,7 +74,8 @@ EDA & DataViz:
 Cloud Skill:  
   * Microsoft Azure, 17x Microsoft Certified (Data+Fabric+AI+AzureML+Mlflow+AzureDatabricks+AzureSynapseAnalytics+PowerBI+MicrosoftEntra)  
   * Salesforce Cloud, 2x Salesforce Certified (AI+AgentForce)
-  * Astronomer, 2x Apache Airflow Certified (Apache Airflow) 
+  * Astronomer, 2x Apache Airflow Certified (Apache Airflow)
+  * Oracle Cloud, 42x Oracle Cloud Certified (OCI + Oracle Database + Oracle FUsion Cloud) 
  
 Projects
 ======
