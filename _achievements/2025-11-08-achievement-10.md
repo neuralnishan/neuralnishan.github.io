@@ -5,6 +5,6 @@ type: "Passed 23 Professional, 13 Associate, 4 Essentials and 1 Specialty Level 
 #permalink: /achievements/2025-11-08-achievement-10
 redirect_to: "https://www.neuralnishan.space"
 venue: ""
-date: 2025-11-08
+date: 2025-11-19
 location: "Online | Oracle Cloud | Oracle University"
 ---
