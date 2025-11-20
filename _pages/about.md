@@ -87,6 +87,9 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 ---
 # Oracle Cloud Certifications (2023-2024-2025-2026-2027-♾️)  
 
+# Oracle Cloud RaceTo Certification Winner 2025 | Rank 43 out of top 500 and total number of contenders 1.0+ Million (2025-♾️)  
+![Certificate Image](/files/oracle/logos/oracle_race_to_certification_winner_2025.png)  
+
 ## Oracle Cloud Specialty, Professional, and Associate Certification (2025-2027-♾️)    
 ![Certificate Image](/files/oracle/logos/oci_professional_associate_specialty_fusion_essentials_certifications_2023_2024_2025_2026_2027.png)  
 
