@@ -12,9 +12,9 @@ Work experience
 ---
 ## Neural Universe Lab, Azure Data Scientist 
 - **Location:** Amsterdam, NL
-- **Type:** Hybrid
+- **Type:** Remote
 - **Employment Time:** Full-Time (Self-Employed)
-- **Duration:** Jul 2024 ‑ Cont.
+- **Duration:** Jul 2025 ‑ Cont.
 
 ---
 ## HeadGear Limited, Data Engineer    
