@@ -9,8 +9,14 @@ redirect_from:
 Educational Background
 ====== 
 
-**Degree:** B.Sc. in CSE    
-**Institution:** NSU  
+**Degree:** MSc in Modern State of Artificial Intelligence  
+**Institution:** MIPT (2026)    
+
+**Degree:** Cybersecurity Master Annual Program for 2026 (CMAP26)      
+**Institution:** CQURE Academy
+
+**Degree:** BSc in Computer Science and Engineering    
+**Institution:** NSU (2022)
 
 
 
