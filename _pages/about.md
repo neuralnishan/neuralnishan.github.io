@@ -43,11 +43,11 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 | **Other Skills** | **ETL/ELT , Data Modeling, Statistical Analysis** |
 
 ---
-# Microsoft Azure Certifications (2023-2024-2025-2026-♾️)
+# Microsoft Azure Certifications (2022-2023-2024-2025-2026-♾️)
 ![Certificate Image](/files/microsoft/mslogos/azure_certification_logos.png)
 
 ---
-# Microsoft Cloud Skills Achievements (2023-2024-2025-♾️)
+# Microsoft Cloud Skills Achievements (2022-2023-2024-2025-♾️)
 ![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_challenges_2023_2025.png)  
 
 ---
