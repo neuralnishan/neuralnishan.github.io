@@ -54,7 +54,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 # Microsoft Learn Transcript -->[Click this link!](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript")
 
 ---
-# Microsoft Azure Certifications (2023-2024-2025-2026-♾️)
+# Microsoft Azure Certifications (2022-2023-2024-2025-2026-♾️)
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
