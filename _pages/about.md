@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "∫∫ Hi There! Welcome And A Good Day Forward!∫∫"
+title: "∫∫ Hi There! Welcome And A Good Day Forward! ∫∫"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
