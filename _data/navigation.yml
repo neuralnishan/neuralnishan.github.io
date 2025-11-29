@@ -1,6 +1,8 @@
 # main links links
 main:
 
+  - title: "Latest News"
+    url: /files/news/mcp.html
 
   - title: "Education"
     url: /education/
