@@ -1,7 +1,7 @@
 # main links links
 main:
 
-  - title: "Latest News"
+  - title: "Latest Updates"
     url: /files/news/mcp.html
 
   - title: "Education"
@@ -16,7 +16,7 @@ main:
   - title: "Microsoft | Salesforce Certifications"
     url: /certification/
 
-  - title: "Specialization"
+  - title: "Specializations"
     url: /specialization/
 
   - title: "Achievements"
