@@ -11,7 +11,7 @@ Work experience
 
 ---
 ## Neural Universe Lab, Azure Data Scientist 
-- **Location:** Amsterdam, NL
+- **Location:** Zürich, CH
 - **Type:** Remote
 - **Employment Time:** Full-Time (Self-Employed)
 - **Duration:** Jul 2025 ‑ Cont.
