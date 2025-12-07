@@ -1,0 +1,23 @@
+<!-- Google Analytics 4 (gtag.js) - place your Measurement ID in _config.yml under site.analytics.google.ga4_measurement_id -->
+{% if site.analytics.google.ga4_measurement_id or site.google_analytics %}
+  {% assign ga_id = site.analytics.google.ga4_measurement_id | default: site.google_analytics %}
+  <script>
+    // Expose an init function which will be called once analytics consent is granted.
+    window.initGtag = window.initGtag || function(gaId) {
+      if (!gaId) return;
+      if (window.gtagLoaded) return;
+      window.gtagLoaded = true;
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);} 
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', gaId, { 'anonymize_ip': {{ site.analytics.google.anonymize_ip | default: true }} });
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    };
+    // If consent is already granted in localStorage, we will initialize from analytics.js
+  </script>
+{% endif %}

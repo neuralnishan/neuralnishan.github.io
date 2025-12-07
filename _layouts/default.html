@@ -5,7 +5,7 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js dark">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -25,6 +25,7 @@ layout: compress
       </footer>
     </div>
 
+    {% include dark-toggle.html %}
     {% include scripts.html %}
 
   </body>

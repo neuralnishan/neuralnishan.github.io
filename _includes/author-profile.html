@@ -8,9 +8,13 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+    	<div class="avatar-spin">
+    	  <img src="{{ author.avatar }}" alt="{{ author.name }}">
+    	</div>
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    	<div class="avatar-spin">
+    	  <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    	</div>
     {% endif %}
   </div>
 

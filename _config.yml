@@ -73,16 +73,18 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider: "google-gtag" # options: false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    # GA4 Measurement ID (format: G-XXXXXXXXXX)
+    ga4_measurement_id: "G-1NQDSN2060"
+    anonymize_ip: true
 
 
 # Site Author
 author:
   name             : "S M G Arafat N."
   avatar           : "pro_pic_4.png"
-  bio              : "Azure Data Scientist @NUL ∫∫ 17x Microsoft Azure Cloud ∫∫ 2x Salesforce Cloud ∫∫ 2x Apache Airflow (Astronomer) Certified ∫∫ Building something cool at NUL and leveraging the power of data science, data engineering with Azure to solve data driven real-world business problems"
+  bio              : "Azure Data Scientist @NUL ∫∫ 17x Microsoft Azure Cloud ∫∫ Building something cool at NUL with the power of Azure Cloud to solve business problems"
   location         : "Neural Universe Lab, NUL👨‍🔬"
   employer         : 
   pubmed           : 

@@ -1,0 +1,18 @@
+<!-- Google Tag Manager (consent-driven) - exposes initGtm(containerId) to load GTM after consent -->
+{% if site.analytics.google.gtm_container_id %}
+<script>
+  window.initGtm = window.initGtm || function(containerId) {
+    if (!containerId) return;
+    if (window.gtmLoaded) return;
+    window.gtmLoaded = true;
+    // inject dataLayer and GTM script
+    window.dataLayer = window.dataLayer || [];
+    var w = window, d = document, l = 'dataLayer';
+    window[l] = window[l] || [];
+    window[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+    var s = d.createElement('script'); s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtm.js?id=' + containerId;
+    var f = d.getElementsByTagName('script')[0]; f.parentNode.insertBefore(s, f);
+  };
+</script>
+{% endif %}
