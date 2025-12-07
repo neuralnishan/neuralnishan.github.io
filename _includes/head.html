@@ -15,6 +15,15 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<!-- Google Analytics (gtag.js) - Deferred initialization via consent banner -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1NQDSN2060"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  // gtag('config', 'G-1NQDSN2060'); // Deferred until user consents
+</script>
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/dark-mode.css">
