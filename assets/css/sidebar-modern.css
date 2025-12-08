@@ -46,8 +46,9 @@
 .author__avatar .avatar-spin {
   display: inline-block;
   transform-origin: 50% 50%;
-  /* slower spin for a more subtle effect */
-  animation: spin 20s linear infinite;
+  /* much slower spin for a subtle, relaxed effect */
+  /* increased duration from 20s -> 60s */
+  animation: spin 60s linear infinite;
   will-change: transform;
 }
 
@@ -68,6 +69,14 @@
 .sidebar:hover .author__avatar .avatar-spin,
 .author__avatar .avatar-spin:hover {
   animation-play-state: paused;
+}
+
+/* Respect reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  .author__avatar .avatar-spin {
+    animation: none !important;
+    transform: none !important;
+  }
 }
 
 /* Author name */
