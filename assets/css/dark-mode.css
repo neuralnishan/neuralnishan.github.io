@@ -311,8 +311,8 @@ html.dark .notice--info h4,
 html.dark .notice--warning h4,
 html.dark .notice--success h4,
 html.dark .notice--danger h4 {
-  color: #00ffff !important;
-  text-shadow: 0 0 10px rgba(0, 255, 255, 0.4);
+  color: #00ff00 !important;
+  text-shadow: 0 0 10px rgba(0, 255, 0, 0.4);
 }
 
 html.dark .notice p,

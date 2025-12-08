@@ -82,20 +82,29 @@
 /* Author name */
 .author__name {
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: 800;
   margin: 16px 0 8px;
-  background: linear-gradient(135deg, #333, #666);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  transition: all 0.3s ease;
+  color: #00ff00;
+  -webkit-text-fill-color: #00ff00;
+  background: none;
+  text-shadow: 0 0 6px rgba(0,255,0,0.25);
+  transition: color 0.2s ease, text-shadow 0.2s ease;
 }
 
-.sidebar:hover .author__name {
-  background: linear-gradient(135deg, #111, #444);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+/* keep author name solid green on hover */
+.sidebar:hover .author__name,
+.author__name:hover {
+  color: #00ff00;
+  -webkit-text-fill-color: #00ff00;
+  text-shadow: 0 0 8px rgba(0,255,0,0.45);
+}
+
+/* Dark mode: ensure the same bright green and glow */
+html.dark .author__name {
+  color: #00ff00 !important;
+  -webkit-text-fill-color: #00ff00 !important;
+  text-shadow: 0 0 10px rgba(0,255,0,0.6) !important;
+  font-weight: 800 !important;
 }
 
 /* Author bio */
@@ -216,6 +225,7 @@
   text-decoration: none;
   transition: all 0.2s ease;
   font-size: 0.95rem;
+  font-weight: 700;
 }
 
 .sidebar .nav__list a:hover {
@@ -261,16 +271,16 @@ html.dark .author__bio {
 }
 
 html.dark .sidebar:hover .author__bio {
-  color: #00ffff;
+  color: #00ff00;
 }
 
 html.dark .sidebar h3 {
-  color: #00ffff;
-  text-shadow: 0 0 8px rgba(0, 255, 255, 0.3);
+  color: #00ff00;
+  text-shadow: 0 0 8px rgba(0, 255, 0, 0.3);
 }
 
 html.dark .sidebar h3:before {
-  background: linear-gradient(90deg, #00ffff, #00ff00);
+  background: linear-gradient(90deg, #00ff00, #00cc00);
 }
 
 html.dark .author__urls a {
@@ -282,9 +292,9 @@ html.dark .author__urls a {
 
 html.dark .author__urls a:hover {
   background: rgba(0, 255, 0, 0.15);
-  color: #00ffff;
+  color: #00ff00;
   box-shadow: 0 4px 12px rgba(0, 255, 0, 0.2);
-  text-shadow: 0 0 8px rgba(0, 255, 255, 0.4);
+  text-shadow: 0 0 8px rgba(0, 255, 0, 0.4);
   border-color: rgba(0, 255, 0, 0.4);
   padding-left: 16px;
 }
@@ -297,8 +307,8 @@ html.dark .sidebar .nav__list a {
 
 html.dark .sidebar .nav__list a:hover {
   background: rgba(0, 255, 0, 0.15);
-  color: #00ffff;
-  box-shadow: -2px 0 0 #00ffff;
+  color: #00ff00;
+  box-shadow: -2px 0 0 #00ff00;
   text-shadow: 0 0 5px rgba(0, 255, 0, 0.3);
 }
 
