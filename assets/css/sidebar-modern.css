@@ -84,19 +84,18 @@
   font-size: 1.5rem;
   font-weight: 800;
   margin: 16px 0 8px;
-  color: #00ff00;
-  -webkit-text-fill-color: #00ff00;
+  /* default (light mode) color: keep it neutral */
+  color: #222;
   background: none;
-  text-shadow: 0 0 6px rgba(0,255,0,0.25);
+  text-shadow: none;
   transition: color 0.2s ease, text-shadow 0.2s ease;
 }
 
-/* keep author name solid green on hover */
+/* subtle hover treatment in light mode (no green) */
 .sidebar:hover .author__name,
 .author__name:hover {
-  color: #00ff00;
-  -webkit-text-fill-color: #00ff00;
-  text-shadow: 0 0 8px rgba(0,255,0,0.45);
+  color: #111;
+  text-shadow: none;
 }
 
 /* Dark mode: ensure the same bright green and glow */
