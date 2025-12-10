@@ -15,6 +15,7 @@
 .greedy-nav a {
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
+  font-weight: 700;
 }
 
 .greedy-nav .visible-links a {
@@ -75,6 +76,7 @@
   border-radius: 6px;
   margin: 0.25rem 0.5rem;
   transition: all 0.2s ease;
+  font-weight: 700;
 }
 
 .greedy-nav .hidden-links a:hover {
@@ -105,6 +107,7 @@
   border-radius: 8px;
   padding: 0.5em 0.75em;
   transition: all 0.25s ease;
+  font-weight: 700;
 }
 
 .nav__list a:hover {

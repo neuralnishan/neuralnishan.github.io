@@ -47,8 +47,8 @@
   display: inline-block;
   transform-origin: 50% 50%;
   /* much slower spin for a subtle, relaxed effect */
-  /* increased duration from 20s -> 60s */
-  animation: spin 60s linear infinite;
+  /* increased duration from 20s -> 120s (slower) */
+  animation: spin 120s linear infinite;
   will-change: transform;
 }
 
