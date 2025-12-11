@@ -80,8 +80,8 @@ Below are the individual videos from the playlist embedded separately with a sho
 <!-- Video: Lab 5 -->
 ### Lab 5 — Implement Virtual Networking
 
-<div style="max-width:100%;margin:0 auto 1.2rem;">
-  <iframe width="100%" height="360" src="https://www.youtube.com/embed/DwN8m58mZ58" title="Lab 5: Implement Virtual Networking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/DwN8m58mZ58" title="Lab 5: Implement Virtual Networking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Short summary: configuring Virtual Networks, subnets, route tables, and validating connectivity between VMs. Hands-on steps I ran: created a VNet with multiple subnets, deployed two VMs, tested NSG rules, and verified cross-subnet communication.
@@ -89,8 +89,8 @@ Short summary: configuring Virtual Networks, subnets, route tables, and validati
 <!-- Video: Lab 6 -->
 ### Lab 6 — Implement Intersite Connectivity
 
-<div style="max-width:100%;margin:0 auto 1.2rem;">
-  <iframe width="100%" height="360" src="https://www.youtube.com/embed/XD0TMnV2-Yc" title="Lab 6: Implement Intersite Connectivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/XD0TMnV2-Yc" title="Lab 6: Implement Intersite Connectivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Short summary: implementing VNet peering and VPN/ExpressRoute style connectivity patterns for hybrid scenarios. Hands-on steps: configured VNet peering, verified routing, and tested site-to-site connectivity scenarios using simulated on-prem endpoints.
@@ -98,8 +98,8 @@ Short summary: implementing VNet peering and VPN/ExpressRoute style connectivity
 <!-- Video: Lab 7 -->
 ### Lab 7 — Implement Network Traffic Management
 
-<div style="max-width:100%;margin:0 auto 1.2rem;">
-  <iframe width="100%" height="360" src="https://www.youtube.com/embed/9KFuwwX7Y3g" title="Lab 7: Implement Network Traffic Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/9KFuwwX7Y3g" title="Lab 7: Implement Network Traffic Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Short summary: configuring load balancing, traffic manager, and application gateway basics. Hands-on steps: deployed a Load Balancer, created backend pools and health probes, and tested traffic distribution.
@@ -107,8 +107,8 @@ Short summary: configuring load balancing, traffic manager, and application gate
 <!-- Video: Lab 8 -->
 ### Lab 8 — Manage Azure Storage
 
-<div style="max-width:100%;margin:0 auto 1.2rem;">
-  <iframe width="100%" height="360" src="https://www.youtube.com/embed/1cp5iQddNps" title="Lab 8: Manage Azure Storage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/1cp5iQddNps" title="Lab 8: Manage Azure Storage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Short summary: storage account creation, blob/container operations, access tiers, and snapshots. Hands-on steps: created storage accounts, uploaded blobs, experimented with access tiers and lifecycle rules, and validated restores.
@@ -116,8 +116,8 @@ Short summary: storage account creation, blob/container operations, access tiers
 <!-- Video: Lab 9 -->
 ### Lab 9 — Manage Virtual Machines
 
-<div style="max-width:100%;margin:0 auto 1.2rem;">
-  <iframe width="100%" height="360" src="https://www.youtube.com/embed/inQikpCcrSs" title="Lab 9: Manage Virtual Machines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/inQikpCcrSs" title="Lab 9: Manage Virtual Machines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Short summary: VM provisioning, OS images, extensions, and disk management. Hands-on steps: provisioned Windows/Linux VMs, attached data disks, used the Azure portal and CLI to snapshot and resize disks.

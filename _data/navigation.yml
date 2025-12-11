@@ -4,6 +4,9 @@ main:
   - title: "Latest Updates"
     url: /files/news/mcp.html
 
+  - title: "Latest Blogs"
+    url: /year-archive/
+
   - title: "Education"
     url: /education/
 
@@ -13,7 +16,7 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "Microsoft | Salesforce Certifications"
+  - title: "Microsoft | Salesforce"
     url: /certification/
 
   - title: "Specializations"
