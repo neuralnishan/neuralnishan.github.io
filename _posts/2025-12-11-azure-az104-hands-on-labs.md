@@ -2,16 +2,13 @@
 layout: post
 title: "Azure Hands-On Labs: AZ-104 — Walkthrough Playlist"
 date: 2025-12-11 00:00:00 +0000
-categories: [azure, az-104, labs, video]
 tags: [azure, az104, hands-on, tutorial, youtube]
 excerpt: "A curated, embedded playlist of hands-on Azure AZ-104 labs from Neural Universe Lab — what's included and what I did step-by-step."
 ---
 
-**Playlist embedded:**
+**Playlist note:**
 
-<div style="max-width:100%;margin:0 auto;">
-  <iframe width="100%" height="500" src="https://www.youtube.com/embed/videoseries?list=PL9HBlbKg4DavosJmnJ8UTk4dHxeQbY-3V" title="Azure AZ-104 Hands-on Labs Playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+The full playlist is available below as individual video embeds. (If you prefer the combined playlist player, open it on YouTube: https://www.youtube.com/playlist?list=PL9HBlbKg4DavosJmnJ8UTk4dHxeQbY-3V)
 
 ## Overview
 
