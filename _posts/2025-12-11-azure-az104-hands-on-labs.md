@@ -46,8 +46,6 @@ Below is a concise summary of the practical tasks I completed while following th
 - Tested simple automation scripts using the Azure CLI and PowerShell to automate VM start/stop and snapshot creation.
 - Implemented a backup policy using Azure Backup and tested restore to ensure reliability.
 
-These notes are intended to be reproducible steps — if you want, I can convert any bullet above into a step-by-step lab with exact commands and Azure Portal screenshots.
-
 ## What's included in this post
 
 - Embedded YouTube playlist (above).
