@@ -1,10 +1,10 @@
 # main links links
 main:
 
-  - title: "Latest Updates"
+  - title: "Latest Update"
     url: /files/news/mcp.html
 
-  - title: "Latest Blogs"
+  - title: "Blogs"
     url: /year-archive/
 
   - title: "Education"
