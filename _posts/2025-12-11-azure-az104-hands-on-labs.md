@@ -30,7 +30,6 @@ The playlist focuses on the core AZ-104 administrative tasks and typical hands-o
 - Managing and configuring Azure Load Balancers and Application Gateways
 - Implementing basic automation using ARM templates, CLI, and PowerShell
 
-If you'd like I can add a per-video breakdown (title + short note) below — provide permission and I'll fetch video titles or paste them here.
 
 ## What I did (hands-on steps I performed)
 
@@ -63,17 +62,7 @@ These notes are intended to be reproducible steps — if you want, I can convert
 - Use Azure Cloud Shell or locally installed Azure CLI to run commands shown in the videos.
 - Rotate any credentials and clean up resources after completing the labs to avoid unexpected charges.
 
----
-
-If you want, I can:
-
-- Add a per-video title + one-line note under the "What's included" section (I can fetch titles if you allow me or paste them here).
-- Create a short gallery of screenshots from each lab (you'd need to supply screenshots or let me generate step-by-step commands you can run and capture).
-- Link this post from the masthead or a featured section.
-
-Would you like me to also add per-video notes (title + what I did) below? If yes, I can attempt to fetch the playlist video titles (YouTube sometimes requires authentication); alternatively paste the titles and I'll format them neatly under the post.
-
-## Per-video breakdown (embedded)
+## Per-video breakdown (Embedded)
 
 Below are the individual videos from the playlist embedded separately with a short note about what each lab covers and the hands-on steps I performed while following it. Visitors can play each video directly on this page.
 
@@ -122,4 +111,3 @@ Short summary: storage account creation, blob/container operations, access tiers
 
 Short summary: VM provisioning, OS images, extensions, and disk management. Hands-on steps: provisioned Windows/Linux VMs, attached data disks, used the Azure portal and CLI to snapshot and resize disks.
 
-If you want, I can expand any of the above into a step-by-step reproducible lab with exact commands and screenshots, or I can fetch the full playlist RSS and list every video title and description explicitly.
