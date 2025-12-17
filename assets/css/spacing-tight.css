@@ -1,0 +1,68 @@
+/* Reduce top spacing for main content area */
+
+#main {
+  margin-top: 0.5em !important;
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.page {
+  flex: 1;
+  width: 100%;
+}
+
+.page__title {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.page__hero {
+  margin-top: 0 !important;
+  margin-bottom: 1.5em !important;
+}
+
+/* Tighter spacing for hero overlay */
+.page__hero--overlay {
+  margin-top: 0 !important;
+  padding: 2em 0 !important;
+}
+
+/* Sidebar alignment */
+.sidebar {
+  align-self: flex-start;
+  position: sticky;
+  top: 100px;
+}
+
+/* Reduce intro animation delay for faster appearance */
+@keyframes intro {
+  from {
+    opacity: 0;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Mobile responsive */
+@media (max-width: 1024px) {
+  #main {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .sidebar {
+    position: relative;
+    top: auto;
+    width: 100% !important;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .page {
+    width: 100%;
+  }
+}
