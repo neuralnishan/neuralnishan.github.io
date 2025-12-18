@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 
 ---
-Nishan is an **Azure Data Scientist** as well as an **AI Trailblazer**, and his passion stands in the fascinating world of Data-Driven exploration. He is genuinely interested in the research field of **NLP**, especially in **ML, CV, GenAI, LLMs, RL, HCI** and **RLHF**.
+Nishan is an **Azure Data Scientist** as well as an **AI Trailblazer**, and his passion stands in the fascinating world of Data-Driven exploration. He is genuinely interested in the research field of **NLP**, especially in **ML, GenAI, RL** and **RLHF**.
 He is highly dedicated to multi-cloud computing technology. For example, he predominantly gained knowledge through **Self-Paced Learning** as well as **MSFT Experts Led-Training** in **Microsoft Learn**, and he later obtained an expertise in the MSFT Azure **Infrastructure**, **Data and AI**, **Digital App and Innovation** and **Security** path through **Microsoft Certification** such as **| SC-100 | AZ-500 | AZ-400 | AZ-305 | AZ-204 | AZ-104 | PL-300 | DP-700 | DP-600 | DP-420 | DP-300 | DP-203 | DP-100 | AI-102 | AI-900 | MS-900 |**. He also has more than **three years** of **hands-on experience** with **Azure Cloud**, Comprehensive hands-on trainging provided by **TechnoFocus and Skillable** and he leveraged the expertise he gained through **Microsoft Azure applied skills** to solve **POC challenges** on Azure Cloud. He devoted himself to solving data-related problems not only through cloud technologies but also on personal computers as well.He is skilled in data science and data engineering tools.
 {: .notice}
  
  ---
-  Aside from his expertise in technology, he loves making his own meals, reading books, watching Sci-Fi movies, participating in Olympiads, Cloud Challenges, Hackathons and exploring historical sites. He is deeply committed to advancing the principles of **Diversity, Equity, and Inclusion**. Although he rarely checks social media too often, he appreciates communication only via **Email, LinkedIn & Wire**, or you can submit your query by filling out the **MSFT Form** below.You can get connected  with him via Wire in realtime for sending DM. Just scroll down, then you will find a **MSFT Form and Wire QR Code** as well as a link of the **MSFT Form**. Thanks for reading and visiting his site and **He wishes, You Have a Good Day Forward! :)**
+  Aside from his expertise in technology, he loves making his own meals, reading books, watching Sci-Fi movies, participating in Olympiads, Cloud Challenges and exploring historical sites. He is deeply committed to advancing the principles of **Diversity, Equity, and Inclusion**. Although he rarely checks social media too often, he appreciates communication only via **Email, LinkedIn & Wire**, or you can submit your query by filling out the **MSFT Form** below.Just scroll down, then you will find a **MSFT Form and Wire QR Code** as well as a link of the **MSFT Form**. Thanks for reading and visiting his site and **He wishes, You Have a Good Day Forward! :)**
 {: .notice}
 
 ---
@@ -21,7 +21,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 **1st: 📩 Professional Email (Priority within 24 hours)**   
 **⏩ P.M.> neuralnishan@protonmail.com**    
 **2nd: 📞 Phone Calls but except Urgent/Business (CEST : 7.00 PM - 8.00 PM)**    
-⌚**N.B.** **Unknown Phone Numbers** will be automaticaly forwared to **AI assitant**.So, I suggest you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)** as well as avg. **Response for DM on LinkedIn, Wire, Snap and MS Teams** too.    
+⌚**N.B.** **Unknown Phone Numbers** will be automaticaly forwareded to **AI assitant**. So, He suggests you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)** as well as avg. **Response for DM on LinkedIn, Wire, Snap and MS Teams** too.    
 **3rd: 📝 Microsoft Forms (Priority within 1-3 work/business days)**      
 {: .notice}
 
