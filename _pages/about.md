@@ -17,15 +17,6 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 {: .notice}
 
 ---
-# Communication Preference:
-**1st: 📩 Professional Email (Priority within 24 hours)**   
-**⏩ P.M.> neuralnishan@protonmail.com**    
-**2nd: 📞 Phone Calls but except Urgent/Business (CEST : 7.00 PM - 8.00 PM)**    
-⌚**N.B.** **Unknown Phone Numbers** will be automaticaly forwareded to **AI assitant**. So, He suggests you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)** as well as avg. **Response for DM on LinkedIn, Wire, Snap and MS Teams** too.    
-**3rd: 📝 Microsoft Forms (Priority within 1-3 work/business days)**      
-{: .notice}
-
----
 # Technical Skills
 
 | **Category** | **Skills** |
@@ -41,6 +32,15 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 | **Development Tools** | Jupyter Notebook, **VSCode** |
 | **Methodologies** | **A/B Testing, EDA, MLOps** |
 | **Other Skills** | **ETL/ELT , Data Modeling, Statistical Analysis** |
+
+---
+# Communication Preference:
+**1st: 📩 Professional Email (Priority within 24 hours)**   
+**⏩ P.M.> neuralnishan@protonmail.com**    
+**2nd: 📞 Phone Calls but except Urgent/Business (CEST : 7.00 PM - 8.00 PM)**    
+⌚**N.B.** **Unknown Phone Numbers** will be automaticaly forwareded to **AI assistant**. So, He suggests you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)** as well as avg. **Response for DM on LinkedIn, Wire, Snap and MS Teams** too.    
+**3rd: 📝 Microsoft Forms (Priority within 1-3 work/business days)**      
+{: .notice}
 
 ---
 # Microsoft Azure Certifications (2022-2023-2024-2025-2026-♾️)
