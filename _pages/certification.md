@@ -20,7 +20,7 @@ redirect_from:
 ★✅ Optimize an Azure Cosmos DB solution    
 ★✅ Maintain an Azure Cosmos DB solution    
 
-> AAzure Cosmos DB Developer Specialty Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946 "Microsoft").  
+> Azure Cosmos DB Developer Specialty Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946 "Microsoft").  
 
 ### Microsoft Certified: Azure Solutions Architect Expert      
 

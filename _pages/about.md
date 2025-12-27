@@ -13,7 +13,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 {: .notice}
  
  ---
-  Aside from his expertise in technology, he loves making his own meals, reading books, watching Sci-Fi movies, participating in Olympiads, Cloud Challenges and exploring historical sites. He is deeply committed to advancing the principles of **Diversity, Equity, and Inclusion**. Although he rarely checks social media too often, he appreciates communication only via **Email, LinkedIn & Wire**, or you can submit your query by filling out the **MSFT Form** below.Just scroll down, then you will find a **MSFT Form and Wire QR Code** as well as a link of the **MSFT Form**. Thanks for reading and visiting his site and **He wishes, You Have a Good Day Forward! :)**
+  Aside from his expertise in technology, he loves making his own meals, reading books, watching Sci-Fi movies, participating in Olympiads, Cloud Challenges and exploring historical sites. He is deeply committed to advancing the principles of **Diversity, Equity, and Inclusion**. Although he rarely checks social media too often, he appreciates communication only via **Email**, or you can submit your query by filling out the **MSFT Form** below.Just scroll down, then you will find a **MSFT Form's QR Code** as well as a link of the **MSFT Form**. Thanks for reading and visiting his site and **He wishes, You Have a Good Day Forward! :)**
 {: .notice}
 
 ---
@@ -38,7 +38,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 **1st: 📩 Professional Email (Priority within 24 hours)**   
 **⏩ P.M.> neuralnishan@protonmail.com**    
 **2nd: 📞 Phone Calls but except Urgent/Business (CEST : 7.00 PM - 8.00 PM)**    
-⌚**N.B.** **Unknown Phone Numbers** will be automaticaly forwareded to **AI assistant**. So, He suggests you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)** as well as avg. **Response for DM on LinkedIn, Wire, Snap and MS Teams** too.    
+⌚**N.B.** **Unknown Phone Numbers** will be automaticaly forwareded to **AI assistant**. So, He suggests you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)**.
 **3rd: 📝 Microsoft Forms (Priority within 1-3 work/business days)**      
 {: .notice}
 
