@@ -138,7 +138,15 @@ redirect_from:
 ### Skills measured  
 ★✅ Ingesting and transforming data      
 ★✅ Securing and managing an analytics solution      
-★✅ Monitoring and optimizing an analytics solution       
+★✅ Monitoring and optimizing an analytics solution    
+
+### Skills measured in renewal assessment:
+★✅ Implement lifecycle management in Fabric  
+★✅ Configure security and governance  
+★✅ Orchestrate processes  
+★✅ Design and implement loading patterns  
+★✅ Ingest and transform streaming data  
+★✅ Monitor Fabric items  
 
 > Azure Fabric Data Engineer Associate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/d61411166c394a7a "Microsoft").
 
