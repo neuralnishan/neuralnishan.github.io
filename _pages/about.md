@@ -38,8 +38,8 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 **1st: 📩 Professional Email (Priority within 24 hours)**   
 **⏩ P.M.> neuralnishan@protonmail.com**    
 **2nd: 📞 Phone Calls but except Urgent/Business (CEST : 7.00 PM - 8.00 PM)**    
-⌚**N.B.** **Unknown Phone Numbers** will be automaticaly forwareded to **AI assistant**. So, He suggests you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)**.
-**3rd: 📝 Microsoft Forms (Priority within 1-3 work/business days)**      
+⌚**N.B.** **Unknown Phone Numbers** will be automaticaly forwareded to **AI assistant**. So, He suggests you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)**.  
+**3rd: 📝 Microsoft Forms (Priority within 1-3 work/business days)**         
 {: .notice}
 
 ---

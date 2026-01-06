@@ -10,13 +10,6 @@ Work experience
 ======
 
 ---
-## Neural Universe Lab, Azure Data Scientist 
-- **Location:** Zürich, CH
-- **Type:** Remote
-- **Employment Time:** FT (Self-Employed)
-- **Duration:** Jul 2025 ‑ Cont.
-
----
 ## HeadGear Limited, Data Engineer    
 - **Location:** DHK, BD  
 - **Type:** Remote    
