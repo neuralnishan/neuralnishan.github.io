@@ -7,6 +7,18 @@ redirect_from:
   - /resume
 ---
 # Microsoft Azure Certifications 
+### Microsoft Certified: Azure Cosmos DB Developer Specialty     
+
+![Certificate Image](/files/microsoft/microsoft_azure_cosmos_DB_developer_specialty_dp_420_certficate.png)  
+> Fig. Azure Cosmos DB Developer Specialty   
+
+### Skills measured           
+★✅ Design identity, governance, and monitoring solutions  
+★✅ Design data storage solutions  
+★✅ Design business continuity solutions  
+★✅ Design infrastructure solutions  
+
+> Azure Cosmos DB Developer Specialty Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/BBB34331FCB74DB7 "Microsoft").  
 
 ### Microsoft Certified: Azure Cosmos DB Developer Specialty     
 
