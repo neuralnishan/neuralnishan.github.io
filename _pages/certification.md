@@ -9,7 +9,7 @@ redirect_from:
 # Microsoft Azure Certifications 
 ### Microsoft Certified: Agentic AI Business Solutions Architect   
 
-![Certificate Image](/files/microsoft/microsoft_azure_cosmos_DB_developer_specialty_dp_420_certficate.png)  
+![Certificate Image](/files/microsoft/microsoft_azure__agentic_ai_business_solutions_architect_expert_ab_100_certificate.png)  
 > Fig. Agentic AI Business Solutions Architect 
 
 ### Skills measured           
