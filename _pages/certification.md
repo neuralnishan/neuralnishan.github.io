@@ -7,10 +7,10 @@ redirect_from:
   - /resume
 ---
 # Microsoft Azure Certifications 
-### Microsoft Certified: Azure Cosmos DB Developer Specialty     
+### Microsoft Certified: Agentic AI Business Solutions Architect   
 
 ![Certificate Image](/files/microsoft/microsoft_azure_cosmos_DB_developer_specialty_dp_420_certficate.png)  
-> Fig. Azure Cosmos DB Developer Specialty   
+> Fig. Agentic AI Business Solutions Architect 
 
 ### Skills measured           
 ★✅ Design identity, governance, and monitoring solutions  
