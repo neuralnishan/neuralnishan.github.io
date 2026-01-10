@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 ---
-Nishan is an **Azure Data Scientist** as well as an **AI Trailblazer**, and his passion stands in the fascinating world of Data-Driven exploration. He is genuinely interested in the research field of **NLP**, especially in **ML, GenAI, RL** and **RLHF**.
+Nishan is an **Azure AI and Data Solutions Architect** as well as an **AI Trailblazer**, and his passion stands in the fascinating world of Data-Driven exploration. He is genuinely interested in the research field of **NLP**, especially in **ML, GenAI, RL** and **RLHF**.
 He is highly dedicated to multi-cloud computing technology. For example, he predominantly gained knowledge through **Self-Paced Learning** as well as **MSFT Experts Led-Training** in **Microsoft Learn**, and he later obtained an expertise in the MSFT Azure **Infrastructure**, **Data and AI**, **Digital App and Innovation** and **Security** path through **Microsoft Certification** such as **AB-100 | SC-100 | AZ-500 | AZ-400 | AZ-305 | AZ-204 | AZ-104 | PL-300 | DP-700 | DP-600 | DP-420 | DP-300 | DP-203 | DP-100 | AI-102 | AI-900 | MS-900 |**. He also has more than **three years** of **hands-on experience** with **Azure Cloud**, Comprehensive hands-on trainging provided by **TechnoFocus and Skillable** and he leveraged the expertise he gained through **Microsoft Azure applied skills** to solve **POC challenges** on Azure Cloud. He devoted himself to solving data-related problems not only through cloud technologies but also on personal computers as well.He is skilled in data science and data engineering tools.
 {: .notice}
  
@@ -77,7 +77,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 | AI-900 | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Download](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png) | 2023-08-08| No Expiry | Microsoft | Online Proctored by PearsonVUE |
 
 ---
-# Microsoft Azure Applied Skills (2024-2025-♾️)
+# Microsoft Azure Applied Skills (2024-2025-2026♾️)
 
 | Applied Skills Code | Applied Skills Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
