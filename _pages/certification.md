@@ -18,7 +18,7 @@ redirect_from:
 ★✅ Design business continuity solutions  
 ★✅ Design infrastructure solutions  
 
-> Agentic AI Business Solutions Architect Expert Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/BBB34331FCB74DB7 "Microsoft").  
+> Agentic AI Business Solutions Architect Expert Certificate Verification Link : [link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/fc6c7570a7490575 "Microsoft").  
 
 ### Microsoft Certified: Azure Cosmos DB Developer Specialty     
 
