@@ -1,0 +1,365 @@
+/* Modern Sidebar & Author Profile Enhancements
+   - Glassmorphism design
+   - Better typography and spacing
+   - Smooth animations and hover effects
+   - Dark mode support
+*/
+
+/* Main sidebar container */
+.sidebar {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  padding: 20px;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  width: 240px;
+  min-width: 220px;
+  max-width: 240px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  margin-right: 20px;
+  flex-shrink: 0;
+}
+
+.sidebar:hover {
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+  background: rgba(200, 200, 200, 0.12);
+}
+
+/* Author avatar */
+.author__avatar {
+  margin-bottom: 16px;
+}
+
+.author__avatar img {
+  border: 3px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  max-width: 180px;
+}
+
+/* spinning wrapper so rotation and scale can be composed */
+.author__avatar .avatar-spin {
+  display: inline-block;
+  transform-origin: 50% 50%;
+  /* much slower spin for a subtle, relaxed effect */
+  /* increased duration from 20s -> 120s (slower) */
+  animation: spin 120s linear infinite;
+  will-change: transform;
+}
+
+.author__avatar img {
+  border: 3px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  max-width: 180px;
+  display: block;
+}
+
+.sidebar:hover .author__avatar .avatar-spin img {
+  transform: scale(1.05);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.2);
+}
+
+/* pause rotation when hovering the sidebar or the avatar itself */
+.sidebar:hover .author__avatar .avatar-spin,
+.author__avatar .avatar-spin:hover {
+  animation-play-state: paused;
+}
+
+/* Respect reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  .author__avatar .avatar-spin {
+    animation: none !important;
+    transform: none !important;
+  }
+}
+
+/* Author name */
+.author__name {
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin: 16px 0 8px;
+  /* default (light mode) color: keep it neutral */
+  color: #222;
+  background: none;
+  text-shadow: none;
+  transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+/* subtle hover treatment in light mode (no green) */
+.sidebar:hover .author__name,
+.author__name:hover {
+  color: #111;
+  text-shadow: none;
+}
+
+/* Dark mode: ensure the same bright green and glow */
+html.dark .author__name {
+  color: #00d4ff !important;
+  -webkit-text-fill-color: #00d4ff !important;
+  text-shadow: none !important;
+  font-weight: 800 !important;
+}
+
+/* Author bio */
+.author__bio {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #555;
+  margin: 12px 0 20px;
+  transition: color 0.3s ease;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.sidebar:hover .author__bio {
+  color: #333;
+}
+
+/* Social links wrapper */
+.author__urls-wrapper {
+  margin-top: 20px;
+}
+
+.author__urls {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.author__urls li {
+  margin: 0;
+}
+
+.author__urls a {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.05);
+  color: #333;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.author__urls a:before {
+  content: '';
+  display: inline-flex;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+.author__urls a:hover {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: #fff;
+  transform: translateY(-4px) scale(1.1);
+  box-shadow: 0 8px 16px rgba(102, 126, 234, 0.4);
+  border-color: transparent;
+}
+
+.author__urls a:active {
+  transform: translateY(-2px) scale(1.05);
+}
+
+/* Section headings in sidebar */
+.sidebar h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 12px;
+  color: #222;
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.sidebar h3:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #667eea, #764ba2);
+  border-radius: 2px;
+  transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.sidebar:hover h3:before {
+  width: 30px;
+}
+
+/* Navigation lists in sidebar */
+.sidebar .nav__list {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.sidebar .nav__list li {
+  margin: 6px 0;
+}
+
+.sidebar .nav__list a {
+  display: block;
+  padding: 8px 12px;
+  border-radius: 8px;
+  color: #555;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.sidebar .nav__list a:hover {
+  background: rgba(102, 126, 234, 0.1);
+  color: #667eea;
+  padding-left: 18px;
+  box-shadow: -2px 0 0 #667eea;
+}
+
+/* Dark mode enhancements */
+html.dark .sidebar {
+  background: rgba(30, 30, 30, 0.6);
+  border-color: rgba(0, 212, 255, 0.15);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+html.dark .sidebar:hover {
+  background: rgba(40, 40, 40, 0.7);
+  border-color: rgba(0, 212, 255, 0.25);
+  box-shadow: 0 12px 40px rgba(0, 212, 255, 0.1);
+}
+
+html.dark .author__avatar img {
+  border-color: rgba(0, 212, 255, 0.2);
+  box-shadow: 0 8px 24px rgba(0, 212, 255, 0.15);
+}
+
+html.dark .sidebar:hover .author__avatar .avatar-spin img {
+  box-shadow: 0 12px 32px rgba(0, 212, 255, 0.25);
+}
+
+html.dark .author__name {
+  color: #00ff00;
+  text-shadow: 0 0 10px rgba(0, 255, 0, 0.4);
+}
+
+html.dark .sidebar:hover .author__name {
+  text-shadow: none;
+}
+
+html.dark .author__bio {
+  color: #e8f4f8;
+}
+
+html.dark .sidebar:hover .author__bio {
+  color: #e8f4f8;
+}
+
+html.dark .sidebar h3 {
+  color: #00d4ff;
+  text-shadow: none;
+}
+
+html.dark .sidebar h3:before {
+  background: linear-gradient(90deg, #00d4ff, #0098bf);
+}
+
+html.dark .author__urls a {
+  background: rgba(0, 212, 255, 0.08);
+  color: #00d4ff;
+  border-color: rgba(0, 212, 255, 0.2);
+  text-shadow: none;
+}
+
+html.dark .author__urls a:hover {
+  background: rgba(0, 212, 255, 0.15);
+  color: #00d4ff;
+  box-shadow: 0 4px 12px rgba(0, 212, 255, 0.3);
+  text-shadow: none;
+  border-color: rgba(0, 212, 255, 0.4);
+  padding-left: 16px;
+}
+
+html.dark .sidebar .nav__list a {
+  color: #e8f4f8;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+html.dark .sidebar .nav__list a:hover {
+  background: rgba(0, 212, 255, 0.15);
+  color: #00d4ff;
+  box-shadow: -2px 0 0 #00d4ff;
+  text-shadow: none;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .sidebar,
+  .author__avatar,
+  .author__avatar .avatar-spin,
+  .author__avatar .avatar-spin img,
+  .author__name,
+  .author__urls a,
+  .sidebar .nav__list a,
+  .sidebar h3:before {
+    transition: none !important;
+    animation: none !important;
+  }
+
+  .sidebar:hover,
+  .author__urls a:hover,
+  .sidebar .nav__list a:hover,
+  .sidebar h3:before {
+    transform: none !important;
+  }
+}
+
+/* Spin keyframes */
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(-360deg); }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .sidebar {
+    padding: 16px;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 100%;
+    min-width: auto;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .author__urls {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .author__urls a {
+    width: auto;
+    flex: 1;
+    min-width: 80px;
+  }
+}

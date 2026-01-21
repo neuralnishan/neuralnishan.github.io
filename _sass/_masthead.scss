@@ -1,0 +1,101 @@
+/* ==========================================================================
+   MASTHEAD
+   ========================================================================== */
+
+.masthead {
+  position: relative;
+  border-bottom: 1px solid $border-color;
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
+  -webkit-animation-delay: 0.15s;
+          animation-delay: 0.15s;
+  z-index: 20;
+
+  &__inner-wrap {
+    @include container;
+    @include clearfix;
+    padding: 1.5em 1em 1.5em;
+    font-family: $sans-serif-narrow;
+    font-size: 1.2em;
+
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
+
+    nav {
+      z-index: 10;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+.masthead__menu {
+
+  ul {
+    margin: 0;
+    padding: 0;
+    clear: both;
+    list-style-type: none;
+  }
+}
+
+.masthead__menu-item {
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
+
+  &--lg {
+    padding-right: 0.1em;
+    font-weight: 700;
+  }
+
+  &--title {
+    padding-left: 0.5em;
+    padding-right: 2em;
+    font-size: 0.9em;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    @include breakpoint($large) {
+      font-size: 1em;
+    }
+  }
+
+  a {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+
+    i {
+      color: $primary-color;
+      opacity: 1;
+      font-family: "Font Awesome 5 Free", "Font Awesome 5 Brands";
+      font-weight: 600;
+      font-size: 1em;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+  }
+}
+
+.site-logo {
+  display: inline-block;
+  font-weight: 700;
+  font-size: 1.1em;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+.site-title {
+  color: $text-color;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}

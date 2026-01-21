@@ -1,0 +1,119 @@
+# Jekyll Configuration
+
+# Site settings
+title: Nishan | Azure AI & Data Solutions Architect
+email: neuralnishan@protonmail.com
+logo: /images/pro_pic_4.png
+author:
+  name: S M G Arafat N.
+  avatar: /images/pro_pic_7.png
+  uri: http://neuralnishan.space
+  email: neuralnishan@protonmail.com
+  bio: Azure AI & Data Solutions Architect @NUL
+  location: Neural Universe Lab, NUL
+  github: neuralnishan
+  linkedin: neuralnishan
+  twitter: neuralnishan
+  url: http://neuralnishan.space
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:year/:month/:day/:slug
+  projects:
+    output: true
+    permalink: /:collection/:slug
+  publications:
+    output: true
+    permalink: /:collection/:slug
+  achievements:
+    output: true
+    permalink: /:collection/:slug
+  teaching:
+    output: true
+    permalink: /:collection/:slug
+  portfolio:
+    output: true
+    permalink: /:collection/:slug
+  pages:
+    output: true
+    permalink: /:slug/
+
+# Defaults
+defaults:
+  # Posts
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: true
+      share: true
+      comments: true
+
+  # Pages
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+      
+  # Projects
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "single"
+      author_profile: true
+      
+  # Publications
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "single"
+      author_profile: true
+      
+  # Achievements
+  - scope:
+      path: ""
+      type: "achievements"
+    values:
+      layout: "single"
+      author_profile: true
+      
+  # Teaching
+  - scope:
+      path: ""
+      type: "teaching"
+    values:
+      layout: "single"
+      author_profile: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Breadcrumbs
+breadcrumbs: true
+
+# Comments
+comments:
+  provider: false
+
+# Search
+search: true
+search_full_content: true
+
+# Other settings
+include: ["_pages"]
+exclude:
+  - README.md
+  - vendor
+  - .bundle
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,216 @@
+/* Modern Navigation Enhancements
+   - Rounded corners
+   - Smooth hover effects
+   - Better animations
+   - Glassmorphism touches
+*/
+
+/* Main navigation links */
+.greedy-nav {
+  border-radius: 0 0 12px 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.greedy-nav a {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  font-weight: 700;
+}
+
+.greedy-nav .visible-links a {
+  padding: 0.75rem 1.25rem;
+  border-radius: 8px;
+  margin: 0 0.25rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.greedy-nav .visible-links a:hover {
+  background: rgba(0, 0, 0, 0.05);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Underline animation - enhanced */
+.greedy-nav .visible-links a:before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  height: 3px;
+  background: linear-gradient(90deg, currentColor, currentColor);
+  width: 0;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  transform: translateX(-50%);
+  border-radius: 2px;
+}
+
+.greedy-nav .visible-links a:hover:before {
+  width: 70%;
+  transform: translateX(-50%);
+}
+
+/* Hidden menu dropdown */
+.greedy-nav .hidden-links {
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  margin-top: 10px;
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.95);
+  animation: slideDown 0.3s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  transform-origin: top right;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px) scaleY(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scaleY(1);
+  }
+}
+
+.greedy-nav .hidden-links a {
+  border-radius: 6px;
+  margin: 0.25rem 0.5rem;
+  transition: all 0.2s ease;
+  font-weight: 700;
+}
+
+.greedy-nav .hidden-links a:hover {
+  background: linear-gradient(135deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.02));
+  transform: translateX(4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Menu button */
+.greedy-nav button {
+  border-radius: 8px !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  margin-right: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.greedy-nav button:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2) !important;
+}
+
+.greedy-nav button:active {
+  transform: translateY(0) !important;
+}
+
+/* Navigation list (sidebar) */
+.nav__list a {
+  border-radius: 8px;
+  padding: 0.5em 0.75em;
+  transition: all 0.25s ease;
+  font-weight: 700;
+}
+
+.nav__list a:hover {
+  transform: translateX(4px);
+  background: rgba(0, 0, 0, 0.03);
+}
+
+.nav__list .active {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.nav__list .active:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Table of contents */
+.toc {
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+  border: none;
+}
+
+.toc .nav__title {
+  border-radius: 12px 12px 0 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.toc__menu a {
+  border-radius: 0;
+  transition: all 0.2s ease;
+  padding: 0.75rem 1rem;
+}
+
+.toc__menu a:hover {
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.02));
+  transform: translateX(4px);
+  padding-left: 1.5rem;
+}
+
+/* Dark mode enhancements */
+html.dark .greedy-nav {
+  background: rgba(30, 30, 30, 0.95);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+html.dark .greedy-nav .visible-links a:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+html.dark .greedy-nav .hidden-links {
+  background: rgba(25, 25, 25, 0.98);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+html.dark .greedy-nav .hidden-links a:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+html.dark .nav__list a:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+html.dark .toc {
+  background: rgba(30, 30, 30, 0.95);
+  border-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+html.dark .toc__menu a {
+  color: #ddd;
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+html.dark .toc__menu a:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: #f0f0f0;
+}
+
+/* Smooth transitions for reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  .greedy-nav,
+  .greedy-nav a,
+  .greedy-nav .visible-links a,
+  .greedy-nav .hidden-links,
+  .greedy-nav .hidden-links a,
+  .greedy-nav button,
+  .nav__list a,
+  .nav__list .active,
+  .toc,
+  .toc__menu a {
+    transition: none !important;
+    animation: none !important;
+  }
+
+  .greedy-nav .visible-links a:hover,
+  .greedy-nav .hidden-links a:hover,
+  .nav__list a:hover,
+  .nav__list .active:hover,
+  .toc__menu a:hover {
+    transform: none !important;
+  }
+}

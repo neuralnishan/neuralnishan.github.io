@@ -1,0 +1,345 @@
+/* Floating dark mode toggle and expanded dark theme overrides */
+
+/* Floating button centered vertically on right */
+.theme-toggle-float {
+  position: fixed;
+  right: 22px;
+  top: 50%;
+  bottom: auto;
+  transform: translateY(-50%);
+  z-index: 9999;
+  /* modern pill button */
+  min-height: 52px;
+  padding: 12px 18px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #ffffff 0%, #f2f4ff 100%);
+  color: #111111;
+  border: 1px solid rgba(16,18,22,0.06);
+  box-shadow: 0 10px 30px rgba(16,20,30,0.12), 0 2px 6px rgba(102,126,234,0.04);
+  backdrop-filter: blur(6px) saturate(120%);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 17px;
+  line-height: 1;
+  transition: background .18s ease, color .18s ease, transform .14s cubic-bezier(0.2,0.9,0.2,1), box-shadow .18s ease, border-color .18s ease;
+}
+.theme-toggle-float:active { transform: translateY(-50%) scale(0.995); }
+.theme-toggle-float:hover { transform: translateY(-50%) translateY(-6px) scale(1.02); box-shadow: 0 18px 40px rgba(16,20,30,0.16), 0 4px 12px rgba(102,126,234,0.06); }
+
+/* Icon + label inside the toggle */
+.theme-toggle-float .toggle-icon {
+  display: inline-flex;
+  width: 20px;
+  height: 20px;
+  color: inherit;
+  font-size: 18px;
+  line-height: 1;
+}
+.theme-toggle-float .toggle-label {
+  display: inline-block;
+  font-weight: 600;
+  margin-left: 8px;
+  font-size: 14px;
+  color: inherit;
+  text-transform: none;
+}
+
+/* make hover accent green in light mode to match aesthetic */
+.theme-toggle-float:hover {
+  border-color: rgba(0, 255, 0, 0.08);
+  box-shadow: 0 18px 40px rgba(16,20,30,0.16), 0 6px 18px rgba(0,255,0,0.03) inset, 0 4px 12px rgba(102,126,234,0.06);
+}
+
+/* Screen-reader only helper */
+.sr-only {
+  position: absolute !important;
+  height: 1px; width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap;
+  border: 0; padding: 0; margin: -1px;
+}
+
+/* Small responsive adjustment */
+@media (max-width: 480px) {
+  .theme-toggle-float { right: 12px; top: auto; bottom: 18px; transform: none; min-height: 44px; padding: 10px 12px; font-size: 15px; }
+}
+
+/* Theme transition helper class — applied briefly via JS for smooth change */
+html.theme-transition, html.theme-transition * {
+  transition: background-color .24s ease, color .24s ease, border-color .24s ease;
+}
+
+/* Basic dark theme variables/overrides - minimal and safe */
+html.dark {
+  background: #0b0b0b;
+  color: #e8f4f8;
+  /* Clean, modern light text */
+  text-shadow: none;
+}
+
+html.dark a { 
+  color: #00d4ff;
+  text-shadow: none;
+  transition: color 0.2s ease;
+}
+
+html.dark a:hover {
+  color: #00e5ff;
+}
+
+html.dark h1, html.dark h2, html.dark h3, html.dark h4, html.dark h5, html.dark h6 {
+  color: #00d4ff;
+  text-shadow: none;
+}
+
+html.dark p {
+  color: #e8f4f8;
+}
+
+html.dark strong, html.dark b {
+  color: #00d4ff;
+  text-shadow: none;
+  font-weight: 700;
+}
+
+html.dark em, html.dark i {
+  color: #e8f4f8;
+}
+
+html.dark .page__footer,
+html.dark header,
+html.dark .masthead,
+html.dark .page__header {
+  background-color: #0f0f0f;
+}
+
+/* Content areas */
+html.dark .content, html.dark .page__content, html.dark .post, html.dark article {
+  background: transparent;
+  color: #00ff00;
+}
+
+/* Code blocks and inline code */
+html.dark code, html.dark pre { 
+  background-color: #000 !important; 
+  color: #00d4ff !important;
+  text-shadow: none;
+  border: 1px solid rgba(0, 212, 255, 0.2);
+}
+
+/* Buttons and inputs */
+html.dark button, html.dark .btn, html.dark input[type="button"], html.dark input[type="submit"] {
+  background: #1a3a4a; 
+  color: #00d4ff; 
+  border-color: #00d4ff;
+  text-shadow: none;
+  transition: all 0.2s ease;
+}
+
+html.dark button:hover, html.dark .btn:hover, html.dark input[type="button"]:hover, html.dark input[type="submit"]:hover {
+  background: #0ea1c5;
+  color: #fff;
+}
+
+/* Navigation */
+html.dark nav, html.dark .nav, html.dark .site-nav, html.dark .nav-list { background: transparent; }
+html.dark .site-nav a, html.dark .nav a { color: #e8f4f8; transition: color 0.2s ease; }
+html.dark .site-nav a:hover, html.dark .nav a:hover { color: #00d4ff; }
+
+/* Sidebar */
+html.dark .sidebar, html.dark aside { background: transparent; color: #e8f4f8; }
+
+/* Footer */
+html.dark .page__footer, html.dark footer { color: #e8f4f8; background: #000; }
+
+/* Blockquote */
+html.dark blockquote { 
+  border-left-color: #00d4ff; 
+  color: #e8f4f8;
+  text-shadow: none;
+}
+
+/* Tables */
+html.dark table {
+  background: #000 !important;
+  border-collapse: collapse;
+}
+
+html.dark thead {
+  background: #0a0a0a !important;
+}
+
+html.dark thead th {
+  background: #000 !important;
+  color: #00d4ff !important;
+  border: 1px solid rgba(0, 212, 255, 0.3) !important;
+  text-shadow: none;
+  font-weight: bold;
+  padding: 12px !important;
+}
+
+html.dark tbody td {
+  color: #e8f4f8 !important;
+  border: 1px solid rgba(0, 212, 255, 0.2) !important;
+  padding: 10px !important;
+  background: #0a0a0a !important;
+}
+
+html.dark tbody tr:hover td {
+  background: rgba(0, 212, 255, 0.08) !important;
+  box-shadow: inset 0 0 10px rgba(0, 212, 255, 0.1);
+}
+
+html.dark tbody tr:nth-child(even) td {
+  background: #050505 !important;
+}
+
+html.dark tbody tr:nth-child(even):hover td {
+  background: rgba(0, 212, 255, 0.08) !important;
+}
+
+html.dark table caption {
+  color: #00d4ff !important;
+  text-shadow: none;
+}
+
+html.dark table strong {
+  color: #00d4ff !important;
+  text-shadow: none;
+}
+
+html.dark table em {
+  color: #00ff00 !important;
+}
+
+/* Lists and list items */
+html.dark ul, html.dark ol {
+  color: #e8f4f8;
+}
+
+html.dark li {
+  color: #e8f4f8;
+}
+
+html.dark ul li:before {
+  color: #00d4ff;
+}
+
+/* Definition lists */
+html.dark dt {
+  color: #00d4ff;
+  font-weight: bold;
+  text-shadow: none;
+}
+
+html.dark dd {
+  color: #e8f4f8;
+}
+
+/* Section headings */
+html.dark .page__content h2,
+html.dark .page__content h3,
+html.dark .page__content h4 {
+  color: #00d4ff;
+  text-shadow: none;
+}
+
+/* Experience/CV section specific */
+html.dark .page__content ul li {
+  color: #e8f4f8;
+  text-shadow: none;
+}
+
+html.dark .page__content ul li strong {
+  color: #00d4ff;
+  text-shadow: none;
+}
+
+/* Ensure floating button looks good in dark mode */
+html.dark .theme-toggle-float {
+  background: linear-gradient(135deg, #141414 0%, #232323 100%);
+  color: #e8f4f8;
+  border-color: rgba(0, 212, 255, 0.08);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.6), 0 0 18px rgba(0, 212, 255, 0.03) inset;
+}
+
+html.dark .theme-toggle-float:hover {
+  box-shadow: 0 18px 44px rgba(0,0,0,0.65), 0 0 18px rgba(0, 212, 255, 0.06) inset;
+  transform: translateY(-50%) translateY(-6px) scale(1.02);
+}
+
+/* Tailwind dark overrides — handle bg-, text-, border- utilities */
+html.dark .bg-white,
+html.dark .bg-slate-50,
+html.dark .bg-gray-50,
+html.dark .bg-slate-100,
+html.dark .bg-gray-100 {
+  background-color: #1a1a1a !important;
+}
+
+html.dark .text-slate-600,
+html.dark .text-slate-700,
+html.dark .text-gray-600,
+html.dark .text-gray-700,
+html.dark .text-slate-900,
+html.dark .text-gray-900 {
+  color: #ddd !important;
+}
+
+html.dark .text-slate-400,
+html.dark .text-gray-400 {
+  color: #999 !important;
+}
+
+html.dark .border-slate-200,
+html.dark .border-gray-200,
+html.dark .border-slate-300 {
+  border-color: #333 !important;
+}
+
+html.dark .glass-panel {
+  background: rgba(30, 30, 30, 0.95) !important;
+  border-color: rgba(80, 80, 80, 0.5) !important;
+}
+
+/* Notice boxes and similar containers — fix text visibility in dark mode */
+html.dark .notice,
+html.dark .notice--primary,
+html.dark .notice--info,
+html.dark .notice--warning,
+html.dark .notice--success,
+html.dark .notice--danger {
+  background-color: rgba(15, 15, 15, 0.95) !important;
+  color: #e8f4f8 !important;
+  border: 1px solid rgba(0, 212, 255, 0.3) !important;
+  text-shadow: none;
+}
+
+html.dark .notice h4,
+html.dark .notice--primary h4,
+html.dark .notice--info h4,
+html.dark .notice--warning h4,
+html.dark .notice--success h4,
+html.dark .notice--danger h4 {
+  color: #00d4ff !important;
+  text-shadow: none;
+}
+
+html.dark .notice p,
+html.dark .notice--primary p,
+html.dark .notice--info p,
+html.dark .notice--warning p,
+html.dark .notice--success p,
+html.dark .notice--danger p {
+  color: #e8f4f8 !important;
+}
+
+/* Honor reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  .theme-toggle-float { transition: none; }
+  html.theme-transition, html.theme-transition * { transition: none; }
+}

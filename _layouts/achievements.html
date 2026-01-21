@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{%- comment -%}
+Simple layout for achievement items.
+This wraps achievement content in the standard page container and sidebar,
+matching the site's `archive` style so achievement pages render cleanly.
+{%- endcomment -%}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive achievements">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+
+    {{ content }}
+  </div>
+</div>
