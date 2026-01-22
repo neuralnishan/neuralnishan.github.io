@@ -1,0 +1,4 @@
+
+bundle exec jekyll serve
+
+bundle clean force--
