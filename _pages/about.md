@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "∯ Hi There! Welcome And A Good Day Forward! ∯"
+title: "∯ Hi There! ∯"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 
 ---
-Nishan is an **Azure AI and Data Solutions Architect** as well as an **AI Trailblazer**, and his passion stands in the fascinating world of Data-Driven exploration. He is genuinely interested in the research field of **NLP**, especially in **ML, NLP, RL** and **RLHF**.
-He is highly dedicated to multi-cloud computing technology. For example, he predominantly gained knowledge through **Self-Paced Learning** as well as **MSFT Experts Led-Training** in **Microsoft Learn**, and he later obtained an expertise in the MSFT Azure **Infrastructure**, **Data and AI**, **Digital App and Innovation** and **Security** path through **Microsoft Certification** such as **AB-100 | SC-100 | AZ-500 | AZ-400 | AZ-305 | AZ-204 | AZ-104 | PL-300 | DP-700 | DP-600 | DP-420 | DP-300 | DP-203 | DP-100 | AI-102 | AI-900 | MS-900 |**. He also has more than **three years** of **hands-on experience** with **Azure Cloud**, Comprehensive hands-on trainging provided by **TechnoFocus and Skillable** and he leveraged the expertise he gained through **Microsoft Azure applied skills** to solve **POC challenges** on Azure Cloud. He devoted himself to solving data-related problems not only through cloud technologies but also on personal computers as well.He is skilled in data science and data engineering tools.
+Nishan is an **Azure AI and Data Solutions Architect** and an **AI trailblazer**. His passion lies in the fascinating world of data-driven exploration. He is particularly interested in research areas such as **ML**, **NLP**, **RL**, and **RLHF**.
+He is highly dedicated to multi-cloud computing technologies. He learned primarily through **self-paced learning** and **MSFT expert-led training** on **Microsoft Learn**, and later gained expertise across Azure **Infrastructure**, **Data & AI**, **Digital App & Innovation**, and **Security**, earning certifications including **AB-100**, **SC-100**, **AZ-500**, **AZ-400**, **AZ-305**, **AZ-204**, **AZ-104**, **PL-300**, **DP-700**, **DP-600**, **DP-420**, **DP-300**, **DP-203**, **DP-100**, **AI-102**, **AI-900**, and **MS-900**.
+He has more than **three years** of hands-on experience with **Azure Cloud**. He completed comprehensive hands-on training provided by **TechnoFocus** and **Skillable**, and has applied skills from **Microsoft Azure Applied Skills** to solve **POC** challenges on Azure. He devotes himself to solving data-related problems using cloud technologies and personal computers. He is skilled in data science and data engineering tools.
 {: .notice}
  
  ---
-  Aside from his expertise in technology, he loves making his own meals, reading books, watching Sci-Fi movies, participating in Olympiads, Cloud Challenges and exploring historical sites. He is deeply committed to advancing the principles of **Diversity, Equity, and Inclusion**. Although he rarely checks social media too often, he appreciates communication only via **Email**, or you can submit your query by filling out the **MSFT Form** below.Just scroll down, then you will find a **MSFT Form's QR Code** as well as a link of the **MSFT Form**. Thanks for reading and visiting his site and **He wishes, You Have a Good Day Forward! :)**
+  Aside from technology, he enjoys cooking, reading, watching sci‑fi movies, participating in Olympiads and cloud challenges, and exploring historical sites. He is deeply committed to **Diversity, Equity, and Inclusion**. He does not use social media often and prefers to be contacted by **email**, or by submitting your query via the **MSFT Form** below. Scroll down to find the MSFT Form QR code and a link to the form. Thanks for visiting — he wishes you a great day!
 {: .notice}
 
 ---
@@ -21,25 +22,23 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 
 | **Category** | **Skills** |
 |----------|---------|
-| **Programming L.** | **Python**, R, **SQL** |
-| **Cloud Platforms** | **MSFT Azure(AI+Data+Fabric)**, **Salesforce(AI+AgentForce)** |
+| **Programming Languages** | **Python**, R, **SQL** |
+| **Cloud Platforms** | **MSFT Azure (AI+Data+Fabric)**, **Salesforce (AI+AgentForce)** |
 | **ML/AI** | **TensorFlow, PyTorch, Scikit-learn, NLTK, OpenCV, MLflow** |
-| **Data Processing** | **Pandas, Polaris, NumPy, Apache Spark**, Apache Hadoop |
-| **Data Visualization** | Matplotlib, Seaborn, Tableau, **Power BI** |
-| **Big Data & ETL** | Snowflake, dbt, **Apache Airflow** |
+| **Data Processing** | **Pandas, Polaris, NumPy, Apache Spark** |
+| **Data Visualization** | Matplotlib, Seaborn, **Power BI** |
+| **Big Data & ETL** | dbt, **Apache Airflow** |
 | **DevOps & Tools** | **Docker, Kubernetes, Git, GitHub, CI/CD** |
-| **Databases** | MySQL, NoSQL |
-| **Development Tools** | Jupyter Notebook, **VSCode** |
-| **Methodologies** | **A/B Testing, EDA, MLOps** |
-| **Other Skills** | **ETL/ELT , Data Modeling, Statistical Analysis** |
+| **Development Tools** | **VSCode** |
+| **Methodologies** | **A/B Testing, MLOps** |
+| **Other Skills** | **ETL/ELT, Data Modeling, Statistical Analysis** |
 
 ---
 # Communication Preference:
-**1st: 📩 Professional Email (Priority within 24 hours)**   
-**⏩ P.M.> neuralnishan@protonmail.com**    
-**2nd: 📞 Phone Calls but except Urgent/Business (CEST : 7.00 PM - 8.00 PM)**    
-⌚**N.B.** **Unknown Phone Numbers** will be automaticaly forwareded to **AI assistant**. So, He suggests you fill up the **MSFT Form** at earliest, then make a phone call. It might vary based on the suitable time for both the end.**(CEST : 7.00 PM - 8.00 PM)**.  
-**3rd: 📝 Microsoft Forms (Priority within 1-3 work/business days)**         
+**1st: 📩 Professional email (priority: within 24 hours)**  
+**Email:** neuralnishan@protonmail.com  
+**2nd: 📞 Phone calls (non-urgent/business only) — CEST 7:00 PM–8:00 PM**  
+**3rd: 📝 Microsoft Forms (response within 1–3 business days)**         
 {: .notice}
 
 ---
@@ -61,12 +60,12 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 | AB-100 | [Microsoft Certified: Agentic AI Business Solutions Architect](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/fc6c7570a7490575) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/fc6c7570a7490575) | [Download](/files/microsoft/microsoft_azure__agentic_ai_business_solutions_architect_expert_ab_100_certificate.png) | 2026-01-08 | 2027-01-08 | Microsoft | Online Proctored by PearsonVUE |
 | MS-900 | [Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/1aaa1818f8168b1) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/1aaa1818f8168b1) | [Download](/files/microsoft/microsoft_365_certified_fundamentals_ms_900_certificate.png) | 2025-10-17| No Expiry | Microsoft | Online Proctored by PearsonVUE |
 | PL-300 | [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/81ab184bb00e00be) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/81ab184bb00e00be) | [Download](/files/microsoft/microsoft_certified_power_bi_data_analyst_associate_pl_300_certificate.png) | 2025-10-13 | 2026-10-14 | Microsoft | Online Proctored by PearsonVUE |
-| SC-100 | [Microsoft Certified: Cybrsecurity Architect Expert](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cbbf1932f8214f3) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cbbf1932f8214f3) | [Download](/files/microsoft/microsoft_certified_cybersecurity_architect_expert_sc_100_certificate.png) | 2025-10-12 | 2026-10-13 | Microsoft | Online Proctored by PearsonVUE |
+| SC-100 | [Microsoft Certified: Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cbbf1932f8214f3) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cbbf1932f8214f3) | [Download](/files/microsoft/microsoft_certified_cybersecurity_architect_expert_sc_100_certificate.png) | 2025-10-12 | 2026-10-13 | Microsoft | Online Proctored by PearsonVUE |
 | DP-600 | [Microsoft Certified: Fabric Analytics Engineer Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/f1975c324cca3794) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/f1975c324cca3794) | [Download](/files/microsoft/microsoft_azure_fabric_analytics_engineer_associate_dp_600_certificate.jpg) | 2025-10-11 | 2026-10-12 | Microsoft | Online Proctored by PearsonVUE |
 | AZ-500 | [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/24278eed802ab4a7) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/24278eed802ab4a7) | [Download](/files/microsoft/microsoft_certified_azure_security_engineer_associate_az_500_certificate.png) | 2025-10-10 | 2026-10-11 | Microsoft | Online Proctored by PearsonVUE |
-| DP-300 | [Microsoft Certified: Azure Database Administrator Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/86ba0be9bf8d506b) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/86ba0be9bf8d506b) | [Download](/files/microsoft/microsoft_azure_database_aministrator_associate_dp_300_certificate.png) | 2025-10-09 | 2026-10-10 | Microsoft | Online Proctored by PearsonVUE |
+| DP-300 | [Microsoft Certified: Azure Database Administrator Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/86ba0be9bf8d506b) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/86ba0be9bf8d506b) | [Download](/files/microsoft/microsoft_azure_database_administrator_associate_dp_300_certificate.png) | 2025-10-09 | 2026-10-10 | Microsoft | Online Proctored by PearsonVUE |
 | AZ-400 | [Microsoft Certified: Azure DevOps Engineer Expert](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/392c9cde0e967602) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/392c9cde0e967602) | [Download](/files/microsoft/microsoft_azure_DevOps_engineer_expert._certificate.png) | 2025-10-08 | 2026-10-09 | Microsoft | Online Proctored by PearsonVUE |
-| DP-420 | [Microsoft Certified: Azure Cosmos DB Developer Specialty](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946) | [Download](/files/microsoft/microsoft_azure_cosmos_DB_developer_specialty_dp_420_certficate.png) | 2025-10-07 | 2026-10-08 | Microsoft | Online Proctored by PearsonVUE |
+| DP-420 | [Microsoft Certified: Azure Cosmos DB Developer Specialty](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946) | [Download](/files/microsoft/microsoft_azure_cosmos_DB_developer_specialty_dp_420_certificate.png) | 2025-10-07 | 2026-10-08 | Microsoft | Online Proctored by PearsonVUE |
 | AZ-204 | [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/93d8b03b2eae81c8) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/93d8b03b2eae81c8) | [Download](/files/microsoft/microsoft_certified_azure_developer_associate_az_204_certificate.png) | 2025-10-07 | 2026-10-07 | Microsoft | Online Proctored by PearsonVUE |
 | AZ-305 | [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/BBB34331FCB74DB7) | [Verify](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/BBB34331FCB74DB7) | [Download](/files/microsoft/microsoft_azure_solutions_architect_expert_az_305_certificate.png) | 2025-10-05 | 2026-10-06 | Microsoft | Online Proctored by PearsonVUE |
 | AZ-104 | [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bae96e1b17f4524) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bae96e1b17f4524) | [Download](/files/microsoft/microsoft_azure_administrator_associate_az104_certificate.png) | 2025-10-04 | 2026-10-05 | Microsoft | Online Proctored by PearsonVUE |
@@ -120,7 +119,7 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 ![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_and_ai_bootcamp_2025.png)   
 
 ---
-# AWS Eudcate & AWS Emerging Talent Community (ETC) Member (2025)
+# AWS Educate & AWS Emerging Talent Community (ETC) Member (2025)
 ![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
 
 ---
@@ -139,10 +138,10 @@ He is highly dedicated to multi-cloud computing technology. For example, he pred
 
 ---
 # Submit Your Query!
-Scan QR Code to fill up the form link below!
+Scan the QR code to fill out the form below!
 
 ![MicrosoftFormsQR](/files/qr/qr.png){:width="200px"}
 
-Click the link to fill out the forms!
-[link](https://forms.office.com/r/1S5HQET81s "Fillout MSFT Form!").
+Click the link to fill out the form!
+[link](https://forms.office.com/r/1S5HQET81s "Fill out MSFT Form!").
 
