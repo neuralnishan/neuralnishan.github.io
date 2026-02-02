@@ -44,19 +44,17 @@ redirect_from:
   
 # Technical Skills:  
 * Python*, SQL*, R  
-* NoSQL (Azure CosMosDB, Apache Cassandra)  
+* NoSQL (Azure CosMosDB,)  
 * Tools, Frameworks & Libraries  
-  * Jupyter Notebook*, PySpark, Apache Airflow*, Apache Spark*, Anaconda Navigator  
-  * Tensorflow*, Pytorch*, OpenCV  
-  * Pandas, Polaris*, Sci-kit learn*, NumPy*, Matplotlib*, Plotly  
+  * Jupyter Notebook*, PySpark, Apache Airflow*, Apache Spark*  
+  * Tensorflow*, Pytorch*  
+  * Pandas, Sci-kit learn*, NumPy*, Matplotlib*, Plotly  
 EDA & DataViz:   
-  * Tableau  
   * MS PowerBI*  
 Cloud Skill:  
   * Microsoft Azure, 17x Microsoft Certified (Data+Fabric+AI+AzureML+Mlflow+AzureDatabricks+AzureSynapseAnalytics+PowerBI+MicrosoftEntra)  
   * Salesforce Cloud, 2x Salesforce Certified (AI+AgentForce)
   * Astronomer, 2x Apache Airflow Certified (Apache Airflow)
-  * Oracle Cloud, 42x Oracle Cloud Certified (OCI + Oracle Database + Oracle Fusion Cloud) 
  
 Projects
 ======
