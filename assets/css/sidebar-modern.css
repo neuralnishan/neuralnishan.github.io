@@ -71,14 +71,6 @@
   animation-play-state: paused;
 }
 
-/* Respect reduced motion preferences */
-@media (prefers-reduced-motion: reduce) {
-  .author__avatar .avatar-spin {
-    animation: none !important;
-    transform: none !important;
-  }
-}
-
 /* Author name */
 .author__name {
   font-size: 1.5rem;
