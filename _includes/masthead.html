@@ -14,9 +14,7 @@
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item">
-              <a href="{{ domain }}{{ link.url }}">
-                {% if link.icon %}{% if link.icon contains 'fa-' %}<i class="{{ link.icon }}"></i>{% else %}{{ link.icon }}{% endif %} {% endif %}{{ link.title }}
-              </a>
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
         </ul>
