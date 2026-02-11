@@ -1,10 +1,6 @@
 # main links links
 main:
 
-  - title: "Latest Update"
-    url: /files/news/mcp.html
-    icon: "⭐"
-
   - title: "Blog"
     url: /year-archive/
     icon: "📝"
