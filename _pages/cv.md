@@ -11,8 +11,6 @@ redirect_from:
 
 # Education:    
 * B.Sc in Computer Science and Engineering (NSU)  
-* Location: DHK,BD   
-* Graduated
 
 
 # Work experience:     
