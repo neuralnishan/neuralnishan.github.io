@@ -1,5 +1,4 @@
 // Gutter Syntax
-@use "sass:math";
 // =============
 
 
@@ -78,7 +77,7 @@
     } @else {
       $_columns : susy-get(columns, $context);
       $_spread  : if(is-split($context), wide, susy-get(spread, $context));
-      $_gutter  : percentage(math.div($_gutters, susy-sum($_columns, $_gutters, $_spread)));
+      $_gutter  : percentage($_gutters / susy-sum($_columns, $_gutters, $_spread));
     }
   }
 
@@ -103,7 +102,7 @@
   $_return            : (before: null, after: null);
 
   @if is-split($context) and $_gutter {
-    $_gutter: math.div($_gutter, 2);
+    $_gutter: ($_gutter / 2);
     $_return: map-merge($_return, (before: $_gutter, after: $_gutter));
   } @else {
     $_return: map-merge($_return, ($_gutter-position: $_gutter));
