@@ -1,6 +1,7 @@
 /* ==========================================================================
-   Forms
-   ========================================================================== */
+  Forms
+  ========================================================================== */
+@use "sass:color";
 
 form {
   margin: 0 0 5px 0;
@@ -382,7 +383,7 @@ select:focus {
   color: #000;
   border-width: 2px !important;
   border-style: solid !important;
-  border-color: lighten(#000,50);
+  border-color: color.scale(#000, $lightness: 50%);
   border-radius: $border-radius;
 }
 

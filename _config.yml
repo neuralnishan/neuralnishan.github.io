@@ -16,6 +16,11 @@ author:
   twitter: neuralnishan
   url: http://neuralnishan.space
 
+# Analytics
+google_analytics_id: G-1NQDSN2060
+# Backwards-compatible key used by the analytics include
+google_analytics: G-1NQDSN2060
+
 # Collections
 collections:
   posts:
@@ -110,9 +115,9 @@ search: true
 search_full_content: true
 
 # Other settings
-include: ["_pages"]
 exclude:
   - README.md
+  - runcommand.txt
   - vendor
   - .bundle
   - Gemfile

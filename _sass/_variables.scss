@@ -89,6 +89,13 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
+/* Modern accent colors for text and UI */
+$light-red                  : #ff6b6b;
+$light-green                : #51cf66;
+$purple                     : #a78bfa;
+$pink                       : #f06595;
+$modern-purple              : #9d84b7;
+$modern-pink                : #ff69b4;
 
 /* links */
 $link-color                 : $info-color;
@@ -121,9 +128,9 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 0px;
-$right-sidebar-width        : 0px;
-$right-sidebar-width-wide   : 0px;
+$right-sidebar-width-narrow : 200px;
+$right-sidebar-width        : 260px;
+$right-sidebar-width-wide   : 300px;
 
 $susy: (
   columns: 12,

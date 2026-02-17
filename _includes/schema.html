@@ -1,0 +1,139 @@
+<!-- JSON-LD Structured Data for Better SEO -->
+
+<!-- Person Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://neuralnishan.github.io",
+  "name": "S M Gazzali Arafat Nishan",
+  "url": "https://neuralnishan.github.io",
+  "email": "neuralnishan@protonmail.com",
+  "jobTitle": "Azure AI & Data Solutions Architect",
+  "description": "Expert in Cloud Computing, AI/ML, Data Engineering, and DevOps with 3+ years of hands-on Azure Cloud experience",
+  "image": "https://neuralnishan.github.io/images/pro_pic_7.png",
+  "sameAs": [
+    "https://www.linkedin.com/in/neuralnishan",
+    "https://github.com/neuralnishan",
+    "https://twitter.com/neuralnishan"
+  ],
+  "knowsAbout": [
+    "Azure Cloud",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Data Engineering",
+    "Reinforcement Learning",
+    "Cloud Architecture",
+    "DevOps",
+    "Python",
+    "SQL",
+    "Data Science"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Self-employed"
+  }
+}
+</script>
+
+<!-- Organization Schema for the Website -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Nishan | Azure AI & Data Solutions Architect",
+  "url": "https://neuralnishan.github.io",
+  "description": "Professional portfolio and blog by Azure AI & Data Solutions Architect sharing expertise in cloud computing, AI/ML, and data engineering",
+  "creator": {
+    "@type": "Person",
+    "name": "S M Gazzali Arafat Nishan"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://neuralnishan.github.io/search?q={search_term}",
+    "query-input": "required name=search_term"
+  }
+}
+</script>
+
+<!-- BreadcrumbList Schema (Homepage) -->
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://neuralnishan.github.io"
+    }
+  ]
+}
+</script>
+{% endif %}
+
+<!-- Educational Credential Schema for Certifications -->
+{% if page.url contains "/certification" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalCredential",
+  "name": "Microsoft Azure Certifications Portfolio",
+  "credentialCategory": "Professional Certification",
+  "recognizedBy": {
+    "@type": "Organization",
+    "name": "Microsoft",
+    "url": "https://learn.microsoft.com"
+  },
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Cloud Architect",
+    "occupationLocation": {
+      "@type": "City",
+      "name": "Europe"
+    }
+  }
+}
+</script>
+{% endif %}
+
+<!-- Course/Training Schema for Learning -->
+{% if page.url contains "/education" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationEvent",
+  "name": "Professional Education & Certifications",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Microsoft Learn"
+  },
+  "learningResource": "STEM"
+}
+</script>
+{% endif %}
+
+<!-- Blog Post Schema (for blog posts) -->
+{% if page.collection == 'posts' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | prepend: site.url }}"
+  },
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.excerpt | escape }}",
+  "image": "{% if page.header.image %}{{ page.header.image | prepend: site.url }}{% else %}{{ site.logo | prepend: site.url }}{% endif %}",
+  "author": {
+    "@type": "Person",
+    "name": "S M Gazzali Arafat Nishan"
+  },
+  "datePublished": "{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}"
+}
+</script>
+{% endif %}

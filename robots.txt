@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+Disallow: /_site/
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /assets/js/
+Disallow: /assets/css/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_sass/
+Disallow: /_data/
+Disallow: /files/
+
+# Crawl delay to prevent excessive crawling
+Crawl-delay: 2
+
+# Sitemap location
+Sitemap: https://neuralnishan.github.io/sitemap.xml
+
+# Allow search engine indexing of specific content
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# LinkedIn bot
+User-agent: LinkedInBot
+Allow: /

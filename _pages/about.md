@@ -1,20 +1,20 @@
 ---
 permalink: /
-title: "∯ Hi There! ∯"
 excerpt: "About me"
 author_profile: true
+date: 2026-02-17
 redirect_from: 
   - /about/
   - /about.html
 
 ---
-Nishan is an **Azure AI and Data Solutions Architect** and an **AI trailblazer**. His passion lies in the fascinating world of data-driven exploration. He is particularly interested in research areas such as **ML**, **NLP**, **RL**, and **RLHF**.
+Nishan is an **Azure AI and Data Solutions Architect** with a strong passion for innovative data solutions. His research interests include **ML**, **NLP**, **RL**, and **RLHF**.
 He is highly dedicated to multi-cloud computing technologies. He learned primarily through **self-paced learning** and **MSFT expert-led training** on **Microsoft Learn**, and later gained expertise across Azure **Infrastructure**, **Data & AI**, **Digital App & Innovation**, and **Security**, earning certifications including **AB-100**, **SC-100**, **AZ-500**, **AZ-400**, **AZ-305**, **AZ-204**, **AZ-104**, **PL-300**, **DP-700**, **DP-600**, **DP-420**, **DP-300**, **DP-203**, **DP-100**, **AI-102**, **AI-900**, and **MS-900**.
-He has more than **three years** of hands-on experience with **Azure Cloud**. He completed comprehensive hands-on training provided by **TechnoFocus** and **Skillable**, and has applied skills from **Microsoft Azure Applied Skills** to solve **POC** challenges on Azure. He devotes himself to solving data-related problems using cloud technologies and personal computers. He is skilled in data science and data engineering tools.
+He has more than **three years** of hands-on experience with **Azure Cloud**. He completed comprehensive hands-on training provided by **TechnoFocus** and **Skillable**, and has applied skills from **Microsoft Azure Applied Skills** to solve **POC** challenges on Azure. He is skilled in data science and data engineering.
 {: .notice}
  
  ---
-  Aside from technology, he enjoys cooking, reading, watching sci‑fi movies, participating in Olympiads and cloud challenges, and exploring historical sites. He is deeply committed to **Diversity, Equity, and Inclusion**. He does not use social media often and prefers to be contacted by **email**, or by submitting your query via the **MSFT Form** below. Scroll down to find the MSFT Form QR code and a link to the form. Thanks for visiting — he wishes you a great day!
+  Beyond his professional work, he is committed to **Diversity, Equity, and Inclusion** initiatives. For professional inquiries, he prefers to be contacted by **email** or through the **MSFT Form** below.
 {: .notice}
 
 ---
@@ -42,18 +42,18 @@ He has more than **three years** of hands-on experience with **Azure Cloud**. He
 {: .notice}
 
 ---
-# Microsoft Azure Certifications (2022-2023-2024-2025-2026-2027♾️)
+# Microsoft Azure Certifications (2022-2023-2024-2025-2026-2027)
 ![Certificate Image](/files/microsoft/mslogos/azure_certification_logos.png)
 
 ---
-# Microsoft Cloud Skills Achievements (2022-2023-2024-2025-♾️)
+# Microsoft Cloud Skills Achievements (2022-2023-2024-2025)
 ![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_challenges_2023_2025.png)  
 
 ---
 # Microsoft Learn Transcript -->[Click this link!](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript")
 
 ---
-# Microsoft Azure Certifications (2022-2023-2024-2025-2026-2027♾️)
+# Microsoft Azure Certifications (2022-2023-2024-2025-2026-2027)
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
@@ -76,7 +76,7 @@ He has more than **three years** of hands-on experience with **Azure Cloud**. He
 | AI-900 | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Download](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png) | 2023-08-08| No Expiry | Microsoft | Online Proctored by PearsonVUE |
 
 ---
-# Microsoft Azure Applied Skills (2024-2025-2026♾️)
+# Microsoft Azure Applied Skills (2024-2025-2026)
 
 | Applied Skills Code | Applied Skills Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
@@ -87,11 +87,11 @@ He has more than **three years** of hands-on experience with **Azure Cloud**. He
 
 
 ---
-# Salesforce Certifications (2024-2025-♾️)
+# Salesforce Certifications (2024-2025)
 ![Certificate Image](/files/salesforce/salesforce_badges.png)
 
 ---
-# Salesforce Certification (2024-2025-♾️)
+# Salesforce Certification (2024-2025)
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
@@ -100,18 +100,18 @@ He has more than **three years** of hands-on experience with **Azure Cloud**. He
 
 
 ---
-# Astronomer Certifications (2025-♾️)
+# Astronomer Certifications (2025)
 ![Certificate Image](/files/astronomer/badges/astronomer_apache_airflow_dag_authorizing_and _apache_airflow_fundamentals_2025.png)
 
 ---
-# Apache Airflow Certifications (2025-♾️)
+# Apache Airflow Certifications (2025)
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
 | DAG Authoring (Airflow 3)  | [Astronomer Certification DAG Authoring for Apache Airflow 3](https://www.credly.com/go/UFsNYksz)| [Verify](https://www.credly.com/go/UFsNYksz)| [Download](/files/astronomer/certificates/AstronomerCertificationDAGAuthoringforApacheAirflow3.png)| 2025-09-18 | No Expiry | Astronomer | Online Proctored |
 | Airflow 101 (Airflow 3) | [Astronomer Certification for Apache Airflow 3 Fundamentals](https://www.credly.com/go/lnUPGtX2)| [Verify](https://www.credly.com/go/lnUPGtX2)| [Download](/files/astronomer/certificates/astronomer_certification_for_apache_airflow_3_fundamentals.png)| 2025-09-18 | No Expiry | Astronomer | Online Proctored |
 
-# Others(♾️)
+# Others
 
 # MultiCloud Achievements, Live Interactive Bootcamp Attendee and Cloud Community Membership
 ---
@@ -143,5 +143,5 @@ Scan the QR code to fill out the form below!
 ![MicrosoftFormsQR](/files/qr/qr.png){:width="200px"}
 
 Click the link to fill out the form!
-[link](https://forms.office.com/r/1S5HQET81s "Fill out MSFT Form!").
+[Submit Your Query](https://forms.office.com/r/1S5HQET81s "Fill out MSFT Form!").
 

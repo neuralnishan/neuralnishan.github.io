@@ -90,10 +90,10 @@
   text-shadow: none;
 }
 
-/* Dark mode: ensure the same bright green and glow */
+/* Dark mode: ensure the same bright glow with custom property */
 html.dark .author__name {
-  color: #00d4ff !important;
-  -webkit-text-fill-color: #00d4ff !important;
+  color: var(--color-primary) !important;
+  -webkit-text-fill-color: var(--color-primary) !important;
   text-shadow: none !important;
   font-weight: 800 !important;
 }
@@ -117,26 +117,41 @@ html.dark .author__name {
 /* Social links wrapper */
 .author__urls-wrapper {
   margin-top: 20px;
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+/* Hide the Follow button - show social links always */
+.author__urls-wrapper .btn {
+  display: none !important;
 }
 
 .author__urls {
-  display: flex;
+  display: flex !important;
   flex-direction: column;
   gap: 8px;
   list-style: none;
   margin: 0;
   padding: 0;
+  visibility: visible !important;
+  opacity: 1 !important;
 }
 
 .author__urls li {
   margin: 0;
+  display: list-item !important;
+  visibility: visible !important;
+  opacity: 1 !important;
 }
 
 .author__urls a {
-  display: flex;
+  display: flex !important;
   align-items: center;
   justify-content: flex-start;
   gap: 10px;
+  visibility: visible !important;
+  opacity: 1 !important;
   padding: 10px 12px;
   border-radius: 8px;
   background: rgba(0, 0, 0, 0.05);
@@ -240,17 +255,17 @@ html.dark .sidebar:hover {
 }
 
 html.dark .author__avatar img {
-  border-color: rgba(0, 212, 255, 0.2);
-  box-shadow: 0 8px 24px rgba(0, 212, 255, 0.15);
+  border-color: var(--color-primary)33;
+  box-shadow: 0 8px 24px var(--color-primary)26;
 }
 
 html.dark .sidebar:hover .author__avatar .avatar-spin img {
-  box-shadow: 0 12px 32px rgba(0, 212, 255, 0.25);
+  box-shadow: 0 12px 32px var(--color-primary)40;
 }
 
 html.dark .author__name {
-  color: #00ff00;
-  text-shadow: 0 0 10px rgba(0, 255, 0, 0.4);
+  color: var(--color-primary);
+  text-shadow: 0 0 10px var(--color-primary)66;
 }
 
 html.dark .sidebar:hover .author__name {
@@ -266,27 +281,27 @@ html.dark .sidebar:hover .author__bio {
 }
 
 html.dark .sidebar h3 {
-  color: #00d4ff;
+  color: var(--color-primary);
   text-shadow: none;
 }
 
 html.dark .sidebar h3:before {
-  background: linear-gradient(90deg, #00d4ff, #0098bf);
+  background: linear-gradient(90deg, var(--color-primary), var(--color-secondary));
 }
 
 html.dark .author__urls a {
-  background: rgba(0, 212, 255, 0.08);
-  color: #00d4ff;
-  border-color: rgba(0, 212, 255, 0.2);
+  background: var(--color-primary)14;
+  color: var(--color-primary);
+  border-color: var(--color-primary)33;
   text-shadow: none;
 }
 
 html.dark .author__urls a:hover {
-  background: rgba(0, 212, 255, 0.15);
-  color: #00d4ff;
-  box-shadow: 0 4px 12px rgba(0, 212, 255, 0.3);
+  background: var(--color-primary)26;
+  color: var(--color-primary);
+  box-shadow: 0 4px 12px var(--color-primary)4d;
   text-shadow: none;
-  border-color: rgba(0, 212, 255, 0.4);
+  border-color: var(--color-primary)66;
   padding-left: 16px;
 }
 
@@ -297,9 +312,9 @@ html.dark .sidebar .nav__list a {
 }
 
 html.dark .sidebar .nav__list a:hover {
-  background: rgba(0, 212, 255, 0.15);
-  color: #00d4ff;
-  box-shadow: -2px 0 0 #00d4ff;
+  background: var(--color-primary)26;
+  color: var(--color-primary);
+  box-shadow: -2px 0 0 var(--color-primary);
   text-shadow: none;
 }
 

@@ -1,0 +1,38 @@
+/* Position for the accessibility controls - right side bottom area */
+#accessibility-controls {
+  position: fixed;
+  right: 22px;
+  bottom: 70px;
+  top: auto;
+  transform: none;
+  z-index: 9998;
+}
+
+/* Ensure all control buttons are properly aligned on right side */
+.accessibility-controls,
+.theme-toggle-nav {
+  right: 22px;
+}
+
+/* Dark mode button at bottom right */
+.theme-toggle-nav {
+  bottom: 20px;
+  top: auto;
+}
+
+/* Mobile responsive alignment */
+@media (max-width: 640px) {
+  #accessibility-controls {
+    right: 12px;
+    bottom: 75px;
+  }
+
+  .accessibility-controls,
+  .theme-toggle-nav {
+    right: 12px;
+  }
+
+  .theme-toggle-nav {
+    bottom: 20px;
+  }
+}

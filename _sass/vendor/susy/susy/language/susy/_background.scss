@@ -1,5 +1,7 @@
 // Background Grid Syntax
 // ======================
+@use "sass:math";
+@use "sass:color";
 
 $susy-overlay-grid-head-exists: false;
 
@@ -153,19 +155,19 @@ $susy-overlay-grid-head-exists: false;
 
   $_color         : debug-get(color);
   $_trans         : transparent;
-  $_light         : lighten($_color, 15%);
+  $_light         : color.scale($_color, $lightness: 15%);
 
   $_end           : 1 + $_gutters;
-  $_after         : percentage(1/$_end);
+  $_after         : percentage(math.div(1, $_end));
   $_stops         : ();
   $_size          : span(1 $grid wide);
 
   @if is-inside($grid) {
     $_stops: $_color, $_light;
   } @else if is-split($grid) {
-    $_split: $_gutters/2;
-    $_before: percentage($_split/$_end);
-    $_after: percentage((1 + $_split)/$_end);
+    $_split: math.div($_gutters, 2);
+    $_before: percentage(math.div($_split, $_end));
+    $_after: percentage(math.div(1 + $_split, $_end));
     $_stops: $_trans $_before, $_color $_before, $_light $_after, $_trans $_after;
   } @else {
     $_stops: $_color, $_light $_after, $_trans $_after;
@@ -193,8 +195,8 @@ $susy-overlay-grid-head-exists: false;
   $grid     : parse-grid($grid);
   $_columns : susy-get(columns, $grid);
 
-  $_color   : debug-get(color);
-  $_light   : lighten($_color, 15%);
+    $_color   : debug-get(color);
+  $_light   : color.scale($_color, $lightness: 15%);
   $_stops   : ();
 
   @for $location from 1 through susy-count($_columns) {
@@ -233,7 +235,7 @@ $susy-overlay-grid-head-exists: false;
   $_columns : susy-get(columns, $grid);
 
   $_color   : debug-get(color);
-  $_light   : lighten($_color, 15%);
+  $_light   : color.scale($_color, $lightness: 15%);
   $_stops   : ();
 
   @for $location from 1 through susy-count($_columns) {
@@ -265,7 +267,7 @@ $susy-overlay-grid-head-exists: false;
   $_columns : susy-get(columns, $grid);
 
   $_color   : debug-get(color);
-  $_light   : lighten($_color, 15%);
+  $_light   : color.scale($_color, $lightness: 15%);
   $_trans   : transparent;
   $_stops   : ();
 

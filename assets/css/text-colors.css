@@ -1,0 +1,348 @@
+/* ===================================================================
+   MODERN TEXT COLORS
+   Light Red, Light Green, Purple, Pink color utilities
+   =================================================================== */
+
+/* Light Red text colors */
+.text-light-red {
+  color: #ff6b6b;
+}
+
+html.dark .text-light-red {
+  color: #ff8787;
+}
+
+/* Light Green text colors */
+.text-light-green {
+  color: #51cf66;
+}
+
+html.dark .text-light-green {
+  color: #69db7c;
+}
+
+/* Purple text colors */
+.text-purple {
+  color: #a78bfa;
+}
+
+html.dark .text-purple {
+  color: #c4b5fd;
+}
+
+/* Pink text colors */
+.text-pink {
+  color: #f06595;
+}
+
+html.dark .text-pink {
+  color: #ff8cc3;
+}
+
+/* Modern purple variant */
+.text-modern-purple {
+  color: #9d84b7;
+}
+
+html.dark .text-modern-purple {
+  color: #b5a7d0;
+}
+
+/* Modern pink variant */
+.text-modern-pink {
+  color: #ff69b4;
+}
+
+html.dark .text-modern-pink {
+  color: #ff85cc;
+}
+
+/* Background colors with text contrast */
+.bg-light-red {
+  background-color: #ff6b6b;
+  color: white;
+}
+
+.bg-light-green {
+  background-color: #51cf66;
+  color: white;
+}
+
+.bg-purple {
+  background-color: #a78bfa;
+  color: white;
+}
+
+.bg-pink {
+  background-color: #f06595;
+  color: white;
+}
+
+/* Light backgrounds for dark text */
+.bg-light-red-light {
+  background-color: rgba(255, 107, 107, 0.15);
+  color: #ff6b6b;
+}
+
+html.dark .bg-light-red-light {
+  background-color: rgba(255, 135, 135, 0.15);
+  color: #ff8787;
+}
+
+.bg-light-green-light {
+  background-color: rgba(81, 207, 102, 0.15);
+  color: #51cf66;
+}
+
+html.dark .bg-light-green-light {
+  background-color: rgba(105, 219, 124, 0.15);
+  color: #69db7c;
+}
+
+.bg-purple-light {
+  background-color: rgba(167, 139, 250, 0.15);
+  color: #a78bfa;
+}
+
+html.dark .bg-purple-light {
+  background-color: rgba(196, 181, 253, 0.15);
+  color: #c4b5fd;
+}
+
+.bg-pink-light {
+  background-color: rgba(240, 101, 149, 0.15);
+  color: #f06595;
+}
+
+html.dark .bg-pink-light {
+  background-color: rgba(255, 133, 195, 0.15);
+  color: #ff8cc3;
+}
+
+/* Accent borders */
+.border-light-red {
+  border-color: #ff6b6b;
+}
+
+.border-light-green {
+  border-color: #51cf66;
+}
+
+.border-purple {
+  border-color: #a78bfa;
+}
+
+.border-pink {
+  border-color: #f06595;
+}
+
+/* Gradient text options for modern look */
+.text-gradient-purple-pink {
+  background: linear-gradient(135deg, #a78bfa 0%, #f06595 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.text-gradient-pink-red {
+  background: linear-gradient(135deg, #f06595 0%, #ff6b6b 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.text-gradient-green-purple {
+  background: linear-gradient(135deg, #51cf66 0%, #a78bfa 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Hover state utilities */
+a.text-light-red:hover {
+  color: #ff5252;
+}
+
+html.dark a.text-light-red:hover {
+  color: #ff6b6b;
+}
+
+a.text-light-green:hover {
+  color: #40c057;
+}
+
+html.dark a.text-light-green:hover {
+  color: #51cf66;
+}
+
+a.text-purple:hover {
+  color: #9d7ff9;
+}
+
+html.dark a.text-purple:hover {
+  color: #b197f9;
+}
+
+a.text-pink:hover {
+  color: #e64980;
+}
+
+html.dark a.text-pink:hover {
+  color: #f06595;
+}
+
+/* Modern button variations */
+.btn-light-red {
+  background-color: #ff6b6b;
+  color: white;
+}
+
+.btn-light-red:hover {
+  background-color: #ff5252;
+}
+
+.btn-light-green {
+  background-color: #51cf66;
+  color: white;
+}
+
+.btn-light-green:hover {
+  background-color: #40c057;
+}
+
+.btn-purple {
+  background-color: #a78bfa;
+  color: white;
+}
+
+.btn-purple:hover {
+  background-color: #9d7ff9;
+}
+
+.btn-pink {
+  background-color: #f06595;
+  color: white;
+}
+
+.btn-pink:hover {
+  background-color: #e64980;
+}
+
+html.dark .btn-light-red {
+  background-color: #ff8787;
+}
+
+html.dark .btn-light-red:hover {
+  background-color: #ff6b6b;
+}
+
+html.dark .btn-light-green {
+  background-color: #69db7c;
+}
+
+html.dark .btn-light-green:hover {
+  background-color: #51cf66;
+}
+
+html.dark .btn-purple {
+  background-color: #c4b5fd;
+  color: #000;
+}
+
+html.dark .btn-purple:hover {
+  background-color: #a78bfa;
+  color: #fff;
+}
+
+html.dark .btn-pink {
+  background-color: #ff8cc3;
+  color: #000;
+}
+
+html.dark .btn-pink:hover {
+  background-color: #f06595;
+  color: #fff;
+}
+
+/* ===================================================================
+   UNIVERSAL BUTTON STYLES
+   Ensure all buttons work properly across all pages
+   =================================================================== */
+
+button,
+a.btn,
+.btn,
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+.pagination a,
+.pagination .current {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+}
+
+button:disabled,
+input[type="button"]:disabled,
+input[type="submit"]:disabled,
+input[type="reset"]:disabled {
+  cursor: not-allowed;
+  opacity: 0.65;
+  pointer-events: none;
+}
+
+/* Ensure buttons are visible everywhere */
+button:not([style*="display: none"]):not([hidden]),
+a.btn:not([style*="display: none"]):not([hidden]),
+.btn:not([style*="display: none"]):not([hidden]),
+input[type="button"]:not([style*="display: none"]):not([hidden]),
+input[type="submit"]:not([style*="display: none"]):not([hidden]),
+input[type="reset"]:not([style*="display: none"]):not([hidden]) {
+  visibility: visible !important;
+  opacity: 1 !important;
+  display: inline-block !important;
+}
+
+/* Pagination button fixes */
+.pagination a:hover,
+.pagination .current {
+  text-decoration: none;
+}
+
+/* Social share buttons */
+.social-share button,
+.social-share a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  background-color: #f0f0f0;
+  color: #333;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+html.dark .social-share button,
+html.dark .social-share a {
+  background-color: #2a2a2a;
+  color: #e8f4f8;
+}
+
+.social-share button:hover,
+.social-share a:hover {
+  background-color: #e0e0e0;
+  transform: translateY(-2px);
+}
+
+html.dark .social-share button:hover,
+html.dark .social-share a:hover {
+  background-color: #333;
+}

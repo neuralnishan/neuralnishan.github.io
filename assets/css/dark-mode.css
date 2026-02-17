@@ -1,56 +1,83 @@
 /* Floating dark mode toggle and expanded dark theme overrides */
 
+/* CSS Custom Properties - Default Colors */
+:root {
+  --color-primary: #52adc8;
+  --color-secondary: #7a8288;
+  --color-accent: #f89406;
+  --color-light: #62c462;
+  --color-danger: #ee5f5b;
+  --color-text-light: #e8f4f8;
+}
+
 /* Floating button centered vertically on right */
 .theme-toggle-float {
-  position: fixed;
-  right: 22px;
-  top: 50%;
-  bottom: auto;
-  transform: translateY(-50%);
-  z-index: 9999;
+  position: fixed !important;
+  right: 22px !important;
+  top: 50% !important;
+  bottom: auto !important;
+  left: auto !important;
+  transform: translateY(-50%) !important;
+  z-index: 9999 !important;
   /* modern pill button */
-  min-height: 52px;
-  padding: 12px 18px;
-  border-radius: 999px;
-  background: linear-gradient(135deg, #ffffff 0%, #f2f4ff 100%);
-  color: #111111;
-  border: 1px solid rgba(16,18,22,0.06);
-  box-shadow: 0 10px 30px rgba(16,20,30,0.12), 0 2px 6px rgba(102,126,234,0.04);
+  min-height: 52px !important;
+  min-width: 140px !important;
+  width: auto !important;
+  height: auto !important;
+  padding: 12px 18px !important;
+  border-radius: 999px !important;
+  background: linear-gradient(135deg, #ffffff 0%, #f2f4ff 100%) !important;
+  color: #111111 !important;
+  border: 2px solid var(--color-primary) !important;
+  box-shadow: 0 10px 30px rgba(16,20,30,0.12), 0 2px 6px rgba(102,126,234,0.04) !important;
   backdrop-filter: blur(6px) saturate(120%);
-  cursor: pointer;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  font-size: 17px;
-  line-height: 1;
+  cursor: pointer !important;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 10px !important;
+  font-size: 17px !important;
+  line-height: 1 !important;
   transition: background .18s ease, color .18s ease, transform .14s cubic-bezier(0.2,0.9,0.2,1), box-shadow .18s ease, border-color .18s ease;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+  overflow: visible !important;
+  max-width: none !important;
+  margin: 0 !important;
 }
 .theme-toggle-float:active { transform: translateY(-50%) scale(0.995); }
 .theme-toggle-float:hover { transform: translateY(-50%) translateY(-6px) scale(1.02); box-shadow: 0 18px 40px rgba(16,20,30,0.16), 0 4px 12px rgba(102,126,234,0.06); }
 
 /* Icon + label inside the toggle */
 .theme-toggle-float .toggle-icon {
-  display: inline-flex;
+  display: inline-flex !important;
   width: 20px;
   height: 20px;
   color: inherit;
   font-size: 18px;
   line-height: 1;
+  flex-shrink: 0;
+  visibility: visible !important;
+  opacity: 1 !important;
 }
 .theme-toggle-float .toggle-label {
-  display: inline-block;
+  display: inline-block !important;
   font-weight: 600;
   margin-left: 8px;
   font-size: 14px;
   color: inherit;
   text-transform: none;
+  white-space: nowrap;
+  visibility: visible !important;
+  opacity: 1 !important;
 }
 
-/* make hover accent green in light mode to match aesthetic */
+/* make hover accent in light mode to match aesthetic */
 .theme-toggle-float:hover {
-  border-color: rgba(0, 255, 0, 0.08);
-  box-shadow: 0 18px 40px rgba(16,20,30,0.16), 0 6px 18px rgba(0,255,0,0.03) inset, 0 4px 12px rgba(102,126,234,0.06);
+  border-color: var(--color-primary);
+  box-shadow: 0 18px 40px rgba(16,20,30,0.16), 0 6px 18px rgba(0,212,255,0.1) inset, 0 4px 12px rgba(102,126,234,0.06);
 }
 
 /* Screen-reader only helper */
@@ -63,6 +90,22 @@
   border: 0; padding: 0; margin: -1px;
 }
 
+/* Ensure button is visible on screen (not print) */
+@media screen {
+  body {
+    overflow-y: auto !important;
+    position: relative !important;
+  }
+
+  .theme-toggle-float {
+    display: flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: fixed !important;
+    z-index: 9999 !important;
+  }
+}
+
 /* Small responsive adjustment */
 @media (max-width: 480px) {
   .theme-toggle-float { right: 12px; top: auto; bottom: 18px; transform: none; min-height: 44px; padding: 10px 12px; font-size: 15px; }
@@ -73,41 +116,40 @@ html.theme-transition, html.theme-transition * {
   transition: background-color .24s ease, color .24s ease, border-color .24s ease;
 }
 
-/* Basic dark theme variables/overrides - minimal and safe */
+/* Basic dark theme variables/overrides - uses CSS custom properties */
 html.dark {
   background: #0b0b0b;
-  color: #e8f4f8;
-  /* Clean, modern light text */
+  color: var(--color-text-light);
   text-shadow: none;
 }
 
 html.dark a { 
-  color: #00d4ff;
+  color: var(--color-primary);
   text-shadow: none;
   transition: color 0.2s ease;
 }
 
 html.dark a:hover {
-  color: #00e5ff;
+  color: var(--color-secondary);
 }
 
 html.dark h1, html.dark h2, html.dark h3, html.dark h4, html.dark h5, html.dark h6 {
-  color: #00d4ff;
+  color: var(--color-primary);
   text-shadow: none;
 }
 
 html.dark p {
-  color: #e8f4f8;
+  color: var(--color-text-light);
 }
 
 html.dark strong, html.dark b {
-  color: #00d4ff;
+  color: var(--color-primary);
   text-shadow: none;
   font-weight: 700;
 }
 
 html.dark em, html.dark i {
-  color: #e8f4f8;
+  color: var(--color-text-light);
 }
 
 html.dark .page__footer,
@@ -120,22 +162,23 @@ html.dark .page__header {
 /* Content areas */
 html.dark .content, html.dark .page__content, html.dark .post, html.dark article {
   background: transparent;
-  color: #00ff00;
+  color: var(--color-text-light);
 }
 
 /* Code blocks and inline code */
 html.dark code, html.dark pre { 
   background-color: #000 !important; 
-  color: #00d4ff !important;
+  color: var(--color-primary) !important;
   text-shadow: none;
-  border: 1px solid rgba(0, 212, 255, 0.2);
+  border: 1px solid var(--color-primary);
+  opacity: 0.8;
 }
 
 /* Buttons and inputs */
 html.dark button, html.dark .btn, html.dark input[type="button"], html.dark input[type="submit"] {
   background: #1a3a4a; 
-  color: #00d4ff; 
-  border-color: #00d4ff;
+  color: var(--color-primary); 
+  border-color: var(--color-primary);
   text-shadow: none;
   transition: all 0.2s ease;
 }
@@ -147,19 +190,19 @@ html.dark button:hover, html.dark .btn:hover, html.dark input[type="button"]:hov
 
 /* Navigation */
 html.dark nav, html.dark .nav, html.dark .site-nav, html.dark .nav-list { background: transparent; }
-html.dark .site-nav a, html.dark .nav a { color: #e8f4f8; transition: color 0.2s ease; }
-html.dark .site-nav a:hover, html.dark .nav a:hover { color: #00d4ff; }
+html.dark .site-nav a, html.dark .nav a { color: var(--color-text-light); transition: color 0.2s ease; }
+html.dark .site-nav a:hover, html.dark .nav a:hover { color: var(--color-primary); }
 
 /* Sidebar */
-html.dark .sidebar, html.dark aside { background: transparent; color: #e8f4f8; }
+html.dark .sidebar, html.dark aside { background: transparent; color: var(--color-text-light); }
 
 /* Footer */
-html.dark .page__footer, html.dark footer { color: #e8f4f8; background: #000; }
+html.dark .page__footer, html.dark footer { color: var(--color-text-light); background: #000; }
 
 /* Blockquote */
 html.dark blockquote { 
-  border-left-color: #00d4ff; 
-  color: #e8f4f8;
+  border-left-color: var(--color-primary); 
+  color: var(--color-text-light);
   text-shadow: none;
 }
 
@@ -175,16 +218,18 @@ html.dark thead {
 
 html.dark thead th {
   background: #000 !important;
-  color: #00d4ff !important;
-  border: 1px solid rgba(0, 212, 255, 0.3) !important;
+  color: var(--color-primary) !important;
+  border: 1px solid var(--color-primary) !important;
+  opacity: 0.8;
   text-shadow: none;
   font-weight: bold;
   padding: 12px !important;
 }
 
 html.dark tbody td {
-  color: #e8f4f8 !important;
-  border: 1px solid rgba(0, 212, 255, 0.2) !important;
+  color: var(--color-text-light) !important;
+  border: 1px solid var(--color-primary) !important;
+  opacity: 0.7;
   padding: 10px !important;
   background: #0a0a0a !important;
 }
@@ -203,73 +248,79 @@ html.dark tbody tr:nth-child(even):hover td {
 }
 
 html.dark table caption {
-  color: #00d4ff !important;
+  color: var(--color-primary) !important;
   text-shadow: none;
 }
 
 html.dark table strong {
-  color: #00d4ff !important;
+  color: var(--color-primary) !important;
   text-shadow: none;
 }
 
 html.dark table em {
-  color: #00ff00 !important;
+  color: var(--color-accent) !important;
 }
 
 /* Lists and list items */
 html.dark ul, html.dark ol {
-  color: #e8f4f8;
+  color: var(--color-text-light);
 }
 
 html.dark li {
-  color: #e8f4f8;
+  color: var(--color-text-light);
 }
 
 html.dark ul li:before {
-  color: #00d4ff;
+  color: var(--color-primary);
 }
 
 /* Definition lists */
 html.dark dt {
-  color: #00d4ff;
+  color: var(--color-primary);
   font-weight: bold;
   text-shadow: none;
 }
 
 html.dark dd {
-  color: #e8f4f8;
+  color: var(--color-text-light);
 }
 
 /* Section headings */
 html.dark .page__content h2,
 html.dark .page__content h3,
 html.dark .page__content h4 {
-  color: #00d4ff;
+  color: var(--color-primary);
   text-shadow: none;
 }
 
 /* Experience/CV section specific */
 html.dark .page__content ul li {
-  color: #e8f4f8;
+  color: var(--color-text-light);
   text-shadow: none;
 }
 
 html.dark .page__content ul li strong {
-  color: #00d4ff;
+  color: var(--color-primary);
   text-shadow: none;
 }
 
 /* Ensure floating button looks good in dark mode */
 html.dark .theme-toggle-float {
-  background: linear-gradient(135deg, #141414 0%, #232323 100%);
-  color: #e8f4f8;
-  border-color: rgba(0, 212, 255, 0.08);
-  box-shadow: 0 10px 30px rgba(0,0,0,0.6), 0 0 18px rgba(0, 212, 255, 0.03) inset;
+  background: linear-gradient(135deg, #141414 0%, #232323 100%) !important;
+  color: var(--color-text-light) !important;
+  border: 2px solid var(--color-primary) !important;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.6), 0 0 18px var(--color-primary)26 inset !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  display: flex !important;
+  pointer-events: auto !important;
+  z-index: 9999 !important;
 }
 
 html.dark .theme-toggle-float:hover {
-  box-shadow: 0 18px 44px rgba(0,0,0,0.65), 0 0 18px rgba(0, 212, 255, 0.06) inset;
-  transform: translateY(-50%) translateY(-6px) scale(1.02);
+  box-shadow: 0 18px 44px rgba(0,0,0,0.65), 0 0 18px var(--color-primary)0f inset !important;
+  transform: translateY(-50%) translateY(-6px) scale(1.02) !important;
+  border-color: var(--color-primary) !important;
 }
 
 /* Tailwind dark overrides — handle bg-, text-, border- utilities */
@@ -314,8 +365,9 @@ html.dark .notice--warning,
 html.dark .notice--success,
 html.dark .notice--danger {
   background-color: rgba(15, 15, 15, 0.95) !important;
-  color: #e8f4f8 !important;
-  border: 1px solid rgba(0, 212, 255, 0.3) !important;
+  color: var(--color-text-light) !important;
+  border: 1px solid var(--color-primary) !important;
+  opacity: 0.9;
   text-shadow: none;
 }
 
@@ -325,7 +377,7 @@ html.dark .notice--info h4,
 html.dark .notice--warning h4,
 html.dark .notice--success h4,
 html.dark .notice--danger h4 {
-  color: #00d4ff !important;
+  color: var(--color-primary) !important;
   text-shadow: none;
 }
 
@@ -335,7 +387,7 @@ html.dark .notice--info p,
 html.dark .notice--warning p,
 html.dark .notice--success p,
 html.dark .notice--danger p {
-  color: #e8f4f8 !important;
+  color: var(--color-text-light) !important;
 }
 
 /* Honor reduced motion preferences */

@@ -21,6 +21,9 @@
     height: 100vh;
     overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
+    top: $masthead-height;
+    /* Anchor the sidebar to the left edge of the centered content container */
+    left: calc(50% - #{$x-large} / 2);
     padding-top: $masthead-height;
   }
 
@@ -219,12 +222,9 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
-  vertical-align: middle;
+  display: block;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
-  cursor: pointer;
 
   li:last-child {
     a {
@@ -236,31 +236,28 @@
     display: block;
   }
 
-  button {
-    margin-bottom: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
+  button,
+  .btn {
+    display: none !important;
   }
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
-  border: 1px solid var(--global-border-color);
-  border-radius: $border-radius;
-  background: var(--global-bg-color);
-  z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  border: 0;
+  background: transparent;
+  box-shadow: none;
   cursor: default;
+  gap: 8px;
 
   @include breakpoint($large) {
-    display: block;
+    display: flex;
+    flex-direction: column;
     position: relative;
     margin: 0;
     padding: 0;

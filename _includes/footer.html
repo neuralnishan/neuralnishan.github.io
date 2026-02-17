@@ -22,3 +22,24 @@
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+<!-- Cookie consent banner (GDPR/CCPA) -->
+<div id="cookie-banner" class="cookie-banner" aria-live="polite" role="dialog" style="display:none;">
+  <div class="cookie-banner__inner">
+    <p class="cookie-banner__text">We use Google Analytics to improve the site: pageviews, device, referrer, events (clicks, downloads, forms) and performance metrics. Cookies used: <strong>_ga</strong>, <strong>_gid</strong>, <strong>_gcl_au</strong>. See our <a href="{{ base_path }}/privacy">Privacy Policy</a>.</p>
+    <div class="cookie-banner__actions">
+      <button id="cookie-accept" class="btn-accept">Accept</button>
+      <button id="cookie-reject" class="btn-reject">Reject</button>
+      <a class="cookie-banner__settings" href="{{ base_path }}/privacy">Privacy Policy</a>
+    </div>
+  </div>
+</div>
+<style>
+.cookie-banner{position:fixed;left:0;right:0;bottom:0;background:#0b0b0b;color:#fff;padding:12px 16px;z-index:9999;font-size:14px}
+.cookie-banner__inner{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.cookie-banner__text{margin:0;flex:1}
+.cookie-banner__actions{display:flex;gap:8px}
+.cookie-banner a{color:#9ad1ff}
+.btn-accept{background:#0b8a3e;color:#fff;border:0;padding:8px 12px;border-radius:4px}
+.btn-reject{background:#444;color:#fff;border:0;padding:8px 12px;border-radius:4px}
+</style>

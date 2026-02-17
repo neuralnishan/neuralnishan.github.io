@@ -1,0 +1,374 @@
+/* ===================================================================
+   ACCESSIBILITY ENHANCEMENTS
+   - High Contrast Mode
+   - Enhanced Focus Indicators
+   - Text Size Adjustment Support
+   - Skip Navigation Link
+   =================================================================== */
+
+/* Skip-to-main link styles removed (not used) */
+
+/* ========== ENHANCED FOCUS INDICATORS ========== */
+/* Ensure all interactive elements have visible focus states */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus,
+select:focus,
+[role="button"]:focus {
+  outline: 3px solid var(--color-primary, #00d4ff) !important;
+  outline-offset: 2px;
+}
+
+/* Keyboard focus visible pseudo-class (modern browsers) */
+*:focus-visible {
+  outline: 3px solid var(--color-primary, #00d4ff) !important;
+  outline-offset: 2px;
+}
+
+/* ========== HIGH CONTRAST MODE ========== */
+@media (prefers-contrast: more) {
+  /* Increase color ratios for better readability */
+  :root {
+    --primary-accent: #0066cc;
+    --text-primary-dark: #000;
+    --text-primary-light: #fff;
+  }
+
+  body {
+    background-color: #fff;
+    color: #000;
+  }
+
+  a {
+    color: #0066cc;
+    text-decoration: underline;
+  }
+
+  button,
+  .btn {
+    border: 2px solid #000 !important;
+    font-weight: 700;
+  }
+
+  th, strong, b {
+    font-weight: 700;
+  }
+
+  /* High contrast dark mode */
+  html.dark {
+    background: #000;
+    color: #fff;
+  }
+
+  html.dark a {
+    color: #ffff00;
+    text-decoration: underline;
+  }
+
+  html.dark button,
+  html.dark .btn {
+    background: #000 !important;
+    color: #ffff00 !important;
+    border: 2px solid #ffff00 !important;
+  }
+
+  html.dark code,
+  html.dark pre {
+    background: #1a1a1a !important;
+    color: #ffff00 !important;
+    border: 2px solid #ffff00 !important;
+  }
+}
+
+/* ========== TEXT SIZE ADJUSTMENT SUPPORT ========== */
+/* Scale all elements when user adjusts text size */
+html[data-text-size="large"] {
+  font-size: 18px;
+}
+
+html[data-text-size="large"] h1 {
+  font-size: 2.5em;
+}
+
+html[data-text-size="large"] h2 {
+  font-size: 2em;
+}
+
+html[data-text-size="large"] h3 {
+  font-size: 1.75em;
+}
+
+html[data-text-size="large"] .page__content {
+  padding: 40px;
+  line-height: 1.8;
+}
+
+html[data-text-size="large"] table {
+  font-size: 1.1em;
+  line-height: 1.8;
+}
+
+/* Extra large text size */
+html[data-text-size="extra-large"] {
+  font-size: 20px;
+}
+
+html[data-text-size="extra-large"] h1 {
+  font-size: 3em;
+}
+
+html[data-text-size="extra-large"] h2 {
+  font-size: 2.25em;
+}
+
+html[data-text-size="extra-large"] h3 {
+  font-size: 2em;
+}
+
+html[data-text-size="extra-large"] .page__content {
+  padding: 48px;
+  line-height: 2;
+}
+
+html[data-text-size="extra-large"] table {
+  font-size: 1.25em;
+  line-height: 2;
+}
+
+/* ========== DYSLEXIA-FRIENDLY MODE ========== */
+html[data-text-mode="dyslexia-friendly"] {
+  /* Use dyslexia-friendly font stack */
+  font-family: 'OpenDyslexic', 'DejaVu Sans', 'Comic Sans MS', sans-serif;
+  letter-spacing: 0.12em;
+  word-spacing: 0.16em;
+  line-height: 1.8;
+}
+
+html[data-text-mode="dyslexia-friendly"] code,
+html[data-text-mode="dyslexia-friendly"] pre {
+  font-family: 'Courier New', monospace;
+  letter-spacing: normal;
+  word-spacing: normal;
+}
+
+/* ========== IMPROVED LINK CONTRAST ========== */
+@media (prefers-contrast: more) {
+  a:not(.btn):not(.masthead__menu-item a) {
+    color: #0050c3;
+    font-weight: 600;
+  }
+
+  html.dark a:not(.btn) {
+    color: #ffff00;
+  }
+}
+
+/* ========== ENHANCED TABLE READABILITY ========== */
+table {
+  border-collapse: collapse;
+  border: 2px solid currentColor;
+}
+
+th {
+  background-color: #f5f5f5;
+  font-weight: 700;
+  text-align: left;
+  padding: 12px;
+  border: 1px solid #ccc;
+}
+
+td {
+  padding: 12px;
+  border: 1px solid #e0e0e0;
+}
+
+html.dark th {
+  background-color: #1a1a1a;
+  border-color: var(--color-primary, #00d4ff);
+}
+
+html.dark td {
+  border-color: var(--color-primary)33;
+}
+
+/* ========== BETTER BUTTON FOCUS STATE ========== */
+button,
+.btn,
+[role="button"],
+input[type="button"],
+input[type="submit"] {
+  position: relative;
+  transition: all 0.15s ease;
+}
+
+button:focus-visible,
+.btn:focus-visible,
+[role="button"]:focus-visible {
+  outline: 3px solid var(--color-primary, #00d4ff);
+  outline-offset: 3px;
+  box-shadow: 0 0 0 4px var(--color-primary)33;
+}
+
+/* ========== IMPROVED CODE BLOCK CONTRAST ========== */
+code {
+  background-color: #f4f4f4;
+  color: #d73a49;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: 'Courier New', monospace;
+}
+
+html.dark code {
+  background-color: #1a1a1a;
+  color: #58d9ff;
+  border: 1px solid rgba(88, 217, 255, 0.3);
+}
+
+/* ========== REDUCED MOTION ENHANCEMENTS ========== */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  html {
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ========== PRINT ACCESSIBILITY STYLES ========== */
+@media print {
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  .skip-link,
+  .theme-toggle-float,
+  .accessibility-controls {
+    display: none;
+  }
+
+  body {
+    color: #000;
+    background: #fff;
+  }
+
+  a {
+    color: #0066cc;
+    text-decoration: underline;
+  }
+}
+
+/* ===================================================================
+   Class-based toggles for JS-driven modes
+   - html.a11y-high-contrast
+   - html.a11y-grayscale
+   - html.a11y-reduced-motion
+   - html.a11y-readable-font
+   =================================================================== */
+
+html.a11y-high-contrast {
+  color-scheme: light dark;
+}
+
+html.a11y-high-contrast body {
+  background: #fff !important;
+  color: #000 !important;
+}
+
+html.a11y-high-contrast a {
+  color: #0047ab !important;
+  text-decoration: underline !important;
+  font-weight: 700 !important;
+}
+
+/* Ensure accessibility controls stay visible in high contrast */
+html.a11y-high-contrast .accessibility-controls,
+html.a11y-high-contrast .theme-toggle-float {
+  background: #fff !important;
+  color: #000 !important;
+  border: 3px solid #000 !important;
+}
+
+/* Grayscale: useful for color-blind simulation / print-style */
+html.a11y-grayscale, html.a11y-grayscale * {
+  filter: grayscale(100%) !important;
+}
+
+/* Exclude accessibility controls from grayscale */
+html.a11y-grayscale .accessibility-controls,
+html.a11y-grayscale .accessibility-controls * {
+  filter: grayscale(0%) !important;
+}
+
+/* Reduced motion: override animations/transitions */
+html.a11y-reduced-motion *, html.a11y-reduced-motion *::before, html.a11y-reduced-motion *::after {
+  animation: none !important;
+  transition: none !important;
+}
+html.a11y-reduced-motion {
+  scroll-behavior: auto !important;
+}
+
+/* Readable font: larger x-height, clear UI font */
+html.a11y-readable-font, html.a11y-readable-font body {
+  font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+}
+html.a11y-readable-font p, html.a11y-readable-font li {
+  font-size: 1.03rem !important;
+  line-height: 1.8 !important;
+}
+
+/* ========== COLOR BLIND MODES ========== */
+/* Protanopia (Red-Blind) - Deuteranopia and Tritanopia simulations */
+html.a11y-colorblind-protanopia {
+  --filter: invert(0.9) sepia(0.2) saturate(1.5) hue-rotate(15deg);
+}
+html.a11y-colorblind-protanopia, html.a11y-colorblind-protanopia * {
+  filter: invert(0.9) sepia(0.2) saturate(1.5) hue-rotate(15deg) !important;
+}
+html.a11y-colorblind-protanopia .accessibility-controls,
+html.a11y-colorblind-protanopia .accessibility-controls * {
+  filter: none !important;
+}
+
+/* Deuteranopia (Green-Blind) */
+html.a11y-colorblind-deuteranopia, html.a11y-colorblind-deuteranopia * {
+  filter: invert(0.95) saturate(1.1) hue-rotate(25deg) !important;
+}
+html.a11y-colorblind-deuteranopia .accessibility-controls,
+html.a11y-colorblind-deuteranopia .accessibility-controls * {
+  filter: none !important;
+}
+
+/* Tritanopia (Blue-Yellow Blind) */
+html.a11y-colorblind-tritanopia, html.a11y-colorblind-tritanopia * {
+  filter: saturate(0.9) hue-rotate(90deg) !important;
+}
+html.a11y-colorblind-tritanopia .accessibility-controls,
+html.a11y-colorblind-tritanopia .accessibility-controls * {
+  filter: none !important;
+}
+
+/* ========== TEXT ENHANCEMENT ========== */
+/* Increased letter spacing for better word recognition */
+html.a11y-letter-spacing {
+  letter-spacing: 0.15em !important;
+  word-spacing: 0.25em !important;
+}
+html.a11y-letter-spacing p, html.a11y-letter-spacing li, html.a11y-letter-spacing span {
+  letter-spacing: 0.15em !important;
+}
+
+/* Bold text for improved visibility */
+html.a11y-bold-text, html.a11y-bold-text body {
+  font-weight: 700 !important;
+}
+html.a11y-bold-text p, html.a11y-bold-text span, html.a11y-bold-text li {
+  font-weight: 700 !important;
+}
+

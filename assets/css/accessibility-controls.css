@@ -1,0 +1,393 @@
+/* ===================================================================
+   ACCESSIBILITY CONTROLS PANEL STYLING
+   Styles for the accessibility menu panel
+   =================================================================== */
+
+.accessibility-controls {
+  position: fixed;
+  /* positioned at middle-right of the page */
+  top: 50%;
+  bottom: auto;
+  right: 22px;
+  left: auto;
+  transform: translateY(-50%);
+  z-index: 9998;
+  max-width: 340px;
+}
+
+.accessibility-controls details {
+  margin: 0;
+  padding: 0;
+}
+
+.accessibility-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 18px;
+  background: linear-gradient(135deg, #f8fbff 0%, #eef4ff 100%);
+  border: 2px solid #4a5ac1;
+  border-radius: 999px; /* pill shape */
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 14px;
+  color: #111;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.07);
+  transition: transform 0.16s ease, box-shadow 0.16s ease;
+  user-select: none;
+  position: relative;
+}
+
+.accessibility-toggle:hover {
+  background: linear-gradient(135deg, #e8ecff 0%, #dfe5ff 100%);
+  box-shadow: 0 4px 12px rgba(74, 90, 193, 0.15);
+  transform: translateY(-2px);
+}
+
+.accessibility-toggle:focus-visible {
+  outline: 3px solid var(--color-primary, #00d4ff);
+  outline-offset: 2px;
+}
+
+/* Dark mode styling for toggle */
+html.dark .accessibility-toggle {
+  background: linear-gradient(135deg, #1a3a5a 0%, #1a2d4a 100%);
+  border-color: var(--color-primary, #00d4ff);
+  color: #e8f4f8;
+}
+
+html.dark .accessibility-toggle:hover {
+  background: linear-gradient(135deg, #1a2d4a 0%, #132340 100%);
+  box-shadow: 0 4px 12px rgba(0, 212, 255, 0.2);
+}
+
+.accessibility-icon {
+  font-size: 18px;
+  display: inline-block;
+}
+
+.accessibility-label {
+  display: inline-block;
+}
+
+/* Menu panel */
+.accessibility-menu {
+  /* display the panel to the left of the pill when opened */
+  position: absolute;
+  right: calc(100% + 12px);
+  left: auto;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 320px;
+  background: #ffffff;
+  border: 2px solid #d0d0d0;
+  border-radius: 8px;
+  padding: 18px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+  animation: slideDown 0.18s ease;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+html.dark .accessibility-menu {
+  background: #1a1a1a;
+  border-color: var(--color-primary, #00d4ff);
+  box-shadow: 0 8px 24px var(--color-primary)26;
+}
+
+.accessibility-section {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+html.dark .accessibility-section {
+  border-bottom-color: var(--color-primary)33;
+}
+
+.accessibility-section:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.accessibility-section h3 {
+  margin: 0 0 12px 0;
+  font-size: 14px;
+  font-weight: 700;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+html.dark .accessibility-section h3 {
+  color: var(--color-primary, #00d4ff);
+}
+
+/* Button groups */
+.button-group {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.text-size-btn,
+.text-mode-btn {
+  flex: 1;
+  min-width: 80px;
+  padding: 10px 12px;
+  background: #f5f5f5;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  color: #333;
+}
+
+.text-size-btn:hover,
+.text-mode-btn:hover {
+  background: #e8e8e8;
+  border-color: #999;
+}
+
+.text-size-btn[aria-pressed="true"],
+.text-mode-btn[aria-pressed="true"] {
+  background: #4a5ac1;
+  color: #fff;
+  border-color: #3a4a9f;
+  box-shadow: 0 2px 6px rgba(74, 90, 193, 0.25);
+}
+
+.text-size-btn:focus-visible,
+.text-mode-btn:focus-visible {
+  outline: 2px solid var(--color-primary, #00d4ff);
+  outline-offset: 2px;
+}
+
+/* Dark mode button styling */
+html.dark .text-size-btn,
+html.dark .text-mode-btn {
+  background: #2a2a2a;
+  border-color: #444;
+  color: #e8f4f8;
+}
+
+html.dark .text-size-btn:hover,
+html.dark .text-mode-btn:hover {
+  background: #333;
+  border-color: #555;
+}
+
+html.dark .text-size-btn[aria-pressed="true"],
+html.dark .text-mode-btn[aria-pressed="true"] {
+  background: var(--color-primary, #00d4ff);
+  color: #000;
+  border-color: var(--color-secondary, #00b0d4);
+  box-shadow: 0 2px 8px var(--color-primary)4d;
+}
+
+/* Accessibility info text */
+.accessibility-info {
+  margin: 0;
+  font-size: 12px;
+  color: #666;
+  line-height: 1.5;
+}
+
+html.dark .accessibility-info {
+  color: #aaa;
+}
+
+/* Reset button */
+.reset-btn {
+  width: 100%;
+  padding: 12px 16px;
+  background: #f0f0f0;
+  border: 2px solid #999;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  color: #333;
+  transition: all 0.2s ease;
+}
+
+.reset-btn:hover {
+  background: #e0e0e0;
+  border-color: #666;
+}
+
+.reset-btn:focus-visible {
+  outline: 2px solid var(--color-primary, #00d4ff);
+  outline-offset: 2px;
+}
+
+html.dark .reset-btn {
+  background: #2a2a2a;
+  border-color: #555;
+  color: #e8f4f8;
+}
+
+html.dark .reset-btn:hover {
+  background: #333;
+  border-color: #777;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 640px) {
+  /* On small screens, position below the dark toggle at bottom right */
+  .accessibility-controls {
+    top: auto;
+    bottom: 80px;
+    right: 12px;
+    left: auto;
+    transform: none;
+    max-width: calc(100vw - 24px);
+  }
+
+  .accessibility-menu {
+    max-height: 60vh;
+    overflow-y: auto;
+  }
+
+  .button-group {
+    gap: 6px;
+  }
+
+  .text-size-btn,
+  .text-mode-btn {
+    min-width: 70px;
+    padding: 8px 10px;
+    font-size: 11px;
+  }
+}
+
+/* High contrast mode styling */
+@media (prefers-contrast: more) {
+  .accessibility-toggle {
+    border-width: 3px;
+    background: #fff;
+    color: #000;
+  }
+
+  html.dark .accessibility-toggle {
+    background: #000;
+    color: #fff;
+  }
+
+  .accessibility-menu {
+    border-width: 3px;
+    background: #fff;
+  }
+
+  html.dark .accessibility-menu {
+    background: #000;
+  }
+
+  .text-size-btn,
+  .text-mode-btn {
+    border-width: 2px;
+  }
+
+  .text-size-btn[aria-pressed="true"],
+  .text-mode-btn[aria-pressed="true"] {
+    outline: 2px solid #000;
+    outline-offset: -4px;
+  }
+}
+
+/* Reduced motion adjustments */
+@media (prefers-reduced-motion: reduce) {
+  .accessibility-controls details {
+    transition: none;
+  }
+
+  .accessibility-menu {
+    animation: none;
+  }
+
+  .accessibility-toggle,
+  .text-size-btn,
+  .text-mode-btn,
+  .reset-btn {
+    transition: none;
+  }
+}
+
+/* Dark Mode Toggle Button */
+#dark-mode-toggle {
+  position: fixed;
+  top: 50%;
+  right: 20px;
+  bottom: auto;
+  transform: translateY(-50%);
+  z-index: 10000 !important;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  background: #ffffff;
+  color: #333333;
+  cursor: pointer;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: all 0.3s ease;
+  padding: 0;
+  margin: 0;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+#dark-mode-toggle svg {
+  width: 20px;
+  height: 20px;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+#dark-mode-toggle:hover {
+  transform: translateY(-52%);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+  background: #f5f5f5;
+}
+
+#dark-mode-toggle:active {
+  transform: translateY(-48%);
+}
+
+html.dark #dark-mode-toggle {
+  background: #2a2a2a;
+  border-color: #555555;
+  color: #ffd700;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
+
+html.dark #dark-mode-toggle:hover {
+  background: #333333;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.5);
+}
+
+@media (max-width: 640px) {
+  /* Place the dark mode toggle at bottom-right on small screens */
+  #dark-mode-toggle {
+    top: auto;
+    bottom: 12px;
+    right: 12px;
+    transform: none;
+  }
+}

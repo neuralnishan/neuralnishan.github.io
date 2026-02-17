@@ -14,6 +14,11 @@
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
+
+  @include breakpoint($large) {
+    /* Reserve space for the fixed sidebar so content doesn't overlap it */
+    padding-left: calc(#{$right-sidebar-width} + 2rem);
+  }
 }
 
 .page {

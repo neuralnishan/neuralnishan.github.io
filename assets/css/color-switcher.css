@@ -1,0 +1,228 @@
+/* ===================================================================
+   COLOR THEME SWITCHER
+   Styled like accessibility button with oval pill shape
+   =================================================================== */
+
+.color-switcher {
+  position: fixed;
+  bottom: 80px;
+  left: 22px;
+  z-index: 9998;
+}
+
+.color-switcher details {
+  margin: 0;
+  padding: 0;
+}
+
+.color-switcher-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12px 18px;
+  background: linear-gradient(135deg, #f8fbff 0%, #eef4ff 100%);
+  border: 2px solid #4a5ac1;
+  border-radius: 999px;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.07);
+  transition: all 0.3s ease;
+  font-size: 1em;
+  user-select: none;
+  font-weight: 700;
+  min-height: 45px;
+  min-width: auto;
+  white-space: nowrap;
+  color: #111;
+}
+
+.color-switcher-toggle:hover {
+  background: linear-gradient(135deg, #e8ecff 0%, #dfe5ff 100%);
+  box-shadow: 0 4px 12px rgba(74, 90, 193, 0.15);
+  transform: translateY(-2px);
+}
+
+.color-switcher-toggle:focus-visible {
+  outline: 3px solid #00d4ff;
+  outline-offset: 2px;
+}
+
+html.dark .color-switcher-toggle {
+  background: linear-gradient(135deg, #1a3a5a 0%, #1a2d4a 100%);
+  border-color: #00d4ff;
+  color: #e8f4f8;
+  box-shadow: 0 6px 18px rgba(0, 212, 255, 0.15);
+}
+
+html.dark .color-switcher-toggle:hover {
+  background: linear-gradient(135deg, #1a2d4a 0%, #132340 100%);
+  box-shadow: 0 4px 12px rgba(0, 212, 255, 0.2);
+}
+
+.color-icon {
+  display: inline-block;
+  font-size: 1.2em;
+}
+
+.color-label {
+  display: inline-block;
+  font-size: 0.9em;
+  font-weight: 700;
+}
+
+/* Color menu panel */
+.color-menu {
+  position: absolute;
+  bottom: calc(100% + 12px);
+  left: 0;
+  right: auto;
+  background: #ffffff;
+  border: 2px solid #d0d0d0;
+  border-radius: 8px;
+  padding: 18px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+  min-width: 420px;
+  animation: slideDown 0.18s ease;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+html.dark .color-menu {
+  background: #1a1a1a;
+  border-color: #00d4ff;
+  box-shadow: 0 8px 24px rgba(0, 212, 255, 0.15);
+}
+
+.color-menu-title {
+  font-size: 12px;
+  font-weight: 700;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+html.dark .color-menu-title {
+  color: #00d4ff;
+  border-bottom-color: rgba(0, 212, 255, 0.2);
+}
+
+.color-palette {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.color-option {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 6px;
+  padding: 8px 8px;
+  background: #f5f5f5;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 11px;
+  font-weight: 600;
+  color: #333;
+}
+
+.color-option:hover {
+  background: #efefef;
+  border-color: #999;
+  transform: translateY(-2px);
+}
+
+.color-option[aria-pressed="true"] {
+  border-color: #333;
+  background: #e8e8e8;
+  box-shadow: 0 0 0 2px rgba(51, 51, 51, 0.2);
+}
+
+html.dark .color-option {
+  background: #2a2a2a;
+  border-color: #444;
+  color: #e8f4f8;
+}
+
+html.dark .color-option:hover {
+  background: #333;
+  border-color: #666;
+}
+
+html.dark .color-option[aria-pressed="true"] {
+  border-color: #00d4ff;
+  background: #1e2a3a;
+  box-shadow: 0 0 0 2px rgba(0, 212, 255, 0.2);
+}
+
+.color-dot {
+  display: block;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+html.dark .color-dot {
+  border-color: #555;
+}
+
+.color-name {
+  text-align: center;
+  white-space: normal;
+  max-width: 70px;
+  line-height: 1.2;
+}
+
+/* Mobile responsive */
+@media (max-width: 640px) {
+  .color-switcher {
+    bottom: 80px;
+    left: 12px;
+  }
+
+  .color-menu {
+    right: auto;
+    left: 0;
+    bottom: calc(100% + 8px);
+    min-width: 280px;
+  }
+
+  .color-palette {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .color-switcher-toggle {
+    padding: 12px 16px;
+    font-size: 0.9em;
+  }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .color-switcher-toggle,
+  .color-option {
+    transition: none;
+  }
+
+  .color-menu {
+    animation: none;
+  }
+}
+

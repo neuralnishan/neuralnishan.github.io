@@ -21,9 +21,23 @@
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
+  transition: all 0.3s ease;
+  user-select: none;
 
   &:hover {
     background-color: mix(white, #000, 20%);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  &:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  &:focus-visible {
+    outline: 3px solid #00d4ff;
+    outline-offset: 2px;
   }
 
   .icon {
@@ -37,7 +51,7 @@
   /* fills width of parent container */
 
   &--block {
-    display: block;
+    display: block !important;
     width: 100%;
 
     + .btn--block {
@@ -55,6 +69,7 @@
     &:hover {
       color: #fff !important;
       border-color: var(--global-text-color-light);
+      transform: translateY(-2px);
     }
   }
 
@@ -63,6 +78,10 @@
   &--light-outline {
     border: 1px solid #fff !important; /* override*/
     background-color: transparent;
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
   }
 
   /* information */
@@ -123,7 +142,7 @@
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color),
   (mastodon, $mastodon-color),
-  (twitter, $twitter-color); 
+  (twitter, $twitter-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
