@@ -21,7 +21,7 @@ layout: default
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
-    {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
+    {% if page.modified %}<meta itemprop="dateModified" content="{% if page.url == "/" %}{{ site.time | date: "%B %d, %Y" }}{% else %}{{ page.modified | date: "%B %d, %Y" }}{% endif %}">{% endif %}
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
@@ -31,7 +31,7 @@ layout: default
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
         {% if page.modified %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {% if page.title == "About" %}Updated:{% else %}Date:{% endif %}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {% if page.title == "About" %}Updated:{% else %}Date:{% endif %}</strong> <time datetime="{% if page.url == "/" %}{{ site.time | date: "%Y-%m-%d" }}{% else %}{{ page.modified | date: "%Y-%m-%d" }}{% endif %}">{% if page.url == "/" %}{{ site.time | date: "%B %d, %Y" }}{% else %}{{ page.modified | date: "%B %d, %Y" }}{% endif %}</time></p>
         {% endif %}
         
         {% if page.collection == 'teaching' %}
@@ -39,7 +39,7 @@ layout: default
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {% if page.title == "About" %}Updated:{% else %}Date:{% endif %}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {% if page.title == "About" %}Updated:{% else %}Date:{% endif %}</strong> <time datetime="{% if page.url == "/" %}{{ site.time | date: "%Y-%m-%d" }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}">{% if page.url == "/" %}{{ site.time | date: "%B %d, %Y" }}{% else %}{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}{% endif %}</time></p>
         {% endif %}
         
              
