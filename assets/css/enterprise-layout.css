@@ -1,0 +1,230 @@
+/* Enterprise-style navigation and sidebar refinements */
+
+:root {
+  --enterprise-bg: #ffffff;
+  --enterprise-border: #d8dee9;
+  --enterprise-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+  --enterprise-text: #0f172a;
+  --enterprise-muted: #475569;
+  --enterprise-accent: #0f4c81;
+  --enterprise-accent-soft: #e8f0f7;
+}
+
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background: var(--enterprise-bg);
+  border-bottom: 1px solid var(--enterprise-border);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.05);
+}
+
+.masthead__inner-wrap {
+  max-width: 1360px;
+  padding: 0 1rem;
+}
+
+.greedy-nav {
+  min-height: 68px;
+  background: transparent;
+}
+
+.greedy-nav .visible-links {
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.greedy-nav .visible-links a {
+  border-radius: 6px;
+  padding: 0.6rem 0.9rem;
+  color: var(--enterprise-muted);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  border: 1px solid transparent;
+}
+
+.greedy-nav .visible-links a:hover {
+  color: var(--enterprise-accent);
+  background: var(--enterprise-accent-soft);
+  border-color: #c6d7e8;
+  transform: none;
+  box-shadow: none;
+}
+
+.greedy-nav .visible-links a:before {
+  display: none;
+}
+
+.site-logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  color: var(--enterprise-text) !important;
+}
+
+.site-brand__badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  background: var(--enterprise-accent);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.site-brand__text {
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.greedy-nav .hidden-links {
+  border: 1px solid var(--enterprise-border);
+  border-radius: 8px;
+  box-shadow: var(--enterprise-shadow);
+  background: var(--enterprise-bg);
+}
+
+.greedy-nav button {
+  border: 1px solid var(--enterprise-border) !important;
+  border-radius: 6px !important;
+  background: #f8fafc !important;
+  box-shadow: none !important;
+}
+
+.greedy-nav button:hover {
+  background: #eef2f7 !important;
+  transform: none !important;
+}
+
+.sidebar {
+  background: var(--enterprise-bg);
+  border: 1px solid var(--enterprise-border);
+  border-radius: 12px;
+  box-shadow: var(--enterprise-shadow);
+  padding: 1.2rem;
+  width: 280px;
+  min-width: 260px;
+  max-width: 300px;
+}
+
+.sidebar:hover {
+  transform: none;
+  box-shadow: var(--enterprise-shadow);
+  border-color: #cdd6e2;
+  background: var(--enterprise-bg);
+}
+
+.sidebar.sticky {
+  top: 92px;
+}
+
+.author__avatar .avatar-spin {
+  animation: none !important;
+}
+
+.author__avatar img {
+  border: 1px solid #dbe2ea;
+  box-shadow: none;
+}
+
+.author__name {
+  color: var(--enterprise-text);
+  font-size: 1.25rem;
+  margin: 0.85rem 0 0.35rem;
+}
+
+.author__bio {
+  color: var(--enterprise-muted);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.author__urls a {
+  border: 1px solid #dce3ec;
+  background: #f8fafc;
+  color: #1e293b;
+  border-radius: 8px;
+  padding: 0.55rem 0.7rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.author__urls a:hover {
+  background: #eef4fb;
+  color: var(--enterprise-accent);
+  border-color: #c7d6e7;
+  transform: none;
+  box-shadow: none;
+}
+
+.sidebar .nav__list a {
+  border-radius: 8px;
+  color: var(--enterprise-muted);
+  font-weight: 600;
+  padding: 0.5rem 0.65rem;
+  border: 1px solid transparent;
+}
+
+.sidebar .nav__list a:hover {
+  color: var(--enterprise-accent);
+  background: var(--enterprise-accent-soft);
+  border-color: #c7d6e7;
+  padding-left: 0.65rem;
+  box-shadow: none;
+}
+
+html.dark .masthead,
+html.dark .sidebar,
+html.dark .greedy-nav .hidden-links {
+  background: #111827;
+  border-color: #273449;
+  box-shadow: 0 10px 24px rgba(2, 6, 23, 0.35);
+}
+
+html.dark .site-logo,
+html.dark .site-brand__text,
+html.dark .author__name {
+  color: #e2e8f0 !important;
+}
+
+html.dark .site-brand__badge {
+  background: #1d4e89;
+}
+
+html.dark .greedy-nav .visible-links a,
+html.dark .sidebar .nav__list a,
+html.dark .author__bio {
+  color: #cbd5e1;
+}
+
+html.dark .greedy-nav .visible-links a:hover,
+html.dark .sidebar .nav__list a:hover,
+html.dark .author__urls a:hover {
+  background: #1f2d43;
+  color: #cfe6ff;
+  border-color: #31425c;
+}
+
+html.dark .author__urls a {
+  background: #172133;
+  color: #dbe6f4;
+  border-color: #2a3850;
+}
+
+@media (max-width: 1024px) {
+  .sidebar {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  .sidebar.sticky {
+    position: relative;
+    top: 0;
+  }
+}

@@ -9,60 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
-# Education:    
-* B.Sc in Computer Science and Engineering (NSU)  
+# Education
+- B.Sc. in Computer Science and Engineering (NSU)
 
-
-# Work experience:     
-  
----
-* Role: Jr. Data Analyst  
-  * Head Gear LTD.  
-  TechStack: Python, SQL, Tableau, Azure Cloud, AWS, EDA, Jupyternotebook  
-  * Duties included:   
-  ✅ Data Collection    
-  ✅ Data Preprocessing  
-  ✅ Feature Engineering & Scaling  
-  ✅ Data Wrangling  
-  ✅ Unveiled key trends and patterns through EDA     
-  ✅ Making Dasboards on Tableau    
- {: .notice}
+# Work Experience
 
 ---
-* Role: Jr. Software Developer Intern  
-  * Head Gear LTD.  
-  Duties included:  
-  ✅ API specifications  
-  ✅ Code documentation  
-  ✅ Website Maintenance  
-  ✅ Writing Clean Code  
-  ✅ Fronend-Backend work  
-  ✅ Database maintanance  
- {: .notice}
-  
-# Technical Skills:  
-* Python*, SQL*, R  
-* NoSQL (Azure CosMosDB,)  
-* Tools, Frameworks & Libraries  
-  * Jupyter Notebook*, PySpark, Apache Airflow*, Apache Spark*  
-  * Tensorflow*, Pytorch*  
-  * Pandas, Sci-kit learn*, NumPy*, Matplotlib*, Plotly  
-EDA & DataViz:   
-  * MS PowerBI*  
-Cloud Skill:  
-  * Microsoft Azure, 17x Microsoft Certified (Data+Fabric+AI+AzureML+Mlflow+AzureDatabricks+AzureSynapseAnalytics+PowerBI+MicrosoftEntra)  
-  * Salesforce Cloud, 2x Salesforce Certified (AI+AgentForce)
-  * Astronomer, 2x Apache Airflow Certified (Apache Airflow)
- 
+- **Role:** Junior Data Analyst
+  - **Company:** Head Gear LTD.
+  - **Tech Stack:** Python, SQL, Tableau, Azure Cloud, AWS, EDA, Jupyter Notebook
+  - **Duties included:**
+    - Data collection
+    - Data preprocessing
+    - Feature engineering and scaling
+    - Data wrangling
+    - Uncovered key trends and patterns through EDA
+    - Built dashboards in Tableau
+{: .notice}
+
+---
+- **Role:** Junior Software Developer Intern
+  - **Company:** Head Gear LTD.
+  - **Duties included:**
+    - API specifications
+    - Code documentation
+    - Website maintenance
+    - Writing clean code
+    - Frontend-backend work
+    - Database maintenance
+{: .notice}
+
+# Technical Skills
+- **Programming Languages:** Python, SQL, R
+- **Databases:** NoSQL (Azure Cosmos DB)
+- **Tools, Frameworks, and Libraries:**
+  - Jupyter Notebook, PySpark, Apache Airflow, Apache Spark
+  - TensorFlow, PyTorch
+  - Pandas, Scikit-learn, NumPy, Matplotlib, Plotly
+- **EDA and Data Visualization:**
+  - Microsoft Power BI
+- **Cloud Skills:**
+  - Microsoft Azure, 17x Microsoft-certified (Data+Fabric+AI+AzureML+MLflow+AzureDatabricks+AzureSynapseAnalytics+Power BI+Microsoft Entra)
+  - Salesforce Cloud, 2x Salesforce Certified (AI+AgentForce)
+  - Astronomer, 2x Apache Airflow Certified
+
 Projects
 ======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.projects %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
 Achievements
 ======
-  <ul>{% for post in site.achievements %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.achievements %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>

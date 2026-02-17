@@ -35,10 +35,10 @@ He has more than **three years** of hands-on experience with **Azure Cloud**. He
 
 ---
 # Communication Preference:
-**1st: 📩 Professional email (priority: within 24 hours)**  
+**1st: Professional email (priority: within 24 hours)**  
 **Email:** neuralnishan@protonmail.com  
-**2nd: 📞 Phone calls (non-urgent/business only) — CEST 7:00 PM–8:00 PM**  
-**3rd: 📝 Microsoft Forms (response within 1–3 business days)**         
+**2nd: Phone calls (non-urgent/business only) - CEST 7:00 PM-8:00 PM**  
+**3rd: Microsoft Forms (response within 1-3 business days)**  
 {: .notice}
 
 ---
@@ -50,15 +50,15 @@ He has more than **three years** of hands-on experience with **Azure Cloud**. He
 ![Certificate Image](/files/microsoft/mslogos/microsoft_cloud_challenges_2023_2025.png)  
 
 ---
-# Microsoft Learn Transcript -->[Click this link!](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript")
+# Microsoft Learn Transcript: [Click this link](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero "Microsoft Learn Transcript")
 
 ---
 # Microsoft Azure Certifications (2022-2023-2024-2025-2026-2027)
 
-| Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
+| Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
 | AB-100 | [Microsoft Certified: Agentic AI Business Solutions Architect](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/fc6c7570a7490575) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/fc6c7570a7490575) | [Download](/files/microsoft/microsoft_azure__agentic_ai_business_solutions_architect_expert_ab_100_certificate.png) | 2026-01-08 | 2027-01-08 | Microsoft | Online Proctored by PearsonVUE |
-| MS-900 | [Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/1aaa1818f8168b1) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/1aaa1818f8168b1) | [Download](/files/microsoft/microsoft_365_certified_fundamentals_ms_900_certificate.png) | 2025-10-17| No Expiry | Microsoft | Online Proctored by PearsonVUE |
+| MS-900 | [Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/1aaa1818f8168b1) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/1aaa1818f8168b1) | [Download](/files/microsoft/microsoft_365_certified_fundamentals_ms_900_certificate.png) | 2025-10-17 | No Expiration | Microsoft | Online Proctored by PearsonVUE |
 | PL-300 | [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/81ab184bb00e00be) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/81ab184bb00e00be) | [Download](/files/microsoft/microsoft_certified_power_bi_data_analyst_associate_pl_300_certificate.png) | 2025-10-13 | 2026-10-14 | Microsoft | Online Proctored by PearsonVUE |
 | SC-100 | [Microsoft Certified: Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cbbf1932f8214f3) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cbbf1932f8214f3) | [Download](/files/microsoft/microsoft_certified_cybersecurity_architect_expert_sc_100_certificate.png) | 2025-10-12 | 2026-10-13 | Microsoft | Online Proctored by PearsonVUE |
 | DP-600 | [Microsoft Certified: Fabric Analytics Engineer Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/f1975c324cca3794) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/f1975c324cca3794) | [Download](/files/microsoft/microsoft_azure_fabric_analytics_engineer_associate_dp_600_certificate.jpg) | 2025-10-11 | 2026-10-12 | Microsoft | Online Proctored by PearsonVUE |
@@ -73,17 +73,17 @@ He has more than **three years** of hands-on experience with **Azure Cloud**. He
 | DP-203 | [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cc036a4b7affc9ae) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cc036a4b7affc9ae) | [Download](/files/microsoft/microsoft_azure_data_engineer_associate_dp_203_certificate.png) | 2024-11-28 | 2025-11-28 | Microsoft | Online Proctored by PearsonVUE |
 | AI-102| [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/CAB2713E62F9049A) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cab2713e62f9049a) | [Download](/files/microsoft/microsoft_azure_ai_engineer_associate_ai_102_certificate.png) | 2024-04-30 | 2027-04-30 | Microsoft | Online Proctored by PearsonVUE |
 | DP-100 | [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a2c48d4c8739efa2) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a2c48d4c8739efa2) | [Download](/files/microsoft/microsoft_azure_data_scientist_associate_dp_100_certificate.png) | 2024-04-28 | 2027-04-28 | Microsoft | Online Proctored by PearsonVUE |
-| AI-900 | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Download](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png) | 2023-08-08| No Expiry | Microsoft | Online Proctored by PearsonVUE |
+| AI-900 | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [Download](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png) | 2023-08-08| No Expiration | Microsoft | Online Proctored by PearsonVUE |
 
 ---
 # Microsoft Azure Applied Skills (2024-2025-2026)
 
-| Applied Skills Code | Applied Skills Name | Verification Link | Download Link | Date of Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
+| Applied Skills Code | Applied Skills Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD)| Date of Expiration (YYYY-MM-DD)| Organization | Exam Provider |
 |------|--------------------|-------------------|---------------|---------------|-----------------|--------------|--------|
-| APL-6501| [Microsoft Applied Skills: Generate reports with AI research agents](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a6a869507d924b65) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a6a869507d924b65) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Generate reports with AI research agents.png) | 2026-01-09 |No Expiry | Microsoft | Online MSFT Azure Cloud |
-| DP-604| [Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bfe40a3e91369fb1) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bfe40a3e91369fb1) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Implement a data science and machine learning solution with Microsoft Fabric.png) | 2024-12-24 |No Expiry | Microsoft | Online MSFT Azure Cloud |
-| AI-3002| [Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/51e23d9da965588f) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/51e23d9da965588f) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png) | 2024-12-18 | No Expiry | Microsoft | Online MSFT Azure Cloud |
-| AI-3003| [Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png) | 2024-12-15 | No Expiry | Microsoft | Online MSFT Azure Cloud |
+| APL-6501| [Microsoft Applied Skills: Generate reports with AI research agents](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a6a869507d924b65) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a6a869507d924b65) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Generate reports with AI research agents.png) | 2026-01-09 | No Expiration | Microsoft | Online MSFT Azure Cloud |
+| DP-604| [Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bfe40a3e91369fb1) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bfe40a3e91369fb1) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Implement a data science and machine learning solution with Microsoft Fabric.png) | 2024-12-24 | No Expiration | Microsoft | Online MSFT Azure Cloud |
+| AI-3002| [Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/51e23d9da965588f) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/51e23d9da965588f) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png) | 2024-12-18 | No Expiration | Microsoft | Online MSFT Azure Cloud |
+| AI-3003| [Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [Download](/files/microsoft/appliedskills/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png) | 2024-12-15 | No Expiration | Microsoft | Online MSFT Azure Cloud |
 
 
 ---
@@ -95,8 +95,8 @@ He has more than **three years** of hands-on experience with **Azure Cloud**. He
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
-| AFS-201 | [Salesforce Agentforce Specialist](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Download](/files/salesforce/salesforce_agentforce_specialist.png)| 2025-06-21 | No Expiry | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
-| N/A | [Salesforce AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | No Expiry | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
+| AFS-201 | [Salesforce Agentforce Specialist](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Download](/files/salesforce/salesforce_agentforce_specialist.png)| 2025-06-21 | No Expiration | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
+| N/A | [Salesforce AI Associate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm)| [Download](/files/salesforce/salesforce_ai_associate_cert.png)| 2024-11-28 | No Expiration | Salesforce | Online Proctored by webassessor Kryterion & Drake International|
 
 
 ---
@@ -108,8 +108,8 @@ He has more than **three years** of hands-on experience with **Azure Cloud**. He
 
 | Exam / Certification Code | Exam / Certification Name | Verification Link | Download Link | Date Obtained (YYYY-MM-DD) | Date of Expiration (YYYY-MM-DD) | Organization | Exam Provider |
 |---------------------|---------------------------------------------------------------|-----------------------------------|--------------------------------|----------------------------|---------------------------------|--------------|---------------|
-| DAG Authoring (Airflow 3)  | [Astronomer Certification DAG Authoring for Apache Airflow 3](https://www.credly.com/go/UFsNYksz)| [Verify](https://www.credly.com/go/UFsNYksz)| [Download](/files/astronomer/certificates/AstronomerCertificationDAGAuthoringforApacheAirflow3.png)| 2025-09-18 | No Expiry | Astronomer | Online Proctored |
-| Airflow 101 (Airflow 3) | [Astronomer Certification for Apache Airflow 3 Fundamentals](https://www.credly.com/go/lnUPGtX2)| [Verify](https://www.credly.com/go/lnUPGtX2)| [Download](/files/astronomer/certificates/astronomer_certification_for_apache_airflow_3_fundamentals.png)| 2025-09-18 | No Expiry | Astronomer | Online Proctored |
+| DAG Authoring (Airflow 3)  | [Astronomer Certification DAG Authoring for Apache Airflow 3](https://www.credly.com/go/UFsNYksz)| [Verify](https://www.credly.com/go/UFsNYksz)| [Download](/files/astronomer/certificates/AstronomerCertificationDAGAuthoringforApacheAirflow3.png)| 2025-09-18 | No Expiration | Astronomer | Online Proctored |
+| Airflow 101 (Airflow 3) | [Astronomer Certification for Apache Airflow 3 Fundamentals](https://www.credly.com/go/lnUPGtX2)| [Verify](https://www.credly.com/go/lnUPGtX2)| [Download](/files/astronomer/certificates/astronomer_certification_for_apache_airflow_3_fundamentals.png)| 2025-09-18 | No Expiration | Astronomer | Online Proctored |
 
 # Others
 
@@ -123,7 +123,7 @@ He has more than **three years** of hands-on experience with **Azure Cloud**. He
 ![Certificate Image](/files/aws/aws_educate_and_ets_membership.png)
 
 ---
-# Joined in the Microsoft AI Skills Fest (2025) | Helped to set a GWR Title
+# Joined the Microsoft AI Skills Fest (2025) | Helped set a GWR title
 ![Certificate Image](/files/microsoft/mslogos/MicrosoftAISkillsFestGWRAttemptBadge.png)
 
 ---
@@ -144,4 +144,5 @@ Scan the QR code to fill out the form below!
 
 Click the link to fill out the form!
 [Submit Your Query](https://forms.office.com/r/1S5HQET81s "Fill out MSFT Form!").
+
 

@@ -1,0 +1,275 @@
+/* Enterprise nav + control alignment fixes */
+
+:root {
+  --header-light: #ffffff;
+  --header-dark: #0a0a0a;
+  --header-border-light: #d7e0ea;
+  --header-border-dark: #232323;
+}
+
+/* Uniform header color (removes blue tint in dark mode) */
+.masthead,
+.masthead__inner-wrap,
+.masthead .masthead__menu,
+.masthead .greedy-nav {
+  background: var(--header-light) !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+}
+
+html.dark .masthead,
+html.dark .masthead__inner-wrap,
+html.dark .masthead .masthead__menu,
+html.dark .masthead .greedy-nav {
+  background: var(--header-dark) !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+}
+
+.masthead {
+  border-bottom: 1px solid var(--header-border-light) !important;
+}
+
+html.dark .masthead {
+  border-bottom-color: var(--header-border-dark) !important;
+}
+
+.masthead::after {
+  background: var(--header-border-light) !important;
+}
+
+html.dark .masthead::after {
+  background: var(--header-border-dark) !important;
+}
+
+/* Keep nav aligned to page content */
+.masthead__inner-wrap {
+  max-width: 1380px !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding: 0.45rem 1.25rem 0.45rem 2.15rem !important;
+}
+
+.masthead .greedy-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 68px;
+  border: 0 !important;
+  position: relative;
+}
+
+.masthead .greedy-nav .visible-links {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  margin: 0 auto;
+  padding-right: 52px;
+}
+
+.masthead .greedy-nav .visible-links > li {
+  background: transparent !important;
+}
+
+.masthead .greedy-nav .visible-links > li > a {
+  color: #1f2937 !important;
+  font-weight: 650 !important;
+  font-size: 1.04rem !important;
+  line-height: 1.2 !important;
+  min-height: 42px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  padding: 0.62rem 0.85rem !important;
+  border-radius: 8px !important;
+  border: 1px solid transparent !important;
+  background: transparent !important;
+  text-decoration: none !important;
+}
+
+html.dark .masthead .greedy-nav .visible-links > li > a {
+  color: #e2e8f0 !important;
+}
+
+.masthead .greedy-nav .visible-links > li > a:hover,
+.masthead .greedy-nav .visible-links > li > a:focus {
+  background: #e9f2fb !important;
+  border-color: #c8d8ea !important;
+  color: #0f4c81 !important;
+}
+
+html.dark .masthead .greedy-nav .visible-links > li > a:hover,
+html.dark .masthead .greedy-nav .visible-links > li > a:focus {
+  background: #161616 !important;
+  border-color: #2f2f2f !important;
+  color: #f1f5f9 !important;
+}
+
+/* Home icon */
+.enterprise-nav__brand {
+  width: 38px;
+  height: 38px;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border-radius: 8px;
+  border: 1px solid #c8d6e6 !important;
+  background: #f2f7fd !important;
+}
+
+html.dark .enterprise-nav__brand {
+  border-color: #3a3a3a !important;
+  background: var(--header-dark) !important;
+}
+
+.site-brand__home {
+  font-size: 0.95rem;
+}
+
+/* Auto overflow menu button on right */
+.masthead .greedy-nav > button {
+  margin-left: 0 !important;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 40px;
+  height: 40px;
+  border-radius: 8px !important;
+  border: 1px solid #c8d6e6 !important;
+  background: #f2f7fd !important;
+  box-shadow: none !important;
+}
+
+html.dark .masthead .greedy-nav > button {
+  border-color: #3a3a3a !important;
+  background: var(--header-dark) !important;
+}
+
+/* Hidden links dropdown */
+.masthead .greedy-nav .hidden-links {
+  border: 1px solid var(--header-border-light) !important;
+  border-radius: 10px !important;
+  background: var(--header-light) !important;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12) !important;
+}
+
+html.dark .masthead .greedy-nav .hidden-links {
+  border-color: #2f2f2f !important;
+  background: var(--header-dark) !important;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35) !important;
+}
+
+.masthead .greedy-nav .hidden-links a {
+  color: #1f2937 !important;
+}
+
+html.dark .masthead .greedy-nav .hidden-links a {
+  color: #e2e8f0 !important;
+}
+
+/* Sidebar tightening + remove Follow button */
+.sidebar {
+  width: 230px !important;
+  min-width: 220px !important;
+  max-width: 240px !important;
+  padding: 16px !important;
+}
+
+.author__urls-wrapper .btn,
+.author__urls-wrapper .btn--inverse,
+.author__urls-wrapper .btn--primary {
+  display: none !important;
+}
+
+.author__name,
+.author__bio,
+.author__urls a {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+/* Floating controls */
+.theme-toggle-nav,
+.accessibility-toggle,
+.color-switcher-toggle {
+  min-width: 154px !important;
+  min-height: 40px !important;
+  padding: 9px 14px !important;
+  font-size: 0.92rem !important;
+  font-weight: 600 !important;
+  justify-content: center !important;
+}
+
+/* Keep dark/accessibility on right */
+.theme-toggle-nav {
+  right: 22px !important;
+  bottom: 20px !important;
+}
+
+#accessibility-controls,
+.accessibility-controls {
+  right: 22px !important;
+  bottom: 92px !important;
+}
+
+/* Move colors to left with matched size */
+.color-switcher {
+  left: 22px !important;
+  right: auto !important;
+  bottom: 8px !important;
+  z-index: 9998;
+}
+
+.color-switcher .color-menu {
+  left: 0 !important;
+  right: auto !important;
+}
+
+@media (max-width: 1024px) {
+  .masthead__inner-wrap {
+    padding-left: 1.35rem !important;
+    padding-right: 1rem !important;
+  }
+
+  .masthead .greedy-nav .visible-links > li > a {
+    font-size: 0.96rem !important;
+    padding: 0.56rem 0.64rem !important;
+  }
+
+  .masthead .greedy-nav .visible-links {
+    padding-right: 46px;
+  }
+
+  .sidebar {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+  }
+}
+
+@media (max-width: 640px) {
+  .theme-toggle-nav,
+  .accessibility-toggle,
+  .color-switcher-toggle {
+    min-width: 150px !important;
+    width: auto !important;
+    min-height: 42px !important;
+    padding: 10px 14px !important;
+  }
+
+  .color-switcher {
+    left: 12px !important;
+    bottom: 6px !important;
+  }
+
+  .theme-toggle-nav {
+    right: 12px !important;
+    bottom: 16px !important;
+  }
+
+  #accessibility-controls,
+  .accessibility-controls {
+    right: 12px !important;
+    bottom: 82px !important;
+  }
+}
