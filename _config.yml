@@ -103,6 +103,16 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Sass warning controls (keeps local serve output readable)
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - if-function
+    - global-builtin
+    - slash-div
+    - color-functions
+
 # Breadcrumbs
 breadcrumbs: true
 

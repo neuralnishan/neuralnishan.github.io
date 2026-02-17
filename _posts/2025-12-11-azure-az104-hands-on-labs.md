@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Azure Hands-On Labs: AZ-104 — Walkthrough Playlist"
 date: 2025-12-11 00:00:00 +0000
 tags: [azure, az104, hands-on, tutorial, youtube]
