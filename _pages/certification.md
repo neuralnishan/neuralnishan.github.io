@@ -30,6 +30,15 @@ redirect_from:
 | DP-100 | Microsoft Certified: Azure Data Scientist Associate | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a2c48d4c8739efa2) | [View](/files/microsoft/microsoft_azure_data_scientist_associate_dp_100_certificate.png) | 2024-04-28 | 2027-04-28 |
 | AI-900 | Microsoft Certified: Azure AI Fundamentals | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [View](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png) | 2023-08-08 | No Expiration |
 
+### Microsoft Applied Skills
+
+| Code | Applied Skill | Verification | Certificate | Date Obtained | Expiration |
+|------|---------------|--------------|-------------|---------------|------------|
+| APL-6501 | Microsoft Applied Skills: Generate reports with AI research agents | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a6a869507d924b65) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Generate reports with AI research agents.png) | 2026-01-09 | No Expiration |
+| DP-604 | Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bfe40a3e91369fb1) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Implement a data science and machine learning solution with Microsoft Fabric.png) | 2024-12-24 | No Expiration |
+| AI-3002 | Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/51e23d9da965588f) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png) | 2024-12-18 | No Expiration |
+| AI-3003 | Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png) | 2024-12-15 | No Expiration |
+
 ### Salesforce Certifications
 
 | Code | Certification | Verification | Certificate | Date Obtained | Expiration |
