@@ -6,6 +6,45 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+## Certification Summary
+
+### Microsoft Certifications
+
+| Code | Certification | Verification | Certificate | Date Obtained | Expiration |
+|------|---------------|--------------|-------------|---------------|------------|
+| AB-100 | Microsoft Certified: Agentic AI Business Solutions Architect | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/fc6c7570a7490575) | [View](/files/microsoft/microsoft_azure__agentic_ai_business_solutions_architect_expert_ab_100_certificate.png) | 2026-01-08 | 2027-01-08 |
+| MS-900 | Microsoft 365 Certified: Fundamentals | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/1aaa1818f8168b1) | [View](/files/microsoft/microsoft_365_certified_fundamentals_ms_900_certificate.png) | 2025-10-17 | No Expiration |
+| PL-300 | Microsoft Certified: Power BI Data Analyst Associate | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/81ab184bb00e00be) | [View](/files/microsoft/microsoft_certified_power_bi_data_analyst_associate_pl_300_certificate.png) | 2025-10-13 | 2026-10-14 |
+| SC-100 | Microsoft Certified: Cybersecurity Architect Expert | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cbbf1932f8214f3) | [View](/files/microsoft/microsoft_certified_cybersecurity_architect_expert_sc_100_certificate.png) | 2025-10-12 | 2026-10-13 |
+| DP-600 | Microsoft Certified: Fabric Analytics Engineer Associate | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/f1975c324cca3794) | [View](/files/microsoft/microsoft_azure_fabric_analytics_engineer_associate_dp_600_certificate.jpg) | 2025-10-11 | 2026-10-12 |
+| AZ-500 | Microsoft Certified: Azure Security Engineer Associate | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/24278eed802ab4a7) | [View](/files/microsoft/microsoft_certified_azure_security_engineer_associate_az_500_certificate.png) | 2025-10-10 | 2026-10-11 |
+| DP-300 | Microsoft Certified: Azure Database Administrator Associate | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/86ba0be9bf8d506b) | [View](/files/microsoft/microsoft_azure_database_aministrator_associate_dp_300_certificate.png) | 2025-10-09 | 2026-10-10 |
+| AZ-400 | Microsoft Certified: Azure DevOps Engineer Expert | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/392c9cde0e967602) | [View](/files/microsoft/microsoft_azure_DevOps_engineer_expert._certificate.png) | 2025-10-08 | 2026-10-09 |
+| DP-420 | Microsoft Certified: Azure Cosmos DB Developer Specialty | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/e416a0a1c0a38946) | [View](/files/microsoft/microsoft_azure_cosmos_DB_developer_specialty_dp_420_certficate.png) | 2025-10-07 | 2026-10-08 |
+| AZ-204 | Microsoft Certified: Azure Developer Associate | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/93d8b03b2eae81c8) | [View](/files/microsoft/microsoft_certified_azure_developer_associate_az_204_certificate.png) | 2025-10-07 | 2026-10-07 |
+| AZ-305 | Microsoft Certified: Azure Solutions Architect Expert | [Verify](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/BBB34331FCB74DB7) | [View](/files/microsoft/microsoft_azure_solutions_architect_expert_az_305_certificate.png) | 2025-10-05 | 2026-10-06 |
+| AZ-104 | Microsoft Certified: Azure Administrator Associate | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bae96e1b17f4524) | [View](/files/microsoft/microsoft_azure_administrator_associate_az104_certificate.png) | 2025-10-04 | 2026-10-05 |
+| DP-700 | Microsoft Certified: Fabric Data Engineer Associate | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/d61411166c394a7a) | [View](/files/microsoft/microsoft_azure_fabric_data_engineer_associate_dp_700_certificate.png) | 2025-06-24 | 2027-06-25 |
+| DP-203 | Microsoft Certified: Azure Data Engineer Associate | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cc036a4b7affc9ae) | [View](/files/microsoft/microsoft_azure_data_engineer_associate_dp_203_certificate.png) | 2024-11-28 | 2025-11-28 |
+| AI-102 | Microsoft Certified: Azure AI Engineer Associate | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/cab2713e62f9049a) | [View](/files/microsoft/microsoft_azure_ai_engineer_associate_ai_102_certificate.png) | 2024-04-30 | 2027-04-30 |
+| DP-100 | Microsoft Certified: Azure Data Scientist Associate | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a2c48d4c8739efa2) | [View](/files/microsoft/microsoft_azure_data_scientist_associate_dp_100_certificate.png) | 2024-04-28 | 2027-04-28 |
+| AI-900 | Microsoft Certified: Azure AI Fundamentals | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [View](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png) | 2023-08-08 | No Expiration |
+
+### Salesforce Certifications
+
+| Code | Certification | Verification | Certificate | Date Obtained | Expiration |
+|------|---------------|--------------|-------------|---------------|------------|
+| AFS-201 | Salesforce Agentforce Specialist | [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm) | [View](/files/salesforce/salesforce_agentforce_specialist.png) | 2025-06-21 | No Expiration |
+| N/A | Salesforce AI Associate | [Verify](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm) | [View](/files/salesforce/salesforce_ai_associate_cert.png) | 2024-11-28 | No Expiration |
+
+### Astronomer Certifications
+
+| Code | Certification | Verification | Certificate | Date Obtained | Expiration |
+|------|---------------|--------------|-------------|---------------|------------|
+| DAG Authoring (Airflow 3) | Astronomer Certification DAG Authoring for Apache Airflow 3 | [Verify](https://www.credly.com/go/UFsNYksz) | [View](/files/astronomer/certificates/AstronomerCertificationDAGAuthoringforApacheAirflow3.png) | 2025-09-18 | No Expiration |
+| Airflow 101 (Airflow 3) | Astronomer Certification for Apache Airflow 3 Fundamentals | [Verify](https://www.credly.com/go/lnUPGtX2) | [View](/files/astronomer/certificates/astronomer_certification_for_apache_airflow_3_fundamentals.png) | 2025-09-18 | No Expiration |
+
+---
 # Microsoft Azure Certifications 
 ### Microsoft Certified: Agentic AI Business Solutions Architect   
 
