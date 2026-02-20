@@ -5,9 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also visit <u><a href="{{author.googlescholar}}">my Google Scholar profile</a></u>.
-{% endif %}
+This section highlights selected AI, computer vision, and data-focused projects, including problem context, implementation approach, and demo artifacts.
 
 {% include base_path %}
 

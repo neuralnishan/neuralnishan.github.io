@@ -1,7 +1,7 @@
 # Jekyll Configuration
 
 # Site settings
-title: Nishan | Azure AI & Data Solutions Architect
+title: S M G Arafat N. 
 email: neuralnishan@protonmail.com
 logo: /images/pro_pic_4.png
 timezone: Europe/Berlin
@@ -10,10 +10,10 @@ author:
   avatar: /images/pro_pic_7.png
   uri: http://neuralnishan.space
   email: neuralnishan@protonmail.com
-  bio: Azure AI & Data Solutions Architect @NUL
-  location: Neural Universe Lab, NUL
+  bio: Azure AI and Data Solutions Architect  @NUL
+  location: Neural Universe Lab, (NUL)
   github: neuralnishan
-  linkedin: neuralnishan
+  linkedin: smnishan
   twitter: neuralnishan
   url: http://neuralnishan.space
 
@@ -133,3 +133,6 @@ exclude:
   - .bundle
   - Gemfile
   - Gemfile.lock
+
+
+
