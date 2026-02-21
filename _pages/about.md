@@ -41,15 +41,10 @@ I have 3+ years of hands-on Azure experience, with continuous upskilling through
 - **Salesforce Certifications:** Agentforce Specialist, AI Associate
 - **Apache Airflow Certifications:** DAG Authoring (Airflow 3), Airflow Fundamentals (Airflow 3)
 
-![Microsoft Certification Track](/files/microsoft/mslogos/azure_certification_logos.png)
-
-## Professional Links
-
-- [Certifications](/certification/)
-- [Specializations](/specialization/)
-- [Projects](/projects/)
-- [Achievements](/achievements/)
-- [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero)
+<div style="text-align: center;">
+  <img src="/files/microsoft/mslogos/m365-copilot-agents.png" alt="M365 Copilot + Agents Badge" width="260" style="display:block; margin: 0 auto 16px auto; max-width: 100%; height: auto;">
+  <img src="/files/microsoft/mslogos/azure_certification_logos.png" alt="Microsoft Certification Track" width="760" style="display:block; margin: 0 auto; max-width: 100%; height: auto;">
+</div>
 
 ## Contact
 
@@ -57,5 +52,3 @@ I have 3+ years of hands-on Azure experience, with continuous upskilling through
 - **Secondary:** Microsoft Form: [Submit your query](https://forms.office.com/r/1S5HQET81s)
 
 For collaboration, consulting, or project discussions, email is the fastest channel.
-
-

@@ -8,6 +8,12 @@ redirect_from:
 ---
 ## Certification Summary
 
+### Microsoft Trainings
+
+| Code | Applied Skill | Verification | Certificate | Date Obtained | Expiration |
+|------|---------------|--------------|-------------|---------------|--------|
+| N/A (Badge) | M365 Copilot + Agents (Microsoft GCPS) | [Verify](https://www.credly.com/badges/1943b6fc-cc0d-43e7-a771-5b526fb7a13d) | [View](/files/microsoft/mslogos/m365-copilot-agents.png) | 2026-02-21 | No Expiration |
+
 ### Microsoft Certifications
 
 | Code | Certification | Verification | Certificate | Date Obtained | Expiration |
@@ -399,6 +405,9 @@ redirect_from:
 - Business and Productivity Tools and Salesforce Customer 360  
 
 > Salesforce AI Certification Verification Link: [link](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=HMSujjN0DbOGNwNFaf7BSWxyKIszZyh9j11hwWmMXFh9w2//9/YntgBFH4fuDrXm  "Salesforce").
+
+
+
 
 
 
