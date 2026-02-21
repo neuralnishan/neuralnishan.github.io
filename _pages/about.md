@@ -11,7 +11,7 @@ redirect_from:
 
 Hi there, It's **Nishan**, an **Azure AI and Data Solutions Architect** focused on building practical, production-ready solutions across data engineering, machine learning, and cloud platforms.
 
-My work combines strong foundations in **AI/ML**, **data systems**, and **cloud architecture**. I am especially interested in **applied NLP**, **computer vision**, **MLOps**, and **enterprise AI implementation** on Azure.
+His work combines strong foundations in **AI/ML**, **data systems**, and **cloud architecture**. I am especially interested in **applied NLP**, **computer vision**, **MLOps**, and **enterprise AI implementation** on Azure.
 
 He has over 3 years of hands-on Azure experience, with continuous upskilling through Microsoft Learn, instructor-led live training, Microsoft Applied Skills, hands-on training from Technofocus.ai, hands-on Azure labs from Skillable, and project-based Azure implementations that deliver production-ready, impactful solutions.
 
