@@ -42,7 +42,6 @@ He has over 3 years of hands-on Azure experience, with continuous upskilling thr
 - **Apache Airflow Certifications:** DAG Authoring (Airflow 3), Airflow Fundamentals (Airflow 3)
 
 <div style="text-align: center;">
-  <img src="/files/microsoft/mslogos/m365-copilot-agents.png" alt="M365 Copilot + Agents Badge" width="260" style="display:block; margin: 0 auto 16px auto; max-width: 100%; height: auto;">
   <img src="/files/microsoft/mslogos/azure_certification_logos.png" alt="Microsoft Certification Track" width="760" style="display:block; margin: 0 auto; max-width: 100%; height: auto;">
 </div>
 
