@@ -10,7 +10,7 @@ redirect_from:
 
 ### Microsoft Trainings
 
-| Code | Applied Skill | Verification | Certificate | Date Obtained | Expiration |
+| Code | Training Name | Verification | Certificate | Date Obtained | Expiration |
 |------|---------------|--------------|-------------|---------------|--------|
 | Badge |M365 Copilot + Agents -​ Sales Proficient (Microsoft GCPS) | [Verify](https://www.credly.com/badges/c6ee752c-b500-472d-8294-4a279b64698c/public_url) | [View](/files/microsoft/mslogos/m365-copilot-agents.2.png) | 2026-02-25 | No Expiration |
 | Badge |Simplify agent development with Copilot Studio -​ Project Ready Proficient (Microsoft GCPS) | [Verify](https://www.credly.com/badges/021bebd6-82b6-4c49-bef6-552c0dfa2270/public_url) | [View](/files/microsoft/mslogos/simplify-agent-development-with-copilot-studio-prof.png) | 2026-02-23 | No Expiration |
