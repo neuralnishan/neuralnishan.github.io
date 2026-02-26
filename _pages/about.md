@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Hi there, It's **Nishan**, an **Azure AI and Data Solutions Architect** focused on building practical, production-ready solutions across data engineering, machine learning, and cloud platforms. His work combines strong foundations in **AI/ML**, **data systems**, and **cloud architecture**. He is especially interested in **applied NLP**, **computer vision**, **MLOps**, and **enterprise AI implementation** on Azure.
+Hi there, It's **Nishan**, an **Azure AI and Data Solutions Architect** focused on building practical, production-ready solutions across data engineering, machine learning, and cloud platforms. His work combines strong foundations in **AI/ML**, and **Cloud Architecture**. He is especially interested in **Applied NLP**, **Computer Vision**, **MLOps**, and **Enterprise AI implementation** on Azure.
 
 He has over 3 years of hands-on Azure experience, with continuous upskilling through Microsoft Learn, instructor-led live training, Microsoft Applied Skills, hands-on training from Technofocus.ai, hands-on Azure labs from Skillable, and project-based Azure implementations that deliver production-ready, impactful solutions.
 
@@ -27,9 +27,9 @@ He has over 3 years of hands-on Azure experience, with continuous upskilling thr
 |----------|---------|
 | **Programming** | Python, SQL, R |
 | **Cloud** | Microsoft Azure, Microsoft Fabric, Salesforce (AI/Agentforce) |
-| **ML/AI** | TensorFlow, PyTorch, scikit-learn, NLTK, OpenCV, MLflow |
-| **Data Engineering** | Pandas, Polars, NumPy, Apache Spark, dbt, Apache Airflow |
-| **Visualization** | Power BI, Matplotlib, Seaborn |
+| **ML/AI** | TensorFlow, PyTorch, Scikit-learn, MLflow |
+| **Data Engineering** | Pandas, NumPy, Apache Spark, dbt, Apache Airflow |
+| **Visualization** | Power BI |
 | **DevOps** | Docker, Kubernetes, Git, GitHub, CI/CD |
 | **Methods** | A/B Testing, ETL/ELT, Data Modeling, Statistical Analysis, MLOps |
 

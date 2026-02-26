@@ -33,10 +33,10 @@ Azure AI and Data professional with experience in analytics, machine learning wo
 ## Technical Skills
 
 - **Languages:** Python, SQL, R
-- **Data/ML:** scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Spark
+- **Data/ML:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Apache Spark
 - **Pipelines & Orchestration:** Apache Airflow, ETL/ELT
 - **Visualization:** Power BI, Tableau, Matplotlib
-- **Cloud:** Microsoft Azure, Microsoft Fabric, Azure Cosmos DB
+- **Cloud:** Microsoft Azure
 - **Tools:** Git, GitHub, Docker, Kubernetes, Jupyter Notebook
 
 ## Projects
