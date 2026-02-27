@@ -12,7 +12,8 @@ redirect_from:
 
 | Code | Training Name | Verification | Certificate | Date Obtained | Expiration |
 |------|---------------|--------------|-------------|---------------|--------|
-| Badge |AI Workforce-Titan -​ Sales Ready Titan(Microsoft GCPS) | [Verify](https://www.credly.com/badges/c8b4203c-c223-46cf-92b9-c00270735b0a/public_url) | [View](/files/microsoft/mslogos/ai-workforce-titan.png) | 2026-02-25 | No Expiration |
+| Badge |Azure: Migrate and Modernize - Proficient (Microsoft GCPS) | [Verify](https://www.credly.com/badges/b2e6b42e-b926-4d5b-8b87-04ea6b185448/public_url) | [View](/files/microsoft/mslogos/azure-migrate-and-modernize-proficient.png) | 2026-02-27 | No Expiration |
+| Badge |AI Workforce-Titan -​ Sales Ready Titan (Microsoft GCPS) | [Verify](https://www.credly.com/badges/c8b4203c-c223-46cf-92b9-c00270735b0a/public_url) | [View](/files/microsoft/mslogos/ai-workforce-titan.png) | 2026-02-25 | No Expiration |
 | Badge |M365 Copilot + Agents -​ Sales Proficient (Microsoft GCPS) | [Verify](https://www.credly.com/badges/c6ee752c-b500-472d-8294-4a279b64698c/public_url) | [View](/files/microsoft/mslogos/m365-copilot-agents.2.png) | 2026-02-25 | No Expiration |
 | Badge |Simplify agent development with Copilot Studio -​ Project Ready Proficient (Microsoft GCPS) | [Verify](https://www.credly.com/badges/021bebd6-82b6-4c49-bef6-552c0dfa2270/public_url) | [View](/files/microsoft/mslogos/simplify-agent-development-with-copilot-studio-prof.png) | 2026-02-23 | No Expiration |
 | Badge | M365 Copilot + Agents - Technical Proficient (Microsoft  GCPS) | [Verify](https://www.credly.com/badges/1943b6fc-cc0d-43e7-a771-5b526fb7a13d) | [View](/files/microsoft/mslogos/m365-copilot-agents.png) | 2026-02-21 | No Expiration |
