@@ -36,6 +36,7 @@ He has over 3 years of hands-on Azure experience, with continuous upskilling thr
 ## Credentials Snapshot
 
 - **Microsoft Certifications:** AB-100, SC-100, AZ-500, AZ-400, AZ-305, AZ-204, AZ-104, PL-300, DP-700, DP-600, DP-420, DP-300, DP-203, DP-100, AI-102, AI-900, MS-900
+- **Microsoft Learn Transcript:** [View Transcript](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/transcript/d5y6ghp168eyero)
 - **Salesforce Certifications:** Agentforce Specialist, AI Associate
 - **Apache Airflow Certifications:** DAG Authoring (Airflow 3), Airflow Fundamentals (Airflow 3)
 
