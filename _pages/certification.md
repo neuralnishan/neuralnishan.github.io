@@ -12,11 +12,24 @@ redirect_from:
 
 | Code | Training Name | Verification | Certificate | Date Obtained | Expiration |
 |------|---------------|--------------|-------------|---------------|--------|
+| Badge |Sell with confidence: Unify and grow your business with Microsoft Fabric - Proficient (Microsoft GCPS)| [Verify](https://www.credly.com/badges/e67acc4a-273d-46cd-8fcb-b515b8b0562e/public_url) | [View](/files/microsoft/mslogos/sell-with-confidence-unify-and-grow-your-business-w.png) | 2026-03-01 | No Expiration |
 | Badge |Azure: Migrate and Modernize - Proficient (Microsoft GCPS) | [Verify](https://www.credly.com/badges/b2e6b42e-b926-4d5b-8b87-04ea6b185448/public_url) | [View](/files/microsoft/mslogos/azure-migrate-and-modernize-proficient.png) | 2026-02-27 | No Expiration |
 | Badge |AI Workforce-Titan -​ Sales Ready Titan (Microsoft GCPS) | [Verify](https://www.credly.com/badges/c8b4203c-c223-46cf-92b9-c00270735b0a/public_url) | [View](/files/microsoft/mslogos/ai-workforce-titan.png) | 2026-02-25 | No Expiration |
 | Badge |M365 Copilot + Agents -​ Sales Proficient (Microsoft GCPS) | [Verify](https://www.credly.com/badges/c6ee752c-b500-472d-8294-4a279b64698c/public_url) | [View](/files/microsoft/mslogos/m365-copilot-agents.2.png) | 2026-02-25 | No Expiration |
 | Badge |Simplify agent development with Copilot Studio -​ Project Ready Proficient (Microsoft GCPS) | [Verify](https://www.credly.com/badges/021bebd6-82b6-4c49-bef6-552c0dfa2270/public_url) | [View](/files/microsoft/mslogos/simplify-agent-development-with-copilot-studio-prof.png) | 2026-02-23 | No Expiration |
 | Badge | M365 Copilot + Agents - Technical Proficient (Microsoft  GCPS) | [Verify](https://www.credly.com/badges/1943b6fc-cc0d-43e7-a771-5b526fb7a13d) | [View](/files/microsoft/mslogos/m365-copilot-agents.png) | 2026-02-21 | No Expiration |
+
+### Microsoft Applied Skills
+
+| Code | Applied Skill | Verification | Certificate | Date Obtained | Expiration |
+|------|---------------|--------------|-------------|---------------|------------|
+| APL| Microsoft Applied Skills: Create an AI agent | [Verify](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/DD8BA1F8FB604C68) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Create an AI agent.jpg) | 2026-02-28 | No Expiration |
+| APL| Microsoft Applied Skills: Get started with cloud security and monitoring tasks | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bdc0a2d92d552614) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Get started with cloud security and monitoring tasks.png) | 2026-02-28 | No Expiration |
+| APL| Microsoft Applied Skills: Streamline business workflows with AI chat | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/8F23F60DCDC3164?sharingId=A489942037851738) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Streamline business workflows with AI chat.png) | 2026-02-28 | No Expiration |
+| APL-6501 | Microsoft Applied Skills: Generate reports with AI research agents | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a6a869507d924b65) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Generate reports with AI research agents.png) | 2026-01-09 | No Expiration |
+| DP-604 | Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bfe40a3e91369fb1) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Implement a data science and machine learning solution with Microsoft Fabric.png) | 2024-12-24 | No Expiration |
+| AI-3002 | Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/51e23d9da965588f) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png) | 2024-12-18 | No Expiration |
+| AI-3003 | Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png) | 2024-12-15 | No Expiration |
 
 ### Microsoft Certifications
 
@@ -40,17 +53,6 @@ redirect_from:
 | DP-100 | Microsoft Certified: Azure Data Scientist Associate | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a2c48d4c8739efa2) | [View](/files/microsoft/microsoft_azure_data_scientist_associate_dp_100_certificate.png) | 2024-04-28 | 2027-04-28 |
 | AI-900 | Microsoft Certified: Azure AI Fundamentals | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/26e51c20de6defe8) | [View](/files/microsoft/microsoft_azure_ai_fundamentals_ai_900_certificate.png) | 2023-08-08 | No Expiration |
 
-### Microsoft Applied Skills
-
-| Code | Applied Skill | Verification | Certificate | Date Obtained | Expiration |
-|------|---------------|--------------|-------------|---------------|------------|
-| APL| Microsoft Applied Skills: Create an AI agent | [Verify](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/DD8BA1F8FB604C68) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Create an AI agent.jpg) | 2026-02-28 | No Expiration |
-| APL| Microsoft Applied Skills: Get started with cloud security and monitoring tasks | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bdc0a2d92d552614) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Get started with cloud security and monitoring tasks.png) | 2026-02-28 | No Expiration |
-| APL| Microsoft Applied Skills: Streamline business workflows with AI chat | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/SMGazzaliArafatNishan-4645/8F23F60DCDC3164?sharingId=A489942037851738) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Streamline business workflows with AI chat.png) | 2026-02-28 | No Expiration |
-| APL-6501 | Microsoft Applied Skills: Generate reports with AI research agents | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a6a869507d924b65) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Generate reports with AI research agents.png) | 2026-01-09 | No Expiration |
-| DP-604 | Microsoft Applied Skills: Implement a data science and machine learning solution with Microsoft Fabric | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bfe40a3e91369fb1) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Implement a data science and machine learning solution with Microsoft Fabric.png) | 2024-12-24 | No Expiration |
-| AI-3002 | Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/51e23d9da965588f) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Create an intelligent document processing solution with Azure AI Document Intelligence.png) | 2024-12-18 | No Expiration |
-| AI-3003 | Microsoft Applied Skills: Build a natural language processing solution with Azure AI Language | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/a88fadd020e0d31b) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Build a natural language processing solution with Azure AI Language.png) | 2024-12-15 | No Expiration |
 
 ### Salesforce Certifications
 
