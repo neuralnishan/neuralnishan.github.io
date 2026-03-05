@@ -24,6 +24,7 @@ redirect_from:
 
 | Code | Applied Skill | Verification | Certificate | Date Obtained | Expiration |
 |------|---------------|--------------|-------------|---------------|------------|
+| APL| Microsoft Applied Skills: Build a generative AI chat app | [Verify](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/713A77F93EB74C51) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Get started with Azure management tasks.jpg) | 2026-03-05 | No Expiration |
 | APL| Microsoft Applied Skills: Get started with Azure management tasks | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/14849adc91bbb9a8) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Get started with Azure management tasks.jpg) | 2026-03-01 | No Expiration |
 | APL| Microsoft Applied Skills: Create an AI agent | [Verify](https://learn.microsoft.com/en-us/users/SMGazzaliArafatNishan-4645/credentials/DD8BA1F8FB604C68) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Create an AI agent.jpg) | 2026-02-28 | No Expiration |
 | APL| Microsoft Applied Skills: Get started with cloud security and monitoring tasks | [Verify](https://learn.microsoft.com/en-us/users/smgazzaliarafatnishan-4645/credentials/bdc0a2d92d552614) | [View](/files/microsoft/appliedskills/Microsoft Applied Skills Get started with cloud security and monitoring tasks.png) | 2026-02-28 | No Expiration |
