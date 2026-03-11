@@ -1,4 +1,4 @@
 bundle install
+bundle clean force--
 bundle exec jekyll build
 bundle exec jekyll serve
-bundle clean force--
