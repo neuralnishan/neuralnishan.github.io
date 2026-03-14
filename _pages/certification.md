@@ -12,6 +12,7 @@ redirect_from:
 
 | Training Name | Verification | Certificate | Date Obtained | Expiration |
 |---------------|--------------|-------------|---------------|--------|
+|Implement with impact: Implement Microsoft Security Copilot - Proficient| [Verify](https://www.credly.com/badges/aab78c6f-487a-4efc-8024-b3c50928ac80/public_url) | [View](/files/microsoft/mslogos/implement-with-impact-implement-microsoft-security-.png) | 2026-03-14 | No Expiration |
 |Implement with impact: Elevate user productivity with Microsoft 365 Copilot (End user training) - Proficient| [Verify](https://www.credly.com/badges/e43dca48-a311-4664-b0c0-dd4c1db70801) | [View](/files/microsoft/mslogos/implement-with-impact-elevate-user-productivity-wit.png) | 2026-03-09 | No Expiration |
 |Pro Code with Copilot Studio - Proficient (Microsoft GCPS)| [Verify](https://www.credly.com/badges/ec1138d7-4739-4d18-af95-007877a85ded/public_url) | [View](/files/microsoft/mslogos/pro-code-with-copilot-studio-proficient.png) | 2026-03-05 | No Expiration |
 |Sell with confidence: Unify and grow your business with Microsoft Fabric - Proficient (Microsoft GCPS)| [Verify](https://www.credly.com/badges/e67acc4a-273d-46cd-8fcb-b515b8b0562e/public_url) | [View](/files/microsoft/mslogos/sell-with-confidence-unify-and-grow-your-business-w.png) | 2026-03-01 | No Expiration |
