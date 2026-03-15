@@ -12,6 +12,7 @@ redirect_from:
 
 | Training Name | Verification | Certificate | Date Obtained | Expiration |
 |---------------|--------------|-------------|---------------|--------|
+|Azure: Migrate and Modernize - Titan - (Microsoft GCPS) | [Verify](https://www.credly.com/badges/ffe8697d-e0fd-4185-abeb-ef6ea8ba6df3/public_url) | [View](/files/microsoft/mslogos/azure-migrate-and-modernize-titan.png) | 2026-03-15 | No Expiration |
 |Implement with impact: Implement Microsoft Security Copilot - Proficient| [Verify](https://www.credly.com/badges/aab78c6f-487a-4efc-8024-b3c50928ac80/public_url) | [View](/files/microsoft/mslogos/implement-with-impact-implement-microsoft-security-.png) | 2026-03-14 | No Expiration |
 |Implement with impact: Elevate user productivity with Microsoft 365 Copilot (End user training) - Proficient| [Verify](https://www.credly.com/badges/e43dca48-a311-4664-b0c0-dd4c1db70801) | [View](/files/microsoft/mslogos/implement-with-impact-elevate-user-productivity-wit.png) | 2026-03-09 | No Expiration |
 |Pro Code with Copilot Studio - Proficient (Microsoft GCPS)| [Verify](https://www.credly.com/badges/ec1138d7-4739-4d18-af95-007877a85ded/public_url) | [View](/files/microsoft/mslogos/pro-code-with-copilot-studio-proficient.png) | 2026-03-05 | No Expiration |
